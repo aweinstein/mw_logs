@@ -1,0 +1,1132 @@
+2014-01-18 11:38:53,993 RMS Soap Cliente created using http://10.69.208.124/Services/Server.svc?wsdl
+2014-01-18 11:38:53,995 Starting middleware
+2014-01-18 11:38:53,996 Listening to ip: 10.69.208.56, port: 50000, protocol: TCP
+2014-01-18 11:38:53,997 Listening to ip: 10.69.208.56, port: 50000, protocol: UDP
+2014-01-18 11:38:53,998 MW is alive
+2014-01-18 11:39:26,074 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:39:27,655 Id: 0006665505C2 index: 26 HR: 20 RR: 15 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:27,678 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:27,758 Id: 0006665505C2 index: 30 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:27,844 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:27,847 Id: 0006665505C2 index: 31 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:27,869 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:27,951 SOF or EOF of package does not match. Pckt=0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:25:23:0:6:66:55:5:c2:0:23:a0:0:14:0:11:81:1c:c9:0
+2014-01-18 11:39:28,003 Id: 0006665505C2 index: 36 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,104 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,164 Id: 0006665505C2 index: 40 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,185 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,240 Id: 0006665505C2 index: 42 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,260 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,311 Id: 0006665505C2 index: 44 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,327 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,407 Id: 0006665505C2 index: 46 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,427 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,487 Id: 0006665505C2 index: 48 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,502 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,570 Id: 0006665505C2 index: 50 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,585 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,651 Id: 0006665505C2 index: 52 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,672 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,731 Id: 0006665505C2 index: 54 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,762 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,818 Id: 0006665505C2 index: 56 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,836 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,894 Id: 0006665505C2 index: 58 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:28,910 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:28,995 Id: 0006665505C2 index: 60 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,011 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,072 Id: 0006665505C2 index: 62 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,094 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,152 Id: 0006665505C2 index: 64 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,168 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,231 Id: 0006665505C2 index: 66 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,247 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,307 Id: 0006665505C2 index: 68 HR: 20 RR: 17 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,318 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,402 Id: 0006665505C2 index: 4 HR: 20 RR: 12 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,431 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,477 Id: 0006665505C2 index: 6 HR: 20 RR: 12 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,494 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,574 Id: 0006665505C2 index: 8 HR: 20 RR: 12 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,603 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,645 Id: 0006665505C2 index: 10 HR: 20 RR: 12 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,661 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,713 Id: 0006665505C2 index: 12 HR: 20 RR: 12 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,727 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:39:29,753 Id: 0006665505C2 index: 13 HR: 20 RR: 12 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:39:29,769 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:40:54,968 Id: 0006665505C2 index: 2 HR: 28 RR: 14 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 11:40:54,991 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:40:57,134 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:41:05,477 Id: 0006665505BC index: 2 HR: 20 RR: 21 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 11:41:05,495 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 11:41:07,602 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:41:41,518 Id: 0006665505C2 index: 2 HR: 63 RR: 1 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 11:41:41,538 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:41:43,606 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:41:54,208 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:41:55,793 Id: 0006665505C2 index: 3 HR: 28 RR: 14 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 2
+2014-01-18 11:41:55,815 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:42:05,492 Id: 0006665505C2 index: 3 HR: 92 RR: 19 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 11:42:05,511 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:42:27,418 Id: 0006665505C2 index: 4 HR: 103 RR: 24 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 11:42:27,444 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:42:37,316 Id: 0006665505C2 index: 2 HR: 22 RR: 9 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 11:42:37,340 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:42:39,425 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:42:49,479 Id: 0006665505C2 index: 5 HR: 111 RR: 33 act: 9, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 11:42:49,501 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:42:51,579 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:42:54,731 Id: 0006665505C2 index: 6 HR: 111 RR: 33 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 57 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:42:54,766 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:43:16,724 Id: 0006665505C2 index: 7 HR: 112 RR: 35 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 57 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:43:16,748 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:43:38,657 Id: 0006665505C2 index: 8 HR: 118 RR: 37 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 57 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:43:38,680 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:44:00,655 Id: 0006665505C2 index: 9 HR: 119 RR: 39 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 57 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:44:00,679 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:44:22,629 Id: 0006665505C2 index: 10 HR: 124 RR: 41 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 57 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:44:22,653 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:44:24,743 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:44:27,848 Id: 0006665505C2 index: 11 HR: 124 RR: 41 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:44:27,884 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:44:49,947 Id: 0006665505C2 index: 12 HR: 142 RR: 43 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:44:49,966 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:45:00,177 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:45:01,757 Id: 0006665505C2 index: 3 HR: 22 RR: 14 act: 1, post: 3 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:45:01,778 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:45:01,832 Id: 0006665505C2 index: 7 HR: 22 RR: 16 act: 1, post: 3 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:45:01,952 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:45:02,018 Id: 0006665505C2 index: 11 HR: 22 RR: 16 act: 1, post: 3 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:45:02,036 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:45:02,096 Id: 0006665505C2 index: 13 HR: 22 RR: 16 act: 1, post: 3 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:45:02,111 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:45:02,177 Id: 0006665505C2 index: 15 HR: 22 RR: 16 act: 1, post: 3 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:45:02,195 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:45:11,851 Id: 0006665505C2 index: 13 HR: 149 RR: 42 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:45:11,865 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:45:33,914 Id: 0006665505C2 index: 14 HR: 149 RR: 44 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:45:33,931 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:45:55,962 Id: 0006665505C2 index: 15 HR: 149 RR: 46 act: 9, post: 2 T_amb: 28.0 T_corp: 23.0 batt: 53 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:45:55,989 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:45:58,144 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:46:01,370 Id: 0006665505C2 index: 16 HR: 149 RR: 46 act: 9, post: 2 T_amb: 28.0 T_corp: 24.0 batt: 57 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:46:01,395 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:46:23,581 Id: 0006665505C2 index: 17 HR: 149 RR: 46 act: 9, post: 2 T_amb: 28.0 T_corp: 24.0 batt: 57 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:46:23,602 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:47:30,887 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:47:32,483 Id: 0006665505C2 index: 18 HR: 149 RR: 46 act: 9, post: 2 T_amb: 28.0 T_corp: 24.0 batt: 57 rssi: -62 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:47:32,531 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:47:33,126 Id: 0006665505C2 index: 20 HR: 149 RR: 46 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 57 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:47:33,156 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:48:27,383 Id: 0006665505C2 index: 2 HR: 22 RR: 13 act: 1, post: 3 T_amb: 28.2 T_corp: 24.0 batt: 57 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:48:27,408 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:48:29,487 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:48:46,129 Id: 0006665505C2 index: 3 HR: 22 RR: 20 act: 1, post: 3 T_amb: 28.2 T_corp: 24.0 batt: 57 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:48:46,149 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:49:30,463 Id: 0006665505C2 index: 2 HR: 20 RR: 23 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 57 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:49:30,488 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:49:32,568 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:49:54,509 Id: 0006665505C2 index: 3 HR: 20 RR: 26 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 57 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:49:54,528 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:50:16,472 Id: 0006665505C2 index: 4 HR: 20 RR: 32 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 57 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:50:16,494 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:50:38,514 Id: 0006665505C2 index: 5 HR: 20 RR: 35 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 57 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:50:38,535 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:50:40,622 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:50:43,720 Id: 0006665505C2 index: 6 HR: 20 RR: 35 act: 9, post: 2 T_amb: 28.0 T_corp: 24.0 batt: 57 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:50:43,750 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:51:05,707 Id: 0006665505C2 index: 7 HR: 20 RR: 38 act: 9, post: 2 T_amb: 28.0 T_corp: 24.0 batt: 57 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:51:05,724 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:51:27,690 Id: 0006665505C2 index: 8 HR: 20 RR: 39 act: 9, post: 2 T_amb: 28.0 T_corp: 24.0 batt: 57 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:51:27,714 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:51:49,682 Id: 0006665505C2 index: 9 HR: 20 RR: 41 act: 9, post: 2 T_amb: 28.0 T_corp: 24.0 batt: 57 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:51:49,705 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:52:11,671 Id: 0006665505C2 index: 10 HR: 20 RR: 43 act: 9, post: 2 T_amb: 28.0 T_corp: 24.0 batt: 57 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:52:11,695 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:52:13,794 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:52:16,969 Id: 0006665505C2 index: 11 HR: 20 RR: 43 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:52:16,993 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:52:38,924 Id: 0006665505C2 index: 12 HR: 20 RR: 43 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:52:38,950 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:53:00,888 Id: 0006665505C2 index: 13 HR: 20 RR: 43 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:53:00,908 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:53:22,901 Id: 0006665505C2 index: 14 HR: 20 RR: 43 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:53:22,923 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:53:44,975 Id: 0006665505C2 index: 15 HR: 20 RR: 44 act: 9, post: 2 T_amb: 28.2 T_corp: 24.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:53:44,997 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:53:47,086 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:53:50,213 Id: 0006665505C2 index: 16 HR: 20 RR: 44 act: 9, post: 2 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:53:50,245 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:12,271 Id: 0006665505C2 index: 17 HR: 20 RR: 45 act: 9, post: 2 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:54:12,360 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:34,385 Id: 0006665505C2 index: 18 HR: 20 RR: 45 act: 9, post: 2 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:54:34,410 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:55,146 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:54:56,476 Id: 0006665505C2 index: 19 HR: 20 RR: 46 act: 9, post: 2 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:54:56,500 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:56,737 Id: 0006665505C2 index: 18 HR: 23 RR: 8 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:56,750 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:56,819 Id: 0006665505C2 index: 23 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:56,891 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:56,951 Id: 0006665505C2 index: 26 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:56,966 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,043 Id: 0006665505C2 index: 29 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,058 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,170 Id: 0006665505C2 index: 30 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,184 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,185 Id: 0006665505C2 index: 31 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,200 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,202 Id: 0006665505C2 index: 32 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,216 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,287 Id: 0006665505C2 index: 34 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,309 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,311 Id: 0006665505C2 index: 35 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,325 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,389 Id: 0006665505C2 index: 37 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,408 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,476 Id: 0006665505C2 index: 39 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,491 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,563 Id: 0006665505C2 index: 41 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,592 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,645 Id: 0006665505C2 index: 43 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,659 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,721 Id: 0006665505C2 index: 45 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,742 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,820 Id: 0006665505C2 index: 47 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,834 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,887 Id: 0006665505C2 index: 49 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,900 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:57,969 Id: 0006665505C2 index: 51 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:57,984 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,055 Id: 0006665505C2 index: 53 HR: 22 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,075 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,147 Id: 0006665505C2 index: 55 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,175 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,257 Id: 0006665505C2 index: 57 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,276 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,349 Id: 0006665505C2 index: 60 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,366 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,424 Id: 0006665505C2 index: 62 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,452 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,497 Id: 0006665505C2 index: 64 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,518 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,611 SOF or EOF of package does not match. Pckt=0:0:0:0:0:0:0:0:0:25:23:0:6:66:55:5:c2:0:42:a0:0:15:0:f:0:1c:ae:0:0:0:0:0:0:0:0:0:0:0:0:0
+2014-01-18 11:54:58,699 Id: 0006665505C2 index: 68 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,717 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,747 Id: 0006665505C2 index: 70 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,767 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,849 Id: 0006665505C2 index: 72 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,866 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:58,928 Id: 0006665505C2 index: 74 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:58,950 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,004 Id: 0006665505C2 index: 76 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,017 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,208 Id: 0006665505C2 index: 78 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,225 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,316 Id: 0006665505C2 index: 83 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,334 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,417 Id: 0006665505C2 index: 86 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,434 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,493 Id: 0006665505C2 index: 88 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,508 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,583 Id: 0006665505C2 index: 90 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,601 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,676 Id: 0006665505C2 index: 92 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,692 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,765 Id: 0006665505C2 index: 94 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,786 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,848 Id: 0006665505C2 index: 96 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,885 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:54:59,887 Id: 0006665505C2 index: 97 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:54:59,951 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,073 Id: 0006665505C2 index: 102 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,109 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,179 Id: 0006665505C2 index: 104 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,234 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,288 Id: 0006665505C2 index: 107 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,318 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,369 Id: 0006665505C2 index: 109 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,392 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,448 Id: 0006665505C2 index: 111 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,476 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,525 Id: 0006665505C2 index: 113 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,543 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,604 Id: 0006665505C2 index: 115 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,626 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,697 Id: 0006665505C2 index: 117 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,719 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,786 Id: 0006665505C2 index: 119 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,817 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:00,869 Id: 0006665505C2 index: 121 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:00,901 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:01,136 Id: 0006665505C2 index: 124 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:01,160 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:01,240 Id: 0006665505C2 index: 130 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:01,259 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:01,324 Id: 0006665505C2 index: 132 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:01,342 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:01,427 Id: 0006665505C2 index: 134 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:01,445 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:01,521 Id: 0006665505C2 index: 137 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:01,534 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:01,606 Id: 0006665505C2 index: 139 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:01,626 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:01,675 Id: 0006665505C2 index: 141 HR: 21 RR: 15 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 11:55:01,692 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:18,614 Id: 0006665505C2 index: 20 HR: 20 RR: 46 act: 9, post: 2 T_amb: 28.2 T_corp: 25.0 batt: 57 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:55:18,635 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:20,715 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 11:55:23,832 Id: 0006665505C2 index: 21 HR: 20 RR: 46 act: 9, post: 2 T_amb: 28.2 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:55:23,859 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:55:45,910 Id: 0006665505C2 index: 22 HR: 20 RR: 47 act: 9, post: 2 T_amb: 28.2 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:55:45,932 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 11:56:07,971 Id: 0006665505C2 index: 23 HR: 20 RR: 46 act: 9, post: 2 T_amb: 28.2 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 11:56:07,990 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:03:50,301 Id: 0006665505BC index: 2 HR: 20 RR: 5 act: 3, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 12:03:50,325 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:03:52,457 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:04:14,267 Id: 0006665505BC index: 3 HR: 20 RR: 6 act: 1, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 12:04:14,292 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:04:36,188 Id: 0006665505BC index: 4 HR: 20 RR: 6 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 12:04:36,205 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:04:48,360 Id: 0006665505C2 index: 2 HR: 21 RR: 14 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:04:48,383 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:04:50,468 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:04:58,110 Id: 0006665505BC index: 5 HR: 20 RR: 7 act: 3, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 12:04:58,139 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:05:00,429 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:05:03,365 Id: 0006665505BC index: 6 HR: 20 RR: 7 act: 3, post: 3 T_amb: 27.8 T_corp: 30.0 batt: 57 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:05:03,403 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:05:07,135 Id: 0006665505C2 index: 3 HR: 21 RR: 20 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:05:07,151 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:05:23,883 Id: 0006665505C2 index: 4 HR: 20 RR: 22 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:05:23,902 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:05:40,499 Id: 0006665505C2 index: 5 HR: 26 RR: 26 act: 1, post: 3 T_amb: 28.2 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:05:40,521 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:05:42,602 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:05:45,791 Id: 0006665505C2 index: 6 HR: 26 RR: 26 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:05:45,818 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:06:22,686 Id: 0006665505C2 index: 2 HR: 22 RR: 1 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:06:22,712 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:06:24,827 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:06:41,393 Id: 0006665505C2 index: 3 HR: 22 RR: 17 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:06:41,411 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:06:46,917 Id: 0006665505BC index: 2 HR: 20 RR: 20 act: 1, post: 3 T_amb: 27.8 T_corp: 30.0 batt: 57 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:06:46,942 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:06:49,010 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:06:58,070 Id: 0006665505C2 index: 4 HR: 22 RR: 24 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:06:58,088 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:07:14,750 Id: 0006665505C2 index: 5 HR: 22 RR: 27 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:07:14,789 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:07:16,870 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:07:20,217 Id: 0006665505C2 index: 6 HR: 22 RR: 27 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:07:20,236 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:07:27,005 Id: 0006665505BC index: 2 HR: 22 RR: 10 act: 1, post: 3 T_amb: 27.8 T_corp: 30.0 batt: 57 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:07:27,034 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:07:29,096 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:07:36,787 Id: 0006665505C2 index: 7 HR: 22 RR: 28 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:07:36,804 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:07:45,665 Id: 0006665505BC index: 3 HR: 22 RR: 11 act: 1, post: 3 T_amb: 27.8 T_corp: 30.0 batt: 57 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:07:45,692 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:07:53,487 Id: 0006665505C2 index: 8 HR: 22 RR: 32 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:07:53,505 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:08:02,178 Id: 0006665505BC index: 4 HR: 22 RR: 11 act: 1, post: 3 T_amb: 27.8 T_corp: 30.0 batt: 57 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:08:02,204 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:08:10,140 Id: 0006665505C2 index: 9 HR: 22 RR: 33 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:08:10,157 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:08:18,735 Id: 0006665505BC index: 5 HR: 22 RR: 14 act: 3, post: 1 T_amb: 27.8 T_corp: 30.0 batt: 57 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:08:18,754 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:08:20,902 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:08:23,993 Id: 0006665505BC index: 6 HR: 22 RR: 14 act: 3, post: 1 T_amb: 28.6 T_corp: 24.0 batt: 53 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:08:24,026 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:08:26,906 Id: 0006665505C2 index: 10 HR: 22 RR: 36 act: 1, post: 3 T_amb: 28.8 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:08:26,925 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:08:28,990 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:08:32,064 Id: 0006665505C2 index: 11 HR: 22 RR: 36 act: 1, post: 3 T_amb: 29.0 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:08:32,090 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:08:40,593 Id: 0006665505BC index: 7 HR: 22 RR: 17 act: 1, post: 3 T_amb: 28.6 T_corp: 24.0 batt: 53 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:08:40,611 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:08:48,694 Id: 0006665505C2 index: 12 HR: 22 RR: 37 act: 1, post: 3 T_amb: 29.0 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:08:48,715 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:08:54,017 MW is alive
+2014-01-18 12:08:57,203 Id: 0006665505BC index: 8 HR: 22 RR: 23 act: 3, post: 3 T_amb: 28.6 T_corp: 24.0 batt: 53 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:08:57,229 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:09:05,365 Id: 0006665505C2 index: 13 HR: 22 RR: 38 act: 1, post: 3 T_amb: 29.0 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:09:05,384 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:09:13,736 Id: 0006665505BC index: 9 HR: 22 RR: 24 act: 3, post: 3 T_amb: 28.6 T_corp: 24.0 batt: 53 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:09:13,755 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:09:22,140 Id: 0006665505C2 index: 14 HR: 22 RR: 39 act: 1, post: 3 T_amb: 29.0 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:09:22,168 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:09:30,442 Id: 0006665505BC index: 10 HR: 21 RR: 25 act: 1, post: 1 T_amb: 28.6 T_corp: 24.0 batt: 53 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:09:30,465 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:09:32,358 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:09:35,605 Id: 0006665505BC index: 11 HR: 21 RR: 25 act: 1, post: 1 T_amb: 29.0 T_corp: 34.0 batt: 57 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:09:35,630 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:09:38,750 Id: 0006665505C2 index: 15 HR: 22 RR: 40 act: 3, post: 3 T_amb: 29.0 T_corp: 25.0 batt: 53 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:09:38,770 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:09:40,976 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:09:44,290 Id: 0006665505C2 index: 16 HR: 22 RR: 40 act: 3, post: 3 T_amb: 29.2 T_corp: 32.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:09:44,309 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:09:52,091 Id: 0006665505BC index: 12 HR: 21 RR: 25 act: 1, post: 1 T_amb: 29.0 T_corp: 34.0 batt: 57 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:09:52,114 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:10:00,766 Id: 0006665505C2 index: 17 HR: 22 RR: 41 act: 3, post: 1 T_amb: 29.2 T_corp: 32.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:10:00,786 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:10:08,574 Id: 0006665505BC index: 13 HR: 21 RR: 25 act: 1, post: 1 T_amb: 29.0 T_corp: 34.0 batt: 57 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:10:08,599 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:10:17,496 Id: 0006665505C2 index: 18 HR: 21 RR: 41 act: 3, post: 3 T_amb: 29.2 T_corp: 32.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:10:17,520 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:10:25,053 Id: 0006665505BC index: 14 HR: 21 RR: 24 act: 1, post: 3 T_amb: 29.0 T_corp: 34.0 batt: 57 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:10:25,075 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:10:34,148 Id: 0006665505C2 index: 19 HR: 21 RR: 40 act: 1, post: 1 T_amb: 29.2 T_corp: 32.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:10:34,172 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:10:41,537 Id: 0006665505BC index: 15 HR: 21 RR: 24 act: 1, post: 2 T_amb: 29.0 T_corp: 34.0 batt: 57 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:10:41,560 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:10:43,618 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:10:46,800 Id: 0006665505BC index: 16 HR: 21 RR: 24 act: 1, post: 2 T_amb: 29.4 T_corp: 34.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:10:46,825 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:10:50,708 Id: 0006665505C2 index: 20 HR: 34 RR: 39 act: 3, post: 1 T_amb: 29.2 T_corp: 32.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:10:50,731 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:10:52,931 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:10:56,253 Id: 0006665505C2 index: 21 HR: 34 RR: 39 act: 3, post: 1 T_amb: 29.6 T_corp: 33.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:10:56,271 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:11:03,286 Id: 0006665505BC index: 17 HR: 21 RR: 24 act: 1, post: 2 T_amb: 29.4 T_corp: 34.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:11:03,310 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:11:12,769 Id: 0006665505C2 index: 22 HR: 52 RR: 38 act: 1, post: 1 T_amb: 29.6 T_corp: 33.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:11:12,797 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:11:19,780 Id: 0006665505BC index: 18 HR: 21 RR: 23 act: 1, post: 2 T_amb: 29.4 T_corp: 34.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:11:19,803 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:11:29,298 Id: 0006665505C2 index: 23 HR: 61 RR: 37 act: 2, post: 1 T_amb: 29.6 T_corp: 33.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:11:29,315 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:11:36,268 Id: 0006665505BC index: 19 HR: 21 RR: 23 act: 1, post: 1 T_amb: 29.4 T_corp: 34.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:11:36,288 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:11:45,927 Id: 0006665505C2 index: 24 HR: 61 RR: 36 act: 1, post: 1 T_amb: 29.6 T_corp: 33.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:11:45,953 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:11:52,753 Id: 0006665505BC index: 20 HR: 21 RR: 23 act: 1, post: 3 T_amb: 29.4 T_corp: 34.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:11:52,780 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:11:54,831 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:11:57,982 Id: 0006665505BC index: 21 HR: 21 RR: 23 act: 1, post: 3 T_amb: 30.0 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:11:58,003 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:12:02,463 Id: 0006665505C2 index: 25 HR: 61 RR: 35 act: 1, post: 3 T_amb: 29.6 T_corp: 33.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:12:02,485 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:12:04,661 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:12:07,754 Id: 0006665505C2 index: 26 HR: 61 RR: 35 act: 1, post: 3 T_amb: 30.2 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:12:07,774 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:12:14,470 Id: 0006665505BC index: 22 HR: 21 RR: 22 act: 1, post: 2 T_amb: 30.0 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:12:14,497 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:12:24,343 Id: 0006665505C2 index: 27 HR: 61 RR: 35 act: 1, post: 1 T_amb: 30.2 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:12:24,367 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:12:30,961 Id: 0006665505BC index: 23 HR: 21 RR: 22 act: 1, post: 2 T_amb: 30.0 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:12:30,981 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:12:40,992 Id: 0006665505C2 index: 28 HR: 61 RR: 34 act: 1, post: 1 T_amb: 30.2 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:12:41,011 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:12:47,446 Id: 0006665505BC index: 24 HR: 21 RR: 22 act: 1, post: 2 T_amb: 30.0 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:12:47,466 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:12:57,649 Id: 0006665505C2 index: 29 HR: 61 RR: 33 act: 2, post: 1 T_amb: 30.2 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:12:57,670 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:13:03,938 Id: 0006665505BC index: 25 HR: 21 RR: 21 act: 1, post: 2 T_amb: 30.0 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:13:03,959 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:13:06,010 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:13:09,172 Id: 0006665505BC index: 26 HR: 21 RR: 21 act: 1, post: 2 T_amb: 30.8 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:13:09,199 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:13:14,174 Id: 0006665505C2 index: 30 HR: 61 RR: 33 act: 1, post: 1 T_amb: 30.2 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:13:14,213 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:13:16,410 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:13:19,583 Id: 0006665505C2 index: 31 HR: 61 RR: 33 act: 1, post: 1 T_amb: 30.8 T_corp: 33.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:13:19,611 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:13:25,665 Id: 0006665505BC index: 27 HR: 21 RR: 21 act: 1, post: 2 T_amb: 30.8 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:13:25,684 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:13:36,249 Id: 0006665505C2 index: 32 HR: 61 RR: 32 act: 1, post: 1 T_amb: 30.8 T_corp: 33.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:13:36,270 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:13:42,151 Id: 0006665505BC index: 28 HR: 21 RR: 21 act: 1, post: 2 T_amb: 30.8 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:13:42,176 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:13:52,768 Id: 0006665505C2 index: 33 HR: 61 RR: 32 act: 1, post: 1 T_amb: 30.8 T_corp: 33.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:13:52,789 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:13:58,645 Id: 0006665505BC index: 29 HR: 21 RR: 21 act: 1, post: 2 T_amb: 30.8 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:13:58,678 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:14:09,430 Id: 0006665505C2 index: 34 HR: 61 RR: 31 act: 1, post: 1 T_amb: 30.8 T_corp: 33.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:14:09,448 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:14:15,148 Id: 0006665505BC index: 30 HR: 21 RR: 20 act: 1, post: 2 T_amb: 30.8 T_corp: 34.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:14:15,171 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:14:17,223 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:14:20,364 Id: 0006665505BC index: 31 HR: 21 RR: 20 act: 1, post: 2 T_amb: 31.4 T_corp: 34.0 batt: 53 rssi: -70 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:14:20,394 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:14:26,075 Id: 0006665505C2 index: 35 HR: 61 RR: 30 act: 1, post: 1 T_amb: 30.8 T_corp: 33.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:14:26,099 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:14:28,278 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:14:31,499 Id: 0006665505C2 index: 36 HR: 61 RR: 30 act: 1, post: 1 T_amb: 31.4 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:14:31,531 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:14:48,227 Id: 0006665505C2 index: 37 HR: 61 RR: 30 act: 2, post: 1 T_amb: 31.4 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:14:48,257 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:15:04,695 Id: 0006665505C2 index: 38 HR: 61 RR: 29 act: 1, post: 1 T_amb: 31.4 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:15:04,716 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:15:21,358 Id: 0006665505C2 index: 39 HR: 61 RR: 29 act: 1, post: 1 T_amb: 31.4 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:15:21,377 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:15:37,883 Id: 0006665505C2 index: 40 HR: 61 RR: 28 act: 1, post: 1 T_amb: 31.4 T_corp: 33.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:15:37,902 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:15:40,099 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:15:43,191 Id: 0006665505C2 index: 41 HR: 61 RR: 28 act: 1, post: 1 T_amb: 32.0 T_corp: 33.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:15:43,209 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:15:59,725 Id: 0006665505C2 index: 42 HR: 61 RR: 28 act: 1, post: 1 T_amb: 32.0 T_corp: 33.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:15:59,743 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:16:16,391 Id: 0006665505C2 index: 43 HR: 61 RR: 28 act: 2, post: 1 T_amb: 32.0 T_corp: 33.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:16:16,412 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:16:32,916 Id: 0006665505C2 index: 44 HR: 61 RR: 27 act: 1, post: 1 T_amb: 32.0 T_corp: 33.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:16:32,938 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:24:28,286 Id: 0006665505C2 index: 2 HR: 20 RR: 4 act: 1, post: 1 T_amb: 32.0 T_corp: 33.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:24:28,309 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:24:30,393 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:24:46,920 Id: 0006665505C2 index: 3 HR: 20 RR: 5 act: 1, post: 1 T_amb: 32.0 T_corp: 33.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:24:46,942 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:24:57,124 Id: 0006665505BC index: 2 HR: 20 RR: 5 act: 1, post: 1 T_amb: 31.4 T_corp: 34.0 batt: 53 rssi: -70 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:24:57,147 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:24:59,210 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:25:03,526 Id: 0006665505C2 index: 4 HR: 20 RR: 6 act: 1, post: 1 T_amb: 32.0 T_corp: 33.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:25:03,552 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:25:15,701 Id: 0006665505BC index: 3 HR: 20 RR: 9 act: 1, post: 1 T_amb: 31.4 T_corp: 34.0 batt: 53 rssi: -70 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:25:15,722 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:25:20,092 Id: 0006665505C2 index: 5 HR: 20 RR: 7 act: 1, post: 1 T_amb: 32.0 T_corp: 33.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:25:20,112 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:25:22,191 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:25:25,569 Id: 0006665505C2 index: 6 HR: 20 RR: 7 act: 1, post: 1 T_amb: 33.6 T_corp: 34.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:25:25,602 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:25:32,207 Id: 0006665505BC index: 4 HR: 20 RR: 11 act: 1, post: 1 T_amb: 31.4 T_corp: 34.0 batt: 53 rssi: -70 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:25:32,224 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:25:42,109 Id: 0006665505C2 index: 7 HR: 20 RR: 7 act: 2, post: 1 T_amb: 33.6 T_corp: 34.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:25:42,128 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:25:48,702 Id: 0006665505BC index: 5 HR: 20 RR: 11 act: 1, post: 3 T_amb: 31.4 T_corp: 34.0 batt: 53 rssi: -70 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:25:48,726 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:25:50,786 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:25:53,893 Id: 0006665505BC index: 6 HR: 20 RR: 11 act: 1, post: 3 T_amb: 34.0 T_corp: 35.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:25:53,932 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:25:58,646 Id: 0006665505C2 index: 8 HR: 20 RR: 8 act: 1, post: 1 T_amb: 33.6 T_corp: 34.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:25:58,663 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:26:10,419 Id: 0006665505BC index: 7 HR: 20 RR: 11 act: 1, post: 1 T_amb: 34.0 T_corp: 35.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:26:10,441 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:26:15,179 Id: 0006665505C2 index: 9 HR: 20 RR: 8 act: 1, post: 1 T_amb: 33.6 T_corp: 34.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:26:15,206 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:26:26,931 Id: 0006665505BC index: 8 HR: 20 RR: 11 act: 1, post: 1 T_amb: 34.0 T_corp: 35.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:26:26,951 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:26:31,725 Id: 0006665505C2 index: 10 HR: 20 RR: 8 act: 1, post: 1 T_amb: 33.6 T_corp: 34.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:26:31,740 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:26:33,936 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:26:37,244 Id: 0006665505C2 index: 11 HR: 20 RR: 8 act: 1, post: 1 T_amb: 33.8 T_corp: 34.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:26:37,264 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:26:43,484 Id: 0006665505BC index: 9 HR: 20 RR: 11 act: 2, post: 1 T_amb: 34.0 T_corp: 35.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:26:43,511 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:26:53,745 Id: 0006665505C2 index: 12 HR: 20 RR: 8 act: 1, post: 1 T_amb: 33.8 T_corp: 34.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:26:53,765 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:26:59,998 Id: 0006665505BC index: 10 HR: 20 RR: 11 act: 1, post: 2 T_amb: 34.0 T_corp: 35.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:27:00,021 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:27:02,082 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:27:05,203 Id: 0006665505BC index: 11 HR: 20 RR: 11 act: 1, post: 2 T_amb: 34.2 T_corp: 35.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:27:05,235 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:27:10,406 Id: 0006665505C2 index: 13 HR: 20 RR: 7 act: 1, post: 1 T_amb: 33.8 T_corp: 34.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:27:10,433 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:27:21,714 Id: 0006665505BC index: 12 HR: 20 RR: 11 act: 1, post: 2 T_amb: 34.2 T_corp: 35.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:27:21,737 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:27:26,961 Id: 0006665505C2 index: 14 HR: 20 RR: 7 act: 2, post: 1 T_amb: 33.8 T_corp: 34.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:27:26,993 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:27:38,265 Id: 0006665505BC index: 13 HR: 20 RR: 11 act: 3, post: 1 T_amb: 34.2 T_corp: 35.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:27:38,288 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:27:43,514 Id: 0006665505C2 index: 15 HR: 20 RR: 7 act: 2, post: 1 T_amb: 33.8 T_corp: 34.0 batt: 53 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:27:43,545 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:27:45,613 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:27:48,924 Id: 0006665505C2 index: 16 HR: 20 RR: 7 act: 2, post: 1 T_amb: 34.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:27:48,959 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:27:55,007 Id: 0006665505BC index: 14 HR: 20 RR: 11 act: 1, post: 3 T_amb: 34.2 T_corp: 35.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:27:55,032 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:28:05,484 Id: 0006665505C2 index: 17 HR: 20 RR: 7 act: 1, post: 1 T_amb: 34.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:28:05,502 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:28:11,844 Id: 0006665505BC index: 15 HR: 20 RR: 24 act: 1, post: 3 T_amb: 34.2 T_corp: 35.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:28:11,866 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:28:13,923 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:28:17,018 Id: 0006665505BC index: 16 HR: 20 RR: 24 act: 1, post: 3 T_amb: 34.6 T_corp: 28.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:28:17,038 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:28:22,145 Id: 0006665505C2 index: 18 HR: 20 RR: 7 act: 1, post: 1 T_amb: 34.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:28:22,187 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:28:33,755 Id: 0006665505BC index: 17 HR: 20 RR: 34 act: 1, post: 3 T_amb: 34.6 T_corp: 28.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:28:33,773 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:28:38,826 Id: 0006665505C2 index: 19 HR: 20 RR: 7 act: 1, post: 1 T_amb: 34.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:28:38,854 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:28:50,538 Id: 0006665505BC index: 18 HR: 20 RR: 38 act: 1, post: 3 T_amb: 34.6 T_corp: 28.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:28:50,558 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:28:55,501 Id: 0006665505C2 index: 20 HR: 20 RR: 6 act: 1, post: 1 T_amb: 34.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:28:55,522 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:28:57,596 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:29:00,824 Id: 0006665505C2 index: 21 HR: 20 RR: 6 act: 1, post: 1 T_amb: 34.6 T_corp: 34.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:29:00,854 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:29:07,275 Id: 0006665505BC index: 19 HR: 20 RR: 41 act: 1, post: 3 T_amb: 34.6 T_corp: 28.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:29:07,292 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:29:17,536 Id: 0006665505C2 index: 22 HR: 20 RR: 6 act: 1, post: 1 T_amb: 34.6 T_corp: 34.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:29:17,564 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:29:24,064 Id: 0006665505BC index: 20 HR: 20 RR: 42 act: 1, post: 3 T_amb: 34.6 T_corp: 28.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:29:24,086 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:29:26,144 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:29:29,332 Id: 0006665505BC index: 21 HR: 20 RR: 42 act: 1, post: 3 T_amb: 34.8 T_corp: 29.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:29:29,359 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:29:34,208 Id: 0006665505C2 index: 23 HR: 20 RR: 6 act: 1, post: 1 T_amb: 34.6 T_corp: 34.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:29:34,240 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:29:46,010 Id: 0006665505BC index: 22 HR: 20 RR: 44 act: 1, post: 3 T_amb: 34.8 T_corp: 29.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:29:46,044 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:29:50,762 Id: 0006665505C2 index: 24 HR: 20 RR: 6 act: 1, post: 1 T_amb: 34.6 T_corp: 34.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:29:50,783 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:30:02,864 Id: 0006665505BC index: 23 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.8 T_corp: 29.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:30:02,886 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:30:07,414 Id: 0006665505C2 index: 25 HR: 20 RR: 6 act: 1, post: 1 T_amb: 34.6 T_corp: 34.0 batt: 53 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:30:07,434 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:30:09,622 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:30:12,892 Id: 0006665505C2 index: 26 HR: 20 RR: 6 act: 1, post: 1 T_amb: 34.8 T_corp: 34.0 batt: 49 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:30:12,917 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:30:19,591 Id: 0006665505BC index: 24 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.8 T_corp: 29.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:30:19,614 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:30:29,435 Id: 0006665505C2 index: 27 HR: 20 RR: 6 act: 1, post: 1 T_amb: 34.8 T_corp: 34.0 batt: 49 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:30:29,458 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:30:36,379 Id: 0006665505BC index: 25 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.8 T_corp: 29.0 batt: 53 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:30:36,405 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:30:38,464 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:30:41,651 Id: 0006665505BC index: 26 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.8 T_corp: 30.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:30:41,678 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:30:45,984 Id: 0006665505C2 index: 28 HR: 20 RR: 6 act: 2, post: 1 T_amb: 34.8 T_corp: 34.0 batt: 49 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:30:46,002 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:30:58,324 Id: 0006665505BC index: 27 HR: 20 RR: 46 act: 3, post: 3 T_amb: 34.8 T_corp: 30.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:30:58,346 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:31:02,648 Id: 0006665505C2 index: 29 HR: 20 RR: 11 act: 2, post: 1 T_amb: 34.8 T_corp: 34.0 batt: 49 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:31:02,669 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:31:15,084 Id: 0006665505BC index: 28 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.8 T_corp: 30.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:31:15,114 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:31:19,344 Id: 0006665505C2 index: 30 HR: 20 RR: 12 act: 2, post: 1 T_amb: 34.8 T_corp: 34.0 batt: 49 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:31:19,362 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:31:21,554 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:31:24,865 Id: 0006665505C2 index: 31 HR: 20 RR: 12 act: 2, post: 1 T_amb: 35.2 T_corp: 34.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:31:24,885 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:31:31,804 Id: 0006665505BC index: 29 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.8 T_corp: 30.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:31:31,841 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:31:41,543 Id: 0006665505C2 index: 32 HR: 20 RR: 12 act: 2, post: 1 T_amb: 35.2 T_corp: 34.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:31:41,571 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:31:48,535 Id: 0006665505BC index: 30 HR: 20 RR: 44 act: 1, post: 3 T_amb: 34.8 T_corp: 30.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:31:48,558 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:31:50,665 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:31:53,802 Id: 0006665505BC index: 31 HR: 20 RR: 44 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:31:53,823 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:31:58,196 Id: 0006665505C2 index: 33 HR: 20 RR: 12 act: 1, post: 1 T_amb: 35.2 T_corp: 34.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:31:58,229 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:32:10,576 Id: 0006665505BC index: 32 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:32:10,599 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:32:14,941 Id: 0006665505C2 index: 34 HR: 20 RR: 12 act: 1, post: 1 T_amb: 35.2 T_corp: 34.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:32:14,972 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:32:27,363 Id: 0006665505BC index: 33 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:32:27,384 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:32:31,372 Id: 0006665505C2 index: 35 HR: 20 RR: 12 act: 1, post: 1 T_amb: 35.2 T_corp: 34.0 batt: 53 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:32:31,390 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:32:33,644 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:32:36,821 Id: 0006665505C2 index: 36 HR: 20 RR: 12 act: 1, post: 1 T_amb: 35.4 T_corp: 34.0 batt: 49 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:32:36,846 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:32:44,187 Id: 0006665505BC index: 34 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:32:44,218 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:32:53,386 Id: 0006665505C2 index: 37 HR: 51 RR: 12 act: 2, post: 1 T_amb: 35.4 T_corp: 34.0 batt: 49 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:32:53,406 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:33:00,902 Id: 0006665505BC index: 35 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:33:00,920 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:33:03,107 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:33:06,288 Id: 0006665505BC index: 36 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -74 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:33:06,309 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:33:09,945 Id: 0006665505C2 index: 38 HR: 72 RR: 13 act: 2, post: 1 T_amb: 35.4 T_corp: 34.0 batt: 49 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:33:09,966 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:33:22,999 Id: 0006665505BC index: 37 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -74 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:33:23,019 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:33:26,499 Id: 0006665505C2 index: 39 HR: 85 RR: 13 act: 3, post: 1 T_amb: 35.4 T_corp: 34.0 batt: 49 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:33:26,518 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:33:39,778 Id: 0006665505BC index: 38 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -74 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:33:39,795 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:33:43,048 Id: 0006665505C2 index: 40 HR: 100 RR: 13 act: 1, post: 1 T_amb: 35.4 T_corp: 34.0 batt: 49 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:33:43,069 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:33:45,271 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:33:48,373 Id: 0006665505C2 index: 41 HR: 100 RR: 13 act: 1, post: 1 T_amb: 35.6 T_corp: 34.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:33:48,391 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:33:56,441 Id: 0006665505BC index: 39 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -74 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:33:56,463 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:34:04,917 Id: 0006665505C2 index: 42 HR: 95 RR: 13 act: 1, post: 1 T_amb: 35.6 T_corp: 34.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:34:04,935 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:34:13,187 Id: 0006665505BC index: 40 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.8 T_corp: 25.0 batt: 53 rssi: -74 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:34:13,206 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:34:15,274 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:34:18,463 Id: 0006665505BC index: 41 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.6 T_corp: 25.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:34:18,487 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:34:21,575 Id: 0006665505C2 index: 43 HR: 114 RR: 13 act: 1, post: 1 T_amb: 35.6 T_corp: 34.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:34:21,611 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:34:35,268 Id: 0006665505BC index: 42 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.6 T_corp: 25.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:34:35,289 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:34:38,257 Id: 0006665505C2 index: 44 HR: 112 RR: 13 act: 1, post: 1 T_amb: 35.6 T_corp: 34.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:34:38,279 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:34:52,002 Id: 0006665505BC index: 43 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.6 T_corp: 25.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:34:52,031 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:34:54,964 Id: 0006665505C2 index: 45 HR: 123 RR: 13 act: 1, post: 1 T_amb: 35.6 T_corp: 34.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:34:54,989 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:34:57,057 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:35:00,184 Id: 0006665505C2 index: 46 HR: 123 RR: 13 act: 1, post: 1 T_amb: 35.8 T_corp: 34.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:35:00,214 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:35:08,874 Id: 0006665505BC index: 44 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.6 T_corp: 25.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:35:08,900 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:35:16,878 Id: 0006665505C2 index: 47 HR: 134 RR: 13 act: 2, post: 1 T_amb: 35.8 T_corp: 34.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:35:16,904 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:35:25,725 Id: 0006665505BC index: 45 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.6 T_corp: 25.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:35:25,742 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:35:27,826 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:35:30,941 Id: 0006665505BC index: 46 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.6 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:35:30,965 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:35:33,562 Id: 0006665505C2 index: 48 HR: 149 RR: 13 act: 1, post: 1 T_amb: 35.8 T_corp: 34.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:35:33,597 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:35:47,654 Id: 0006665505BC index: 47 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.6 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:35:47,708 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:35:50,254 Id: 0006665505C2 index: 49 HR: 139 RR: 13 act: 1, post: 2 T_amb: 35.8 T_corp: 34.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:35:50,282 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:36:04,417 Id: 0006665505BC index: 48 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.6 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:36:04,443 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:36:06,807 Id: 0006665505C2 index: 50 HR: 145 RR: 13 act: 1, post: 2 T_amb: 35.8 T_corp: 34.0 batt: 53 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:36:06,825 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:36:09,016 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:36:12,250 Id: 0006665505C2 index: 51 HR: 145 RR: 13 act: 1, post: 2 T_amb: 36.0 T_corp: 34.0 batt: 53 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:36:12,272 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:36:21,063 Id: 0006665505BC index: 49 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.6 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:36:21,094 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:36:28,799 Id: 0006665505C2 index: 52 HR: 143 RR: 13 act: 1, post: 1 T_amb: 36.0 T_corp: 34.0 batt: 53 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:36:28,824 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:36:37,767 Id: 0006665505BC index: 50 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.6 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:36:37,787 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:36:39,847 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:36:42,968 Id: 0006665505BC index: 51 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:36:42,994 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:36:45,356 Id: 0006665505C2 index: 53 HR: 135 RR: 13 act: 2, post: 1 T_amb: 36.0 T_corp: 34.0 batt: 53 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:36:45,401 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:36:59,714 Id: 0006665505BC index: 52 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:36:59,737 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:37:01,925 Id: 0006665505C2 index: 54 HR: 135 RR: 13 act: 1, post: 2 T_amb: 36.0 T_corp: 34.0 batt: 53 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:37:01,944 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:37:16,553 Id: 0006665505BC index: 53 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:37:16,571 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:37:18,497 Id: 0006665505C2 index: 55 HR: 129 RR: 14 act: 1, post: 1 T_amb: 36.0 T_corp: 34.0 batt: 53 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:37:18,521 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:37:20,605 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:37:23,931 Id: 0006665505C2 index: 56 HR: 129 RR: 14 act: 1, post: 1 T_amb: 36.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:37:23,951 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:37:33,254 Id: 0006665505BC index: 54 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:37:33,272 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:37:40,616 Id: 0006665505C2 index: 57 HR: 120 RR: 14 act: 1, post: 1 T_amb: 36.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:37:40,636 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:37:50,009 Id: 0006665505BC index: 55 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -64 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:37:50,032 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:37:52,090 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:37:55,289 Id: 0006665505BC index: 56 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:37:55,322 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:37:57,175 Id: 0006665505C2 index: 58 HR: 110 RR: 13 act: 1, post: 1 T_amb: 36.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:37:57,196 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:38:12,193 Id: 0006665505BC index: 57 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:38:12,214 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:38:13,847 Id: 0006665505C2 index: 59 HR: 101 RR: 13 act: 1, post: 1 T_amb: 36.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:38:13,864 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:38:28,976 Id: 0006665505BC index: 58 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:38:28,999 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:38:30,546 Id: 0006665505C2 index: 60 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.2 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:38:30,573 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:38:32,646 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:38:35,992 Id: 0006665505C2 index: 61 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.4 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:38:36,013 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:38:45,616 Id: 0006665505BC index: 59 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:38:45,642 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:38:52,646 Id: 0006665505C2 index: 62 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.4 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:38:52,665 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:38:54,118 MW is alive
+2014-01-18 12:39:02,336 Id: 0006665505BC index: 60 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.4 T_corp: 26.0 batt: 53 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:39:02,368 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:39:04,426 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:39:07,602 Id: 0006665505BC index: 61 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:39:07,633 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:39:09,194 Id: 0006665505C2 index: 63 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.4 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:39:09,224 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:39:24,662 Id: 0006665505BC index: 62 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:39:24,683 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:39:25,751 Id: 0006665505C2 index: 64 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.4 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:39:25,767 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:39:41,353 Id: 0006665505BC index: 63 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:39:41,377 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:39:42,400 Id: 0006665505C2 index: 65 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.4 T_corp: 34.0 batt: 53 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:39:42,419 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:39:44,618 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:39:47,795 Id: 0006665505C2 index: 66 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.6 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:39:47,816 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:39:58,112 Id: 0006665505BC index: 64 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:39:58,137 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:40:04,372 Id: 0006665505C2 index: 67 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.6 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:40:04,392 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:40:15,002 Id: 0006665505BC index: 65 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -68 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:40:15,021 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:40:17,081 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:40:20,173 Id: 0006665505BC index: 66 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -67 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:40:20,204 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:40:21,060 Id: 0006665505C2 index: 68 HR: 97 RR: 13 act: 1, post: 2 T_amb: 36.6 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:40:21,085 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:40:36,827 Id: 0006665505BC index: 67 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -67 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:40:36,846 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:40:37,668 Id: 0006665505C2 index: 69 HR: 97 RR: 13 act: 1, post: 2 T_amb: 36.6 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:40:37,688 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:40:53,700 Id: 0006665505BC index: 68 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -67 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:40:53,722 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:40:54,454 Id: 0006665505C2 index: 70 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.6 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:40:54,472 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:40:56,438 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:40:59,596 Id: 0006665505C2 index: 71 HR: 97 RR: 13 act: 1, post: 1 T_amb: 36.8 T_corp: 34.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:40:59,620 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:41:10,510 Id: 0006665505BC index: 69 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -67 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:41:10,533 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:41:16,145 Id: 0006665505C2 index: 72 HR: 97 RR: 12 act: 1, post: 2 T_amb: 36.8 T_corp: 34.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:41:16,163 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:41:27,348 Id: 0006665505BC index: 70 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.2 T_corp: 26.0 batt: 53 rssi: -67 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:41:27,375 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:41:29,442 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:41:32,698 Id: 0006665505BC index: 71 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -69 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:41:32,704 Id: 0006665505C2 index: 73 HR: 97 RR: 12 act: 1, post: 1 T_amb: 36.8 T_corp: 34.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:41:32,732 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:41:33,222 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:41:49,417 Id: 0006665505C2 index: 74 HR: 97 RR: 12 act: 1, post: 1 T_amb: 36.8 T_corp: 34.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:41:49,441 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:41:49,444 Id: 0006665505BC index: 72 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -69 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:41:49,482 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:42:06,074 Id: 0006665505C2 index: 75 HR: 97 RR: 12 act: 1, post: 1 T_amb: 36.8 T_corp: 34.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:42:06,092 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:42:06,115 Id: 0006665505BC index: 73 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -69 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:42:06,134 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:42:08,164 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:42:11,318 Id: 0006665505C2 index: 76 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:42:11,340 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:42:22,803 Id: 0006665505BC index: 74 HR: 20 RR: 47 act: 3, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -69 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:42:22,826 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:42:27,985 Id: 0006665505C2 index: 77 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:42:28,016 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:42:39,341 Id: 0006665505BC index: 75 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -69 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:42:39,370 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:42:41,429 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:42:44,549 Id: 0006665505C2 index: 78 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:42:44,556 Id: 0006665505BC index: 76 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:42:44,575 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:42:45,083 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:43:01,119 Id: 0006665505BC index: 77 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:01,145 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:43:01,225 Id: 0006665505C2 index: 79 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:01,251 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:43:17,648 Id: 0006665505BC index: 78 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:17,671 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:43:17,956 Id: 0006665505C2 index: 80 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:17,970 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:43:20,100 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:43:23,222 Id: 0006665505C2 index: 81 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:23,243 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:43:34,191 Id: 0006665505BC index: 79 HR: 20 RR: 47 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:34,213 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:43:39,763 Id: 0006665505C2 index: 82 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:39,786 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:43:50,709 Id: 0006665505BC index: 80 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:50,723 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:43:52,901 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:43:56,225 Id: 0006665505BC index: 81 HR: 20 RR: 46 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:56,246 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:43:56,326 Id: 0006665505C2 index: 83 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:43:56,346 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:44:12,746 Id: 0006665505BC index: 82 HR: 20 RR: 45 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:44:12,764 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:44:12,896 Id: 0006665505C2 index: 84 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:44:12,931 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:44:29,317 Id: 0006665505BC index: 83 HR: 20 RR: 44 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:44:29,341 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:44:29,475 Id: 0006665505C2 index: 85 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.0 T_corp: 34.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:44:29,490 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:44:31,680 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:44:34,786 Id: 0006665505C2 index: 86 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.2 T_corp: 35.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:44:34,804 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:44:45,837 Id: 0006665505BC index: 84 HR: 20 RR: 43 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:44:45,858 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:44:51,441 Id: 0006665505C2 index: 87 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.2 T_corp: 35.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:44:51,458 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:45:02,419 Id: 0006665505BC index: 85 HR: 20 RR: 43 act: 1, post: 3 T_amb: 34.0 T_corp: 26.0 batt: 53 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:45:02,445 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:45:04,504 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:45:07,673 Id: 0006665505BC index: 86 HR: 20 RR: 43 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 53 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:45:07,700 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:45:08,122 Id: 0006665505C2 index: 88 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.2 T_corp: 35.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:45:08,141 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:45:24,225 Id: 0006665505BC index: 87 HR: 20 RR: 42 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 53 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:45:24,242 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:45:24,716 Id: 0006665505C2 index: 89 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.2 T_corp: 35.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:45:24,734 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:45:40,881 Id: 0006665505BC index: 88 HR: 20 RR: 41 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 53 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:45:40,902 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:45:41,330 Id: 0006665505C2 index: 90 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.2 T_corp: 35.0 batt: 49 rssi: -51 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:45:41,344 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:45:43,482 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:45:46,600 Id: 0006665505C2 index: 91 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:45:46,625 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:45:57,527 Id: 0006665505BC index: 89 HR: 20 RR: 40 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 53 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:45:57,545 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:46:03,152 Id: 0006665505C2 index: 92 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:46:03,176 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:46:14,194 Id: 0006665505BC index: 90 HR: 20 RR: 40 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 53 rssi: -60 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:46:14,213 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:46:16,272 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:46:19,613 Id: 0006665505BC index: 91 HR: 20 RR: 40 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 49 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:46:19,636 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:46:19,844 Id: 0006665505C2 index: 93 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:46:19,876 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:46:36,296 Id: 0006665505BC index: 92 HR: 20 RR: 39 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 49 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:46:36,321 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:46:36,464 Id: 0006665505C2 index: 94 HR: 97 RR: 12 act: 1, post: 1 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:46:36,479 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:46:52,941 Id: 0006665505BC index: 93 HR: 20 RR: 38 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 49 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:46:52,964 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:46:53,010 Id: 0006665505C2 index: 95 HR: 97 RR: 12 act: 1, post: 2 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -50 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:46:53,130 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:46:55,387 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:46:58,487 Id: 0006665505C2 index: 96 HR: 97 RR: 12 act: 1, post: 2 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:46:58,511 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:47:09,494 Id: 0006665505BC index: 94 HR: 20 RR: 37 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 49 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:47:09,515 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:47:15,153 Id: 0006665505C2 index: 97 HR: 97 RR: 12 act: 2, post: 1 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:47:15,171 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:47:26,023 Id: 0006665505BC index: 95 HR: 20 RR: 37 act: 1, post: 3 T_amb: 33.8 T_corp: 27.0 batt: 49 rssi: -65 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:47:26,042 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:47:28,101 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:47:31,415 Id: 0006665505BC index: 96 HR: 20 RR: 37 act: 1, post: 3 T_amb: 33.6 T_corp: 27.0 batt: 53 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:47:31,442 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-18 12:47:31,723 Id: 0006665505C2 index: 98 HR: 97 RR: 13 act: 1, post: 1 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:47:31,747 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:47:48,288 Id: 0006665505C2 index: 99 HR: 97 RR: 13 act: 1, post: 1 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:47:48,307 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:48:04,948 Id: 0006665505C2 index: 100 HR: 97 RR: 13 act: 1, post: 1 T_amb: 37.4 T_corp: 35.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:48:04,966 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:48:07,150 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:48:10,384 Id: 0006665505C2 index: 101 HR: 97 RR: 13 act: 1, post: 1 T_amb: 37.6 T_corp: 35.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:48:10,406 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:49:16,343 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:49:18,136 Id: 0006665505C2 index: 102 HR: 97 RR: 13 act: 1, post: 1 T_amb: 37.6 T_corp: 35.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 12:49:18,160 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:49:33,322 SOF or EOF of package does not match. Pckt=73:68:6f:77:20:72:73:73:69:d:a:73:68:6f:77:20:72:73:73:69:d:a:73:68:6f:77:20:72:73:73:69:d:a:73:68:6f:77:20:72:73
+2014-01-18 12:49:50,296 Received a package of unexpected size (39 bytes)
+2014-01-18 12:50:16,593 Id: 0006665505C2 index: 2 HR: 20 RR: 0 act: 1, post: 1 T_amb: 37.6 T_corp: 35.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:50:16,610 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:50:18,678 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:50:35,213 Id: 0006665505C2 index: 3 HR: 20 RR: 0 act: 1, post: 1 T_amb: 37.6 T_corp: 35.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:50:35,236 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:50:51,766 Id: 0006665505C2 index: 4 HR: 20 RR: 0 act: 1, post: 1 T_amb: 37.6 T_corp: 35.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:50:51,795 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:51:08,451 Id: 0006665505C2 index: 5 HR: 20 RR: 0 act: 1, post: 1 T_amb: 37.6 T_corp: 35.0 batt: 49 rssi: -52 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:51:08,472 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:51:10,542 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:51:13,637 Id: 0006665505C2 index: 6 HR: 20 RR: 0 act: 1, post: 1 T_amb: 37.8 T_corp: 35.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:51:13,661 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:51:30,190 Id: 0006665505C2 index: 7 HR: 20 RR: 0 act: 1, post: 1 T_amb: 37.8 T_corp: 35.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:51:30,213 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:51:46,886 Id: 0006665505C2 index: 8 HR: 40 RR: 6 act: 2, post: 1 T_amb: 37.8 T_corp: 35.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:51:46,906 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:52:03,652 Id: 0006665505C2 index: 9 HR: 41 RR: 8 act: 1, post: 1 T_amb: 37.8 T_corp: 35.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:52:03,682 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:52:20,292 Id: 0006665505C2 index: 10 HR: 50 RR: 10 act: 1, post: 1 T_amb: 37.8 T_corp: 35.0 batt: 49 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:52:20,316 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:52:22,374 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:52:25,717 Id: 0006665505C2 index: 11 HR: 50 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:52:25,739 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:52:42,377 Id: 0006665505C2 index: 12 HR: 48 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:52:42,398 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:52:58,907 Id: 0006665505C2 index: 13 HR: 47 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:52:58,925 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:53:15,630 Id: 0006665505C2 index: 14 HR: 46 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:53:15,659 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:53:32,053 Id: 0006665505C2 index: 15 HR: 47 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -66 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:53:32,078 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:53:34,251 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:53:37,346 Id: 0006665505C2 index: 16 HR: 47 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:53:37,384 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:53:53,915 Id: 0006665505C2 index: 17 HR: 46 RR: 9 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:53:53,934 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:54:10,574 Id: 0006665505C2 index: 18 HR: 45 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:54:10,595 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:54:27,308 Id: 0006665505C2 index: 19 HR: 52 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:54:27,338 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:54:43,863 Id: 0006665505C2 index: 20 HR: 71 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:54:43,888 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:54:46,068 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:54:49,275 Id: 0006665505C2 index: 21 HR: 71 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:54:49,294 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:55:05,834 Id: 0006665505C2 index: 22 HR: 99 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:55:05,854 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:55:22,403 Id: 0006665505C2 index: 23 HR: 119 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:55:22,439 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:55:39,076 Id: 0006665505C2 index: 24 HR: 140 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:55:39,107 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:55:55,761 Id: 0006665505C2 index: 25 HR: 137 RR: 10 act: 1, post: 1 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:55:55,783 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:55:58,002 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:56:01,131 Id: 0006665505C2 index: 26 HR: 137 RR: 10 act: 1, post: 1 T_amb: 38.2 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:56:01,147 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:56:17,692 Id: 0006665505C2 index: 27 HR: 125 RR: 9 act: 1, post: 1 T_amb: 38.2 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:56:17,715 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:56:34,366 Id: 0006665505C2 index: 28 HR: 118 RR: 9 act: 1, post: 1 T_amb: 38.2 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:56:34,384 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:56:51,031 Id: 0006665505C2 index: 29 HR: 116 RR: 9 act: 1, post: 1 T_amb: 38.2 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:56:51,068 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:57:07,714 Id: 0006665505C2 index: 30 HR: 113 RR: 9 act: 1, post: 1 T_amb: 38.2 T_corp: 34.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:57:07,736 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:57:09,804 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:57:13,078 Id: 0006665505C2 index: 31 HR: 113 RR: 9 act: 1, post: 1 T_amb: 38.2 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:57:13,101 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:57:29,625 Id: 0006665505C2 index: 32 HR: 111 RR: 8 act: 1, post: 1 T_amb: 38.2 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:57:29,643 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:57:46,209 Id: 0006665505C2 index: 33 HR: 105 RR: 8 act: 1, post: 1 T_amb: 38.2 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:57:46,237 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:58:02,899 Id: 0006665505C2 index: 34 HR: 103 RR: 8 act: 1, post: 1 T_amb: 38.2 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:58:02,922 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:58:19,478 Id: 0006665505C2 index: 35 HR: 119 RR: 7 act: 1, post: 1 T_amb: 38.2 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:58:19,498 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:58:21,601 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:58:24,880 Id: 0006665505C2 index: 36 HR: 119 RR: 7 act: 1, post: 1 T_amb: 38.4 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:58:24,904 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:58:41,539 Id: 0006665505C2 index: 37 HR: 117 RR: 7 act: 1, post: 1 T_amb: 38.4 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:58:41,563 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:58:58,220 Id: 0006665505C2 index: 38 HR: 112 RR: 12 act: 1, post: 1 T_amb: 38.4 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:58:58,240 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:59:14,916 Id: 0006665505C2 index: 39 HR: 112 RR: 12 act: 2, post: 1 T_amb: 38.4 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:59:14,940 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:59:31,473 Id: 0006665505C2 index: 40 HR: 112 RR: 12 act: 3, post: 1 T_amb: 38.4 T_corp: 35.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:59:31,492 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:59:33,572 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 12:59:36,661 Id: 0006665505C2 index: 41 HR: 112 RR: 12 act: 3, post: 1 T_amb: 38.4 T_corp: 29.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:59:36,682 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 12:59:53,362 Id: 0006665505C2 index: 42 HR: 112 RR: 12 act: 3, post: 3 T_amb: 38.4 T_corp: 29.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 12:59:53,383 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:00:10,069 Id: 0006665505C2 index: 43 HR: 112 RR: 12 act: 1, post: 3 T_amb: 38.4 T_corp: 29.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:00:10,093 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:00:26,783 Id: 0006665505C2 index: 44 HR: 112 RR: 12 act: 1, post: 1 T_amb: 38.4 T_corp: 29.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:00:26,802 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:00:43,343 Id: 0006665505C2 index: 45 HR: 112 RR: 12 act: 1, post: 1 T_amb: 38.4 T_corp: 29.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:00:43,370 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:00:45,440 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:00:48,633 Id: 0006665505C2 index: 46 HR: 112 RR: 12 act: 1, post: 1 T_amb: 38.4 T_corp: 34.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:00:48,659 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:01:05,299 Id: 0006665505C2 index: 47 HR: 112 RR: 12 act: 2, post: 1 T_amb: 38.4 T_corp: 34.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:01:05,319 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:01:21,991 Id: 0006665505C2 index: 48 HR: 112 RR: 13 act: 2, post: 2 T_amb: 38.4 T_corp: 34.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:01:22,012 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:01:38,598 Id: 0006665505C2 index: 49 HR: 112 RR: 15 act: 1, post: 2 T_amb: 38.4 T_corp: 34.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:01:38,622 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:01:55,281 Id: 0006665505C2 index: 50 HR: 112 RR: 20 act: 2, post: 2 T_amb: 38.4 T_corp: 34.0 batt: 49 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:01:55,299 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:01:57,481 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:02:00,704 Id: 0006665505C2 index: 51 HR: 112 RR: 20 act: 2, post: 2 T_amb: 38.4 T_corp: 27.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:02:00,730 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:02:17,560 Id: 0006665505C2 index: 52 HR: 112 RR: 26 act: 1, post: 3 T_amb: 38.4 T_corp: 27.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:02:17,581 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:02:34,217 Id: 0006665505C2 index: 53 HR: 112 RR: 29 act: 2, post: 3 T_amb: 38.4 T_corp: 27.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:02:34,240 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:02:50,782 Id: 0006665505C2 index: 54 HR: 112 RR: 28 act: 2, post: 3 T_amb: 38.4 T_corp: 27.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:02:50,808 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:03:07,359 Id: 0006665505C2 index: 55 HR: 112 RR: 28 act: 1, post: 2 T_amb: 38.4 T_corp: 27.0 batt: 49 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:03:07,384 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:03:09,454 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:03:12,627 Id: 0006665505C2 index: 56 HR: 112 RR: 28 act: 1, post: 2 T_amb: 38.2 T_corp: 27.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:03:12,649 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:03:29,292 Id: 0006665505C2 index: 57 HR: 112 RR: 28 act: 1, post: 3 T_amb: 38.2 T_corp: 27.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:03:29,316 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:03:45,863 Id: 0006665505C2 index: 58 HR: 112 RR: 27 act: 1, post: 2 T_amb: 38.2 T_corp: 27.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:03:45,885 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:04:02,431 Id: 0006665505C2 index: 59 HR: 112 RR: 27 act: 1, post: 2 T_amb: 38.2 T_corp: 27.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:04:02,453 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:04:19,183 Id: 0006665505C2 index: 60 HR: 112 RR: 27 act: 1, post: 3 T_amb: 38.2 T_corp: 27.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:04:19,204 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:04:21,480 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:04:24,841 Id: 0006665505C2 index: 61 HR: 112 RR: 27 act: 1, post: 3 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:04:24,861 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:04:41,329 Id: 0006665505C2 index: 62 HR: 112 RR: 27 act: 1, post: 3 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:04:41,345 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:04:57,896 Id: 0006665505C2 index: 63 HR: 112 RR: 27 act: 1, post: 2 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:04:57,913 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:05:14,456 Id: 0006665505C2 index: 64 HR: 112 RR: 26 act: 1, post: 2 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:05:14,481 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:05:31,096 Id: 0006665505C2 index: 65 HR: 112 RR: 26 act: 1, post: 2 T_amb: 38.0 T_corp: 34.0 batt: 49 rssi: -73 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:05:31,116 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:05:33,187 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:05:36,387 Id: 0006665505C2 index: 66 HR: 112 RR: 26 act: 1, post: 2 T_amb: 37.6 T_corp: 23.0 batt: 49 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:05:36,404 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:05:52,983 Id: 0006665505C2 index: 67 HR: 112 RR: 26 act: 1, post: 3 T_amb: 37.6 T_corp: 23.0 batt: 49 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:05:53,006 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:06:09,710 Id: 0006665505C2 index: 68 HR: 112 RR: 33 act: 1, post: 3 T_amb: 37.6 T_corp: 23.0 batt: 49 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:06:09,732 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:06:26,409 Id: 0006665505C2 index: 69 HR: 112 RR: 36 act: 1, post: 3 T_amb: 37.6 T_corp: 23.0 batt: 49 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:06:26,434 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:06:43,174 Id: 0006665505C2 index: 70 HR: 112 RR: 37 act: 1, post: 3 T_amb: 37.6 T_corp: 23.0 batt: 49 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:06:43,193 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:06:45,381 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:06:48,538 Id: 0006665505C2 index: 71 HR: 112 RR: 37 act: 1, post: 3 T_amb: 37.4 T_corp: 21.0 batt: 45 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:06:48,566 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:07:05,496 Id: 0006665505C2 index: 72 HR: 112 RR: 41 act: 1, post: 3 T_amb: 37.4 T_corp: 21.0 batt: 45 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:07:05,518 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:07:22,265 Id: 0006665505C2 index: 73 HR: 112 RR: 42 act: 1, post: 3 T_amb: 37.4 T_corp: 21.0 batt: 45 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:07:22,286 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:07:39,030 Id: 0006665505C2 index: 74 HR: 112 RR: 43 act: 1, post: 3 T_amb: 37.4 T_corp: 21.0 batt: 45 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:07:39,053 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:07:55,711 Id: 0006665505C2 index: 75 HR: 112 RR: 45 act: 1, post: 3 T_amb: 37.4 T_corp: 21.0 batt: 45 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:07:55,729 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:07:57,847 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:08:01,121 Id: 0006665505C2 index: 76 HR: 112 RR: 45 act: 1, post: 3 T_amb: 37.2 T_corp: 21.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:08:01,143 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:08:17,830 Id: 0006665505C2 index: 77 HR: 112 RR: 44 act: 1, post: 3 T_amb: 37.2 T_corp: 21.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:08:17,853 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:08:34,588 Id: 0006665505C2 index: 78 HR: 112 RR: 46 act: 1, post: 3 T_amb: 37.2 T_corp: 21.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:08:34,613 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:08:51,508 Id: 0006665505C2 index: 79 HR: 112 RR: 46 act: 1, post: 3 T_amb: 37.2 T_corp: 21.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:08:51,539 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:08:54,218 MW is alive
+2014-01-18 13:09:08,328 Id: 0006665505C2 index: 80 HR: 112 RR: 46 act: 1, post: 3 T_amb: 37.2 T_corp: 21.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:09:08,348 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:09:14,635 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:09:16,325 Id: 0006665505C2 index: 81 HR: 112 RR: 46 act: 1, post: 3 T_amb: 37.2 T_corp: 21.0 batt: 49 rssi: -61 ap: 003A99C80F10 pckt_id: 2
+2014-01-18 13:09:16,345 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:09:16,699 Id: 0006665505C2 index: 83 HR: 112 RR: 46 act: 1, post: 3 T_amb: 37.0 T_corp: 21.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:09:16,720 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:09:33,130 Id: 0006665505C2 index: 84 HR: 112 RR: 46 act: 3, post: 1 T_amb: 37.0 T_corp: 21.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:09:33,155 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:09:49,713 Id: 0006665505C2 index: 85 HR: 112 RR: 44 act: 1, post: 1 T_amb: 37.0 T_corp: 21.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:09:49,739 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:10:06,304 Id: 0006665505C2 index: 86 HR: 112 RR: 44 act: 2, post: 1 T_amb: 37.0 T_corp: 21.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:10:06,324 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:10:22,975 Id: 0006665505C2 index: 87 HR: 112 RR: 43 act: 1, post: 1 T_amb: 37.0 T_corp: 21.0 batt: 49 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:10:23,001 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:10:25,069 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:10:28,154 Id: 0006665505C2 index: 88 HR: 112 RR: 43 act: 1, post: 1 T_amb: 36.6 T_corp: 22.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:10:28,182 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:10:44,776 Id: 0006665505C2 index: 89 HR: 112 RR: 43 act: 2, post: 1 T_amb: 36.6 T_corp: 22.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:10:44,799 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:11:01,359 Id: 0006665505C2 index: 90 HR: 112 RR: 42 act: 1, post: 1 T_amb: 36.6 T_corp: 22.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:11:01,384 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:11:17,941 Id: 0006665505C2 index: 91 HR: 112 RR: 41 act: 2, post: 1 T_amb: 36.6 T_corp: 22.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:11:17,960 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:11:34,550 Id: 0006665505C2 index: 92 HR: 112 RR: 41 act: 2, post: 1 T_amb: 36.6 T_corp: 22.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:11:34,578 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:11:36,650 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:11:39,811 Id: 0006665505C2 index: 93 HR: 112 RR: 41 act: 2, post: 1 T_amb: 36.2 T_corp: 23.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:11:39,835 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:11:56,536 Id: 0006665505C2 index: 94 HR: 112 RR: 40 act: 1, post: 1 T_amb: 36.2 T_corp: 23.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:11:56,560 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:12:13,364 Id: 0006665505C2 index: 95 HR: 112 RR: 40 act: 1, post: 1 T_amb: 36.2 T_corp: 23.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:12:13,387 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:12:29,883 Id: 0006665505C2 index: 96 HR: 112 RR: 39 act: 1, post: 1 T_amb: 36.2 T_corp: 23.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:12:29,905 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:12:46,639 Id: 0006665505C2 index: 97 HR: 112 RR: 38 act: 1, post: 1 T_amb: 36.2 T_corp: 23.0 batt: 49 rssi: -62 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:12:46,664 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:12:48,734 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-18 13:12:51,987 Id: 0006665505C2 index: 98 HR: 112 RR: 38 act: 1, post: 1 T_amb: 36.0 T_corp: 21.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:12:52,012 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:13:08,642 Id: 0006665505C2 index: 99 HR: 112 RR: 38 act: 1, post: 1 T_amb: 36.0 T_corp: 21.0 batt: 49 rssi: -59 ap: 003A99C80F10 pckt_id: 1
+2014-01-18 13:13:08,706 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C2
+2014-01-18 13:38:54,318 MW is alive
+2014-01-18 14:08:54,418 MW is alive
+2014-01-18 14:38:54,449 MW is alive
+2014-01-18 15:08:54,549 MW is alive
+2014-01-18 15:33:10,628 Shutting down

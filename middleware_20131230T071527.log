@@ -1,0 +1,8 @@
+2013-12-30 07:15:28,021 RMS Soap Cliente created using http://10.69.208.124/Services/Server.svc?wsdl
+2013-12-30 07:15:28,023 Starting middleware, listening to 10.69.208.3:50000
+2013-12-30 07:15:28,023 MW is alive
+2013-12-30 07:15:28,618 Id: 0021CCD46B6B index: 40001 HR: 75 RR: 24 act: 1, post: 1 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:15:28,647 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:15:43,618 Id: 0021CCD46B6B index: 40002 HR: 64 RR: 24 act: 2, post: 2 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:15:43,649 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:15:48,125 Shutting down

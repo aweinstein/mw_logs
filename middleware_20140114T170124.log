@@ -1,0 +1,7 @@
+2014-01-14 17:01:25,331 RMS Soap Cliente created using http://10.69.208.124/Services/Server.svc?wsdl
+2014-01-14 17:01:25,333 Starting middleware
+2014-01-14 17:01:25,333 Listening to ip: 10.69.208.28, port: 50000, protocol: U
+2014-01-14 17:01:25,334 MW is alive
+2014-01-14 17:18:14,614 Id: 0021CCD46B6B index: 64605 HR: 61 RR: 20 act: 2, post: 1 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-14 17:18:14,719 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2014-01-14 17:31:25,365 MW is alive

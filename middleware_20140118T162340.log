@@ -1,0 +1,1393 @@
+2014-01-18 16:23:40,442 RMS Soap Cliente created using http://10.69.208.124/Services/Server.svc?wsdl
+2014-01-18 16:23:40,444 Starting middleware
+2014-01-18 16:23:40,444 Listening to ip: 10.69.208.56, port: 50000, protocol: TCP
+2014-01-18 16:23:40,445 Listening to ip: 10.69.208.56, port: 50000, protocol: UDP
+2014-01-18 16:23:40,447 MW is alive
+2014-01-18 16:36:37,490 Id: 0021CCD46B6B index: 64605 HR: 49 RR: 13 act: 1, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 16:36:37,525 RMS responded "NOK: No device with this ID" to send_data from SS 0021CCD46B6B
+2014-01-18 16:36:49,421 Id: 0021CCD46B6B index: 64605 HR: 69 RR: 18 act: 2, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-18 16:36:49,447 RMS responded "NOK: No device with this ID" to send_data from SS 0021CCD46B6B
+2014-01-18 16:53:40,547 MW is alive
+2014-01-18 17:23:40,642 MW is alive
+2014-01-18 17:53:40,655 MW is alive
+2014-01-18 18:23:40,755 MW is alive
+2014-01-18 18:53:40,855 MW is alive
+2014-01-18 19:23:40,896 MW is alive
+2014-01-18 19:53:40,951 MW is alive
+2014-01-18 20:23:40,965 MW is alive
+2014-01-18 20:53:41,065 MW is alive
+2014-01-18 21:23:41,121 MW is alive
+2014-01-18 21:53:41,221 MW is alive
+2014-01-18 22:23:41,321 MW is alive
+2014-01-18 22:53:41,402 MW is alive
+2014-01-18 23:23:41,418 MW is alive
+2014-01-18 23:53:41,518 MW is alive
+2014-01-19 00:23:41,618 MW is alive
+2014-01-19 00:53:41,650 MW is alive
+2014-01-19 01:23:41,751 MW is alive
+2014-01-19 01:53:41,851 MW is alive
+2014-01-19 02:23:41,935 MW is alive
+2014-01-19 02:53:42,017 MW is alive
+2014-01-19 03:23:42,117 MW is alive
+2014-01-19 03:53:42,159 MW is alive
+2014-01-19 04:23:42,159 MW is alive
+2014-01-19 04:53:42,260 MW is alive
+2014-01-19 05:23:42,360 MW is alive
+2014-01-19 05:53:42,461 MW is alive
+2014-01-19 06:23:42,561 MW is alive
+2014-01-19 06:53:42,610 MW is alive
+2014-01-19 07:23:42,711 MW is alive
+2014-01-19 07:53:42,811 MW is alive
+2014-01-19 08:23:42,890 MW is alive
+2014-01-19 08:53:42,990 MW is alive
+2014-01-19 08:54:32,768 Id: 0006665129DF index: 10 HR: 37 RR: 5 act: 1, post: 1 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 08:54:33,235 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 08:55:28,094 Id: 00066654B196 index: 225 HR: -1 RR: -1 act: -1, post: -1 T_amb: 36.6 T_corp: 29.0 batt: 49 rssi: -84 ap: 002722F6F081 pckt_id: 2
+2014-01-19 08:55:28,194 Id: 00066654B196 index: 226 HR: 149 RR: 27 act: 1, post: 3 T_amb: 36.6 T_corp: 29.0 batt: 49 rssi: -84 ap: 002722F6F081 pckt_id: 2
+2014-01-19 08:55:28,233 SOF or EOF of package does not match. Pckt=23:25:0:6:66:54:b1:96:0:e4:a0:0:95:0:1e:0:1c:75:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+2014-01-19 08:55:28,243 SOF or EOF of package does not match. Pckt=25:23:0:6:66:54:b1:96:0:e5:a0:0:95:0:23:0:1c:72:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+2014-01-19 08:55:28,291 SOF or EOF of package does not match. Pckt=25:23:0:6:66:54:b1:96:0:e6:e0:b9:0:1d:5e:84:0:27:22:f6:f0:81:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+2014-01-19 08:55:28,331 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 08:55:28,334 SOF or EOF of package does not match. Pckt=25:23:0:6:66:54:b1:96:0:e7:a0:0:94:0:28:0:1c:72:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+2014-01-19 08:55:28,370 SOF or EOF of package does not match. Pckt=25:23:0:6:66:54:b1:96:0:2:a0:0:14:0:1:2:1f:86:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+2014-01-19 08:55:28,414 SOF or EOF of package does not match. Pckt=25:23:0:6:66:54:b1:96:0:2:a0:0:14:0:8:2:1f:4d:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+2014-01-19 08:55:28,879 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 08:56:38,844 Id: 00066654B196 index: 7 HR: 149 RR: 27 act: 1, post: 3 T_amb: 31.8 T_corp: 35.0 batt: 80 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 08:56:38,979 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 08:56:53,994 Id: 00066654B196 index: 8 HR: 39 RR: 7 act: 1, post: 1 T_amb: 31.8 T_corp: 35.0 batt: 80 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 08:56:54,089 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 09:00:02,423 Id: 0006665129DF index: 5 HR: 22 RR: 11 act: 1, post: 1 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 09:00:02,541 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:00:04,669 Id: 0006665129DF index: 6 HR: 22 RR: 11 act: 1, post: 1 T_amb: 5.0 T_corp: 32.0 batt: 88 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:00:04,774 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:05:51,422 Id: 00066654B196 index: 25 HR: 39 RR: 7 act: 1, post: 1 T_amb: 34.2 T_corp: 35.0 batt: 80 rssi: -144 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:05:51,461 Id: 00066654B196 index: 26 HR: 65 RR: 11 act: 1, post: 1 T_amb: 34.2 T_corp: 35.0 batt: 80 rssi: -144 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:05:51,551 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 09:05:52,101 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 09:07:45,672 Id: 0006665129DF index: 26 HR: 25 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 32.0 batt: 88 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:07:45,680 Id: 0006665129DF index: 27 HR: 25 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 32.0 batt: 88 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:07:45,802 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:07:46,307 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:08:00,748 Id: 0006665129DF index: 28 HR: 25 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 32.0 batt: 88 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:08:01,439 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:08:02,937 Id: 0006665129DF index: 29 HR: 25 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 88 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:08:03,036 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:08:17,998 Id: 0006665129DF index: 30 HR: 24 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 88 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:08:18,090 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:08:22,873 Id: 00066654B194 index: 12 HR: -1 RR: -1 act: -1, post: -1 T_amb: 33.8 T_corp: 64.0 batt: 92 rssi: -72 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:08:22,903 Id: 00066654B194 index: 13 HR: 132 RR: 15 act: 1, post: 1 T_amb: 33.8 T_corp: 64.0 batt: 92 rssi: -72 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:08:23,456 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:08:24,112 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:09:25,498 Id: 0006665129DF index: 34 HR: 24 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 88 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:09:25,626 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:10:43,548 Id: 00066654B194 index: 18 HR: 132 RR: 15 act: 1, post: 1 T_amb: 36.2 T_corp: 65.0 batt: 88 rssi: -74 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:10:43,580 Id: 00066654B194 index: 19 HR: 119 RR: 15 act: 1, post: 1 T_amb: 36.2 T_corp: 65.0 batt: 88 rssi: -74 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:10:43,684 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:10:44,796 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:12:58,399 Id: 00066654B196 index: 49 HR: 65 RR: 11 act: 1, post: 1 T_amb: 36.4 T_corp: 34.0 batt: 80 rssi: -70 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:12:58,415 Id: 00066654B196 index: 50 HR: 53 RR: 13 act: 1, post: 1 T_amb: 36.4 T_corp: 34.0 batt: 80 rssi: -70 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:12:58,522 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 09:12:59,306 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 09:14:01,999 Id: 0006665129DF index: 46 HR: 24 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 88 rssi: -81 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:14:02,143 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:17:19,426 Id: 00066654B194 index: 30 HR: 119 RR: 15 act: 1, post: 1 T_amb: 36.8 T_corp: 66.0 batt: 88 rssi: -71 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:17:19,557 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:17:33,001 Id: 00066654B194 index: 31 HR: 148 RR: 20 act: 1, post: 1 T_amb: 36.8 T_corp: 66.0 batt: 88 rssi: -71 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:17:33,101 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:20:52,027 Id: 0006665129DF index: 61 HR: 31 RR: 22 act: 2, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 88 rssi: -81 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:20:52,165 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:21:24,402 Id: 0006665129DF index: 64 HR: 31 RR: 22 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 88 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:21:24,551 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:21:56,977 Id: 00066654B194 index: 36 HR: 148 RR: 20 act: 1, post: 1 T_amb: 37.2 T_corp: 66.0 batt: 88 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:21:57,000 Id: 00066654B194 index: 37 HR: 149 RR: 21 act: 2, post: 1 T_amb: 37.2 T_corp: 66.0 batt: 88 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:21:57,113 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:21:57,721 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:23:43,038 MW is alive
+2014-01-19 09:24:26,503 Id: 0006665129DF index: 73 HR: 32 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 88 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:24:26,623 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:25:59,304 Id: 00066654B196 index: 67 HR: 53 RR: 13 act: 1, post: 1 T_amb: 37.4 T_corp: 33.0 batt: 80 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:25:59,323 Id: 00066654B196 index: 68 HR: 50 RR: 13 act: 1, post: 1 T_amb: 37.4 T_corp: 33.0 batt: 80 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:25:59,433 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 09:25:59,902 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 09:26:55,504 Id: 00066654B194 index: 52 HR: 148 RR: 22 act: 3, post: 2 T_amb: 37.2 T_corp: 66.0 batt: 88 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:26:55,665 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:27:43,603 Id: 00066654B194 index: 54 HR: 148 RR: 22 act: 3, post: 2 T_amb: 38.0 T_corp: 65.0 batt: 88 rssi: -74 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:27:43,738 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:31:02,630 Id: 0006665129DF index: 97 HR: 32 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 84 rssi: -75 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:31:02,762 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:31:38,654 Id: 00066654B196 index: 80 HR: 67 RR: 15 act: 3, post: 1 T_amb: 37.4 T_corp: 33.0 batt: 80 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:31:38,780 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 09:32:43,707 Id: 0006665129DF index: 103 HR: 32 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 84 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:32:43,836 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:34:21,405 Id: 0006665129DF index: 112 HR: 43 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 84 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:34:21,415 Id: 0006665129DF index: 113 HR: 43 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 84 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:34:21,526 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:34:21,737 Id: 00066654B194 index: 84 HR: 148 RR: 22 act: 3, post: 2 T_amb: 38.0 T_corp: 66.0 batt: 88 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:34:21,777 Id: 00066654B194 index: 85 HR: 132 RR: 22 act: 1, post: 1 T_amb: 38.0 T_corp: 66.0 batt: 88 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:34:21,884 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:34:22,027 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:34:22,484 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:34:36,880 Id: 00066654B194 index: 87 HR: 134 RR: 21 act: 3, post: 1 T_amb: 38.0 T_corp: 66.0 batt: 88 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:34:37,020 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:34:51,981 Id: 00066654B194 index: 88 HR: 129 RR: 21 act: 3, post: 1 T_amb: 38.0 T_corp: 66.0 batt: 88 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:34:52,072 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:35:07,081 Id: 00066654B194 index: 89 HR: 129 RR: 22 act: 3, post: 1 T_amb: 38.0 T_corp: 66.0 batt: 88 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:35:07,176 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:35:09,306 Id: 00066654B194 index: 90 HR: 129 RR: 22 act: 3, post: 1 T_amb: 38.0 T_corp: 66.0 batt: 84 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:35:09,407 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:38:17,057 Id: 0006665129DF index: 132 HR: 43 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 84 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:38:17,194 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:38:32,232 Id: 0006665129DF index: 133 HR: 49 RR: 22 act: 3, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 84 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:38:32,316 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:38:42,258 Id: 00066654B196 index: 97 HR: 67 RR: 15 act: 3, post: 1 T_amb: 38.0 T_corp: 32.0 batt: 76 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:38:42,424 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 09:42:26,409 Id: 0006665129DF index: 144 HR: 49 RR: 22 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 84 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:42:26,536 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:43:11,336 Id: 0006665129DF index: 149 HR: 56 RR: 22 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 84 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:43:11,466 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:43:16,383 Id: 0006665129DF index: 150 HR: 56 RR: 22 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 84 rssi: -75 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:43:16,474 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:45:40,460 Id: 0006665129DF index: 5 HR: 24 RR: 12 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 84 rssi: -75 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:45:40,595 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:45:46,659 Id: 0006665129DF index: 6 HR: 24 RR: 12 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 84 rssi: -75 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:45:46,800 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 09:53:43,138 MW is alive
+2014-01-19 09:55:47,188 Id: 00066654B194 index: 101 HR: 129 RR: 22 act: 3, post: 1 T_amb: 38.2 T_corp: 66.0 batt: 84 rssi: -70 ap: 002722F6F081 pckt_id: 2
+2014-01-19 09:55:47,334 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:56:10,363 Id: 00066654B194 index: 105 HR: 149 RR: 22 act: 1, post: 1 T_amb: 38.2 T_corp: 66.0 batt: 84 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:56:10,491 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:56:25,463 Id: 00066654B194 index: 106 HR: 147 RR: 22 act: 1, post: 1 T_amb: 38.2 T_corp: 66.0 batt: 84 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:56:25,554 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:56:27,788 Id: 00066654B194 index: 107 HR: 147 RR: 22 act: 1, post: 1 T_amb: 38.4 T_corp: 66.0 batt: 84 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:56:27,948 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 09:56:42,888 Id: 00066654B194 index: 108 HR: 147 RR: 22 act: 1, post: 1 T_amb: 38.4 T_corp: 66.0 batt: 84 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 09:56:43,020 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 10:00:27,164 Id: 0006665129DF index: 35 HR: 24 RR: 12 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 80 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:00:27,183 Id: 0006665129DF index: 36 HR: 50 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 80 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:00:27,290 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:00:27,780 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:02:15,773 Id: 00066654B196 index: 121 HR: 67 RR: 15 act: 3, post: 1 T_amb: 38.4 T_corp: 33.0 batt: 72 rssi: -81 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:02:15,909 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 10:07:04,042 Id: 0006665129DF index: 53 HR: 50 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 80 rssi: -120 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:07:04,168 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:14:38,419 Id: 00066654B196 index: 157 HR: 67 RR: 15 act: 3, post: 1 T_amb: 38.2 T_corp: 33.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:14:38,557 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 10:14:55,244 Id: 00066654B194 index: 124 HR: 147 RR: 22 act: 1, post: 1 T_amb: 38.0 T_corp: 65.0 batt: 84 rssi: -74 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:14:55,270 Id: 00066654B194 index: 125 HR: 129 RR: 21 act: 1, post: 1 T_amb: 38.0 T_corp: 65.0 batt: 84 rssi: -74 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:14:55,400 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 10:14:55,866 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 10:23:43,209 MW is alive
+2014-01-19 10:26:42,473 Id: 00066654B196 index: 163 HR: 67 RR: 15 act: 3, post: 1 T_amb: 38.2 T_corp: 32.0 batt: 72 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:26:42,629 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 10:29:23,524 Id: 0006665129DF index: 82 HR: 50 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 80 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:29:23,542 Id: 0006665129DF index: 83 HR: 102 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 80 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:29:23,644 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:29:24,127 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:30:24,649 Id: 0006665129DF index: 89 HR: 114 RR: 22 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 80 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 10:30:24,776 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:30:39,674 Id: 0006665129DF index: 90 HR: 114 RR: 22 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 80 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 10:30:39,763 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:31:57,275 Id: 0006665129DF index: 96 HR: 107 RR: 24 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 80 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 10:31:57,420 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:32:17,549 Id: 0006665129DF index: 98 HR: 107 RR: 24 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 76 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 10:32:17,636 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:38:55,482 Id: 00066654B196 index: 199 HR: 67 RR: 15 act: 3, post: 1 T_amb: 37.4 T_corp: 33.0 batt: 68 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:38:55,515 Id: 00066654B196 index: 200 HR: 67 RR: 18 act: 2, post: 1 T_amb: 37.4 T_corp: 33.0 batt: 68 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:38:55,607 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 10:38:56,106 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 10:41:19,137 Id: 0006665129DF index: 119 HR: 103 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 76 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 10:41:19,287 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:41:19,715 Id: 0006665129DF index: 120 HR: 102 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 76 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 10:41:19,821 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:49:59,386 Id: 0006665129DF index: 156 HR: 102 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 76 rssi: -75 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:49:59,417 Id: 0006665129DF index: 157 HR: 118 RR: 21 act: 3, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 76 rssi: -75 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:49:59,513 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:50:00,031 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:51:03,063 Id: 0006665129DF index: 162 HR: 118 RR: 21 act: 3, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 76 rssi: -72 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:51:03,186 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:53:12,542 Id: 00066654B194 index: 148 HR: 129 RR: 21 act: 1, post: 1 T_amb: 38.0 T_corp: 65.0 batt: 76 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:53:12,681 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 10:53:43,300 MW is alive
+2014-01-19 10:55:45,387 Id: 0006665129DF index: 174 HR: 118 RR: 21 act: 3, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 76 rssi: -76 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:55:45,424 Id: 0006665129DF index: 175 HR: 114 RR: 20 act: 3, post: 1 T_amb: 5.0 T_corp: 33.0 batt: 76 rssi: -76 ap: 002722F6F081 pckt_id: 2
+2014-01-19 10:55:45,515 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 10:55:46,078 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:01:37,209 Id: 0006665129DF index: 198 HR: 114 RR: 20 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:01:37,233 Id: 0006665129DF index: 199 HR: 105 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:01:37,356 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:01:37,822 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:01:52,384 Id: 0006665129DF index: 201 HR: 108 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:01:52,516 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:02:07,434 Id: 0006665129DF index: 202 HR: 117 RR: 20 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:02:07,535 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:02:22,509 Id: 0006665129DF index: 203 HR: 116 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:02:22,587 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:02:24,784 Id: 0006665129DF index: 204 HR: 116 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:02:24,861 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:02:54,959 Id: 0006665129DF index: 206 HR: 113 RR: 21 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:02:55,089 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:03:10,035 Id: 0006665129DF index: 207 HR: 123 RR: 22 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:03:10,116 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:03:25,110 Id: 0006665129DF index: 208 HR: 122 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:03:25,219 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:03:27,284 Id: 0006665129DF index: 209 HR: 122 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 76 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:03:27,368 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:03:57,435 Id: 0006665129DF index: 211 HR: 123 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 76 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:03:57,555 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:04:12,534 Id: 0006665129DF index: 212 HR: 118 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 76 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:04:12,616 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:04:27,609 Id: 0006665129DF index: 213 HR: 112 RR: 23 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 76 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:04:27,692 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:04:29,810 Id: 0006665129DF index: 214 HR: 112 RR: 23 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:04:29,891 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:04:44,885 Id: 0006665129DF index: 215 HR: 123 RR: 23 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:04:44,969 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:05:15,010 Id: 0006665129DF index: 217 HR: 108 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:05:15,130 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:06:54,511 Id: 0006665129DF index: 226 HR: 116 RR: 21 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:06:54,638 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:07:24,660 Id: 0006665129DF index: 228 HR: 118 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:07:24,825 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:07:39,736 Id: 0006665129DF index: 229 HR: 118 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:07:39,818 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:07:41,961 Id: 0006665129DF index: 230 HR: 118 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:07:42,051 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:10:27,863 Id: 0006665129DF index: 244 HR: 122 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:10:27,988 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:10:58,087 Id: 0006665129DF index: 246 HR: 128 RR: 21 act: 3, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:10:58,209 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:13:03,463 Id: 0006665129DF index: 255 HR: 114 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:13:03,589 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:15:48,339 Id: 0006665129DF index: 269 HR: 114 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:15:48,358 Id: 0006665129DF index: 270 HR: 119 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:15:48,459 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:15:48,992 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:16:03,514 Id: 0006665129DF index: 272 HR: 111 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:16:03,636 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:16:55,640 Id: 0006665129DF index: 276 HR: 98 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:16:55,772 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:17:10,689 Id: 0006665129DF index: 277 HR: 98 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:17:10,766 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:17:40,830 Id: 0006665129DF index: 279 HR: 98 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:17:40,986 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:17:47,014 Id: 0006665129DF index: 280 HR: 98 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -75 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:17:47,100 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:18:02,089 Id: 0006665129DF index: 281 HR: 96 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -75 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:18:02,203 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:20:00,587 Id: 0006665129DF index: 289 HR: 93 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -75 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:20:00,710 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:20:15,690 Id: 0006665129DF index: 290 HR: 93 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -75 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:20:15,770 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:20:17,991 Id: 0006665129DF index: 291 HR: 93 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:20:18,086 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:20:32,965 Id: 0006665129DF index: 292 HR: 92 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:20:33,055 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:20:48,041 Id: 0006665129DF index: 293 HR: 92 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:20:48,123 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:21:18,190 Id: 0006665129DF index: 295 HR: 102 RR: 20 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:21:18,318 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:21:20,416 Id: 0006665129DF index: 296 HR: 102 RR: 20 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:21:20,501 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:21:35,491 Id: 0006665129DF index: 297 HR: 103 RR: 20 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:21:35,578 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:23:43,400 MW is alive
+2014-01-19 11:24:03,816 Id: 0006665129DF index: 301 HR: 103 RR: 20 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -72 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:24:03,850 Id: 0006665129DF index: 302 HR: 106 RR: 19 act: 3, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -72 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:24:03,948 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:24:04,431 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:24:33,566 Id: 0006665129DF index: 305 HR: 109 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:24:33,693 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:25:34,462 Id: 0006665129DF index: 307 HR: 109 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:25:34,593 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:25:49,467 Id: 0006665129DF index: 308 HR: 109 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:25:49,487 Id: 0006665129DF index: 310 HR: 101 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:25:49,552 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:25:50,212 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:26:37,991 Id: 0006665129DF index: 313 HR: 101 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:26:38,124 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:27:23,318 Id: 0006665129DF index: 318 HR: 103 RR: 20 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:27:23,471 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:27:25,617 Id: 0006665129DF index: 319 HR: 103 RR: 20 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 11:27:25,695 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:29:57,794 Id: 0006665129DF index: 324 HR: 103 RR: 20 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 72 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:29:57,921 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 11:32:16,039 Unexpected posture value:15
+2014-01-19 11:32:16,041 Id: 0006665505C5 index: 2 HR: 20 RR: 3 act: 16, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:32:16,061 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:32:18,109 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:32:34,597 Unexpected posture value:15
+2014-01-19 11:32:34,599 Id: 0006665505C5 index: 3 HR: 20 RR: 9 act: 16, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:32:34,619 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:33:06,637 Id: 0006665505C5 index: 2 HR: 20 RR: 11 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:33:06,656 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:33:08,707 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:33:25,247 Id: 0006665505C5 index: 3 HR: 20 RR: 17 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:33:25,272 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:33:41,914 Id: 0006665505C5 index: 4 HR: 20 RR: 19 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:33:41,970 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:33:58,488 Id: 0006665505C5 index: 5 HR: 20 RR: 20 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:33:58,516 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:34:00,566 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:34:03,728 Id: 0006665505C5 index: 6 HR: 20 RR: 20 act: 1, post: 3 T_amb: 27.4 T_corp: 23.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:34:03,773 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:34:20,306 Id: 0006665505C5 index: 7 HR: 20 RR: 20 act: 1, post: 3 T_amb: 27.4 T_corp: 23.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:34:20,333 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:34:50,087 Id: 0006665505C5 index: 2 HR: 0 RR: 9 act: 1, post: 3 T_amb: 27.4 T_corp: 23.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:34:50,111 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:34:52,160 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:35:08,720 Id: 0006665505C5 index: 3 HR: 0 RR: 13 act: 1, post: 3 T_amb: 27.4 T_corp: 23.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:35:08,737 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:35:25,266 Id: 0006665505C5 index: 4 HR: 0 RR: 16 act: 1, post: 3 T_amb: 27.4 T_corp: 23.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:35:25,291 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:35:41,806 Id: 0006665505C5 index: 5 HR: 0 RR: 18 act: 1, post: 3 T_amb: 27.4 T_corp: 23.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:35:41,856 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:35:43,904 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:35:46,954 Id: 0006665505C5 index: 6 HR: 0 RR: 18 act: 1, post: 3 T_amb: 27.2 T_corp: 24.0 batt: 84 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:35:46,996 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:36:03,525 Id: 0006665505C5 index: 7 HR: 0 RR: 19 act: 1, post: 3 T_amb: 27.2 T_corp: 24.0 batt: 84 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:36:03,547 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:36:20,066 Id: 0006665505C5 index: 8 HR: 0 RR: 20 act: 1, post: 3 T_amb: 27.2 T_corp: 24.0 batt: 84 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:36:20,090 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:36:46,093 Id: 0006665505C5 index: 2 HR: 0 RR: 14 act: 1, post: 3 T_amb: 27.2 T_corp: 24.0 batt: 84 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:36:46,112 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:36:48,161 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:37:04,728 Id: 0006665505C5 index: 3 HR: 0 RR: 16 act: 1, post: 3 T_amb: 27.2 T_corp: 24.0 batt: 84 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:37:04,746 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:37:21,375 Id: 0006665505C5 index: 4 HR: 0 RR: 17 act: 1, post: 3 T_amb: 27.2 T_corp: 24.0 batt: 84 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:37:21,397 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:37:37,925 Id: 0006665505C5 index: 5 HR: 0 RR: 18 act: 1, post: 3 T_amb: 27.2 T_corp: 24.0 batt: 84 rssi: -53 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:37:37,948 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:37:40,000 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:37:43,189 Id: 0006665505C5 index: 6 HR: 0 RR: 18 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:37:43,213 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:37:59,896 Id: 0006665505C5 index: 7 HR: 0 RR: 21 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:37:59,914 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:38:16,450 Id: 0006665505C5 index: 8 HR: 0 RR: 22 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:38:16,474 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:38:32,999 Id: 0006665505C5 index: 9 HR: 0 RR: 23 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:38:33,025 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:38:49,544 Id: 0006665505C5 index: 10 HR: 0 RR: 24 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:38:49,568 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:38:51,617 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:38:54,752 Id: 0006665505C5 index: 11 HR: 0 RR: 24 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:38:54,775 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:39:11,340 Id: 0006665505C5 index: 12 HR: 0 RR: 26 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:39:11,359 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:39:27,865 Id: 0006665505C5 index: 13 HR: 0 RR: 26 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:39:27,886 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:39:44,379 Id: 0006665505C5 index: 14 HR: 0 RR: 25 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:39:44,403 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:40:00,929 Id: 0006665505C5 index: 15 HR: 0 RR: 27 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -55 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:40:00,955 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:40:03,004 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:40:06,064 Id: 0006665505C5 index: 16 HR: 0 RR: 27 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:40:06,094 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:40:22,593 Id: 0006665505C5 index: 17 HR: 0 RR: 27 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:40:22,612 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:40:52,256 Id: 0006665505C5 index: 2 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:40:52,282 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:40:54,332 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:41:10,888 Id: 0006665505C5 index: 3 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:41:10,908 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:41:27,430 Id: 0006665505C5 index: 4 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:41:27,476 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:41:44,020 Id: 0006665505C5 index: 5 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.4 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:41:44,044 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:41:46,101 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:41:49,227 Id: 0006665505C5 index: 6 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.6 T_corp: 24.0 batt: 84 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:41:49,250 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:42:05,796 Id: 0006665505C5 index: 7 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.6 T_corp: 24.0 batt: 84 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:42:05,819 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:42:22,369 Id: 0006665505C5 index: 8 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.6 T_corp: 24.0 batt: 84 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:42:22,395 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:42:38,937 Id: 0006665505C5 index: 9 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.6 T_corp: 24.0 batt: 84 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:42:38,963 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:42:55,484 Id: 0006665505C5 index: 10 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.6 T_corp: 24.0 batt: 84 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:42:55,506 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:42:57,556 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:43:00,697 Id: 0006665505C5 index: 11 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.8 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:43:00,736 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:43:17,261 Id: 0006665505C5 index: 12 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.8 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:43:17,280 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:43:33,829 Id: 0006665505C5 index: 13 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.8 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:43:33,856 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:43:50,406 Id: 0006665505C5 index: 14 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.8 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:43:50,432 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:44:06,953 Id: 0006665505C5 index: 15 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.8 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:44:06,984 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:44:09,033 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:44:12,102 Id: 0006665505C5 index: 16 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.8 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:44:12,123 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:44:28,618 Id: 0006665505C5 index: 17 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.8 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:44:28,641 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:44:45,173 Id: 0006665505C5 index: 18 HR: 0 RR: 0 act: 1, post: 3 T_amb: 27.8 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:44:45,192 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:45:20,824 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:45:22,497 Id: 0006665505C5 index: 19 HR: 0 RR: 0 act: 2, post: 2 T_amb: 27.8 T_corp: 24.0 batt: 84 rssi: -54 ap: 003A99C80F10 pckt_id: 2
+2014-01-19 11:45:22,518 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:45:24,009 Id: 0006665505C5 index: 21 HR: 0 RR: 0 act: 2, post: 2 T_amb: 28.0 T_corp: 26.0 batt: 84 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 11:45:24,034 RMS responded "NOK: Device not in use" to send_data from SS 0006665505C5
+2014-01-19 11:46:36,260 Id: 0006665505BC index: 2 HR: 20 RR: 25 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:46:36,287 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-19 11:46:38,336 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:47:09,984 Id: 0006665505BC index: 2 HR: 0 RR: 0 act: 2, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:47:10,005 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-19 11:47:12,073 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 11:47:28,540 Id: 0006665505BC index: 3 HR: 0 RR: 0 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:47:28,564 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-19 11:47:45,047 Id: 0006665505BC index: 4 HR: 0 RR: 0 act: 1, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 11:47:45,066 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BC
+2014-01-19 11:52:16,935 Id: 00066654B194 index: 166 HR: 129 RR: 21 act: 1, post: 1 T_amb: 40.0 T_corp: 67.0 batt: 76 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 11:52:17,084 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 11:53:43,487 MW is alive
+2014-01-19 12:08:11,819 Id: 00066654B196 index: 305 HR: 141 RR: 14 act: 3, post: 1 T_amb: 37.4 T_corp: 33.0 batt: 68 rssi: -80 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:08:11,942 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:08:33,156 Id: 00066654B196 index: 307 HR: 143 RR: 14 act: 3, post: 2 T_amb: 37.4 T_corp: 33.0 batt: 68 rssi: -80 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:08:33,287 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:23:43,587 MW is alive
+2014-01-19 12:30:01,782 Id: 00066654B196 index: 343 HR: 149 RR: 24 act: 3, post: 1 T_amb: 37.4 T_corp: 33.0 batt: 68 rssi: -80 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:30:01,904 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:30:16,865 Id: 00066654B196 index: 344 HR: 145 RR: 25 act: 3, post: 1 T_amb: 37.4 T_corp: 33.0 batt: 68 rssi: -80 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:30:16,948 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:30:31,939 Id: 00066654B196 index: 345 HR: 140 RR: 25 act: 2, post: 1 T_amb: 37.4 T_corp: 33.0 batt: 68 rssi: -80 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:30:32,067 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:30:34,162 Id: 00066654B196 index: 346 HR: 140 RR: 25 act: 2, post: 1 T_amb: 35.0 T_corp: 33.0 batt: 60 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:30:34,241 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:30:49,238 Id: 00066654B196 index: 347 HR: 129 RR: 25 act: 3, post: 1 T_amb: 35.0 T_corp: 33.0 batt: 60 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:30:49,317 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:31:19,488 Id: 00066654B196 index: 349 HR: 141 RR: 25 act: 3, post: 1 T_amb: 35.0 T_corp: 33.0 batt: 60 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:31:19,663 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:34:25,189 Id: 00066654B196 index: 352 HR: 149 RR: 25 act: 3, post: 1 T_amb: 35.0 T_corp: 33.0 batt: 60 rssi: -69 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:34:25,210 Id: 00066654B196 index: 354 HR: 149 RR: 26 act: 2, post: 1 T_amb: 35.0 T_corp: 33.0 batt: 60 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:34:25,642 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:34:25,833 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:34:40,264 Id: 00066654B196 index: 355 HR: 149 RR: 25 act: 2, post: 1 T_amb: 35.0 T_corp: 33.0 batt: 60 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:34:40,344 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:34:55,365 Id: 00066654B196 index: 356 HR: 148 RR: 26 act: 2, post: 1 T_amb: 35.0 T_corp: 33.0 batt: 60 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:34:55,454 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:34:57,564 Id: 00066654B196 index: 357 HR: 148 RR: 26 act: 2, post: 1 T_amb: 34.6 T_corp: 30.0 batt: 60 rssi: -68 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:34:57,704 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:36:09,315 Id: 00066654B194 index: 172 HR: 129 RR: 21 act: 1, post: 1 T_amb: 39.6 T_corp: 66.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:36:09,334 Id: 00066654B194 index: 173 HR: 94 RR: 19 act: 2, post: 2 T_amb: 39.6 T_corp: 66.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:36:09,481 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:36:09,939 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:36:39,365 Id: 00066654B194 index: 176 HR: 91 RR: 12 act: 3, post: 2 T_amb: 39.6 T_corp: 66.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:36:39,501 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:36:53,365 Id: 00066654B196 index: 366 HR: 130 RR: 26 act: 3, post: 2 T_amb: 34.6 T_corp: 30.0 batt: 60 rssi: -68 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:36:53,495 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:36:54,490 Id: 00066654B194 index: 177 HR: 86 RR: 12 act: 1, post: 3 T_amb: 39.6 T_corp: 66.0 batt: 72 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:36:54,595 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:37:08,390 Id: 00066654B196 index: 367 HR: 127 RR: 26 act: 1, post: 1 T_amb: 34.6 T_corp: 30.0 batt: 60 rssi: -68 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:37:08,518 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:37:10,615 Id: 00066654B196 index: 368 HR: 127 RR: 26 act: 1, post: 1 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:37:10,705 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:37:25,665 Id: 00066654B196 index: 369 HR: 121 RR: 26 act: 1, post: 1 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:37:25,756 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:37:31,916 Id: 00066654B194 index: 179 HR: 86 RR: 12 act: 1, post: 3 T_amb: 34.6 T_corp: 64.0 batt: 68 rssi: 0 ap: 002722F6EFB5 pckt_id: 2
+2014-01-19 12:37:32,063 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:37:40,741 Id: 00066654B196 index: 370 HR: 105 RR: 26 act: 1, post: 1 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:37:40,834 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:37:47,120 Id: 00066654B194 index: 180 HR: 87 RR: 12 act: 2, post: 1 T_amb: 34.6 T_corp: 64.0 batt: 68 rssi: 0 ap: 002722F6EFB5 pckt_id: 2
+2014-01-19 12:37:47,236 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:37:55,791 Id: 00066654B196 index: 371 HR: 96 RR: 26 act: 1, post: 2 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:37:55,877 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:38:02,166 Id: 00066654B194 index: 182 HR: 80 RR: 12 act: 1, post: 1 T_amb: 34.6 T_corp: 64.0 batt: 68 rssi: 0 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:02,180 Id: 00066654B194 index: 183 HR: 81 RR: 12 act: 3, post: 1 T_amb: 34.6 T_corp: 64.0 batt: 68 rssi: 0 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:02,342 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:38:02,783 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:38:10,841 Id: 00066654B196 index: 372 HR: 91 RR: 26 act: 2, post: 2 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:10,929 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:38:13,041 Id: 00066654B196 index: 373 HR: 91 RR: 26 act: 2, post: 2 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -64 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:13,129 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:38:17,241 Id: 00066654B194 index: 184 HR: 75 RR: 12 act: 1, post: 1 T_amb: 34.6 T_corp: 64.0 batt: 68 rssi: 0 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:17,335 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:38:19,559 Id: 00066654B194 index: 185 HR: 75 RR: 12 act: 1, post: 1 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:19,660 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:38:28,090 Id: 00066654B196 index: 374 HR: 91 RR: 26 act: 2, post: 2 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -64 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:28,240 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:38:34,621 Id: 00066654B194 index: 186 HR: 74 RR: 12 act: 1, post: 1 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:34,737 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:38:43,146 Id: 00066654B196 index: 375 HR: 90 RR: 25 act: 1, post: 1 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -64 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:43,233 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:38:49,696 Id: 00066654B194 index: 187 HR: 75 RR: 12 act: 1, post: 2 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:49,839 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:38:58,221 Id: 00066654B196 index: 376 HR: 94 RR: 25 act: 3, post: 1 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -64 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:38:58,310 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:39:04,770 Id: 00066654B194 index: 188 HR: 75 RR: 12 act: 2, post: 2 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:39:04,874 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:39:13,272 Id: 00066654B196 index: 377 HR: 96 RR: 25 act: 3, post: 2 T_amb: 34.2 T_corp: 30.0 batt: 57 rssi: -64 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:39:13,362 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:39:15,544 Id: 00066654B196 index: 378 HR: 96 RR: 25 act: 3, post: 2 T_amb: 34.0 T_corp: 29.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:39:15,637 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:39:19,822 Id: 00066654B194 index: 189 HR: 76 RR: 12 act: 1, post: 2 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:39:19,927 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:39:22,094 Id: 00066654B194 index: 190 HR: 76 RR: 12 act: 1, post: 2 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:39:22,201 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:39:30,595 Id: 00066654B196 index: 379 HR: 84 RR: 25 act: 2, post: 2 T_amb: 34.0 T_corp: 29.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:39:30,689 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:39:37,169 Id: 00066654B194 index: 191 HR: 81 RR: 12 act: 3, post: 1 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:39:37,269 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:39:45,669 Id: 00066654B196 index: 380 HR: 72 RR: 25 act: 1, post: 2 T_amb: 34.0 T_corp: 29.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:39:45,775 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:39:52,244 Id: 00066654B194 index: 192 HR: 78 RR: 12 act: 3, post: 1 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:39:52,346 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:40:00,719 Id: 00066654B196 index: 381 HR: 81 RR: 25 act: 2, post: 2 T_amb: 34.0 T_corp: 29.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:00,814 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:40:07,294 Id: 00066654B194 index: 193 HR: 80 RR: 12 act: 1, post: 1 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:07,416 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:40:15,794 Id: 00066654B196 index: 382 HR: 81 RR: 24 act: 2, post: 2 T_amb: 34.0 T_corp: 29.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:15,895 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:40:18,070 Id: 00066654B196 index: 383 HR: 81 RR: 24 act: 2, post: 2 T_amb: 34.0 T_corp: 30.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:18,186 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:40:22,362 Id: 00066654B194 index: 194 HR: 79 RR: 12 act: 2, post: 1 T_amb: 34.8 T_corp: 64.0 batt: 68 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:22,467 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:40:24,621 Id: 00066654B194 index: 195 HR: 79 RR: 12 act: 2, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:24,725 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:40:33,122 Id: 00066654B196 index: 384 HR: 88 RR: 24 act: 2, post: 2 T_amb: 34.0 T_corp: 30.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:33,221 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:40:39,696 Id: 00066654B194 index: 196 HR: 79 RR: 13 act: 1, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:39,822 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:40:48,171 Id: 00066654B196 index: 385 HR: 88 RR: 24 act: 2, post: 1 T_amb: 34.0 T_corp: 30.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:48,274 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:40:54,771 Id: 00066654B194 index: 197 HR: 79 RR: 13 act: 1, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:40:54,888 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:41:03,219 Id: 00066654B196 index: 386 HR: 96 RR: 24 act: 2, post: 2 T_amb: 34.0 T_corp: 30.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:03,309 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:41:09,845 Id: 00066654B194 index: 198 HR: 79 RR: 13 act: 1, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:09,956 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:41:18,270 Id: 00066654B196 index: 387 HR: 89 RR: 24 act: 2, post: 2 T_amb: 34.0 T_corp: 30.0 batt: 60 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:18,377 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:41:20,595 Id: 00066654B196 index: 388 HR: 89 RR: 24 act: 2, post: 2 T_amb: 34.0 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:20,693 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:41:24,906 Id: 00066654B194 index: 199 HR: 79 RR: 13 act: 1, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:25,051 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:41:27,245 Id: 00066654B194 index: 200 HR: 79 RR: 13 act: 1, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:27,340 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:41:35,645 Id: 00066654B196 index: 389 HR: 76 RR: 24 act: 2, post: 2 T_amb: 34.0 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:35,745 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:41:42,271 Id: 00066654B194 index: 201 HR: 79 RR: 13 act: 2, post: 2 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:42,358 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:41:50,720 Id: 00066654B196 index: 390 HR: 74 RR: 24 act: 1, post: 2 T_amb: 34.0 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:50,815 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:41:57,345 Id: 00066654B194 index: 202 HR: 80 RR: 13 act: 2, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:41:57,436 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:42:05,748 Id: 00066654B196 index: 391 HR: 79 RR: 24 act: 2, post: 2 T_amb: 34.0 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:05,843 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:42:12,402 Id: 00066654B194 index: 203 HR: 81 RR: 13 act: 1, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:12,497 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:42:20,798 Id: 00066654B196 index: 392 HR: 81 RR: 24 act: 1, post: 2 T_amb: 34.0 T_corp: 30.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:20,901 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:42:23,098 Id: 00066654B196 index: 393 HR: 81 RR: 24 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 60 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:23,209 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:42:27,472 Id: 00066654B194 index: 204 HR: 81 RR: 13 act: 2, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 68 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:27,565 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:42:29,747 Id: 00066654B194 index: 205 HR: 81 RR: 13 act: 2, post: 1 T_amb: 35.0 T_corp: 65.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:29,839 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:42:38,149 Id: 00066654B196 index: 394 HR: 71 RR: 23 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 60 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:38,277 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:42:44,796 Id: 00066654B194 index: 206 HR: 81 RR: 13 act: 1, post: 2 T_amb: 35.0 T_corp: 65.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:44,902 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:42:53,220 Id: 00066654B196 index: 395 HR: 77 RR: 23 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 60 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:53,326 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:42:59,847 Id: 00066654B194 index: 207 HR: 81 RR: 13 act: 2, post: 2 T_amb: 35.0 T_corp: 65.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:42:59,952 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:43:08,270 Id: 00066654B196 index: 396 HR: 78 RR: 23 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 60 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:43:08,382 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:43:14,946 Id: 00066654B194 index: 208 HR: 80 RR: 13 act: 2, post: 2 T_amb: 35.0 T_corp: 65.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:43:15,037 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:43:23,345 Id: 00066654B196 index: 397 HR: 76 RR: 23 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 60 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:43:23,450 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:43:25,620 Id: 00066654B196 index: 398 HR: 76 RR: 23 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:43:25,707 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:43:30,057 Id: 00066654B194 index: 209 HR: 81 RR: 13 act: 2, post: 1 T_amb: 35.0 T_corp: 65.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:43:30,166 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:43:32,246 Id: 00066654B194 index: 210 HR: 81 RR: 13 act: 2, post: 1 T_amb: 35.2 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:43:32,338 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:43:40,670 Id: 00066654B196 index: 399 HR: 76 RR: 23 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:43:40,768 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:43:47,321 Id: 00066654B194 index: 211 HR: 79 RR: 13 act: 1, post: 1 T_amb: 35.2 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:43:47,424 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:43:55,720 Id: 00066654B196 index: 400 HR: 72 RR: 22 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:43:55,812 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:44:02,372 Id: 00066654B194 index: 212 HR: 79 RR: 13 act: 2, post: 1 T_amb: 35.2 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:02,460 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:44:10,776 Id: 00066654B196 index: 401 HR: 71 RR: 22 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:10,864 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:44:17,448 Id: 00066654B194 index: 213 HR: 80 RR: 13 act: 1, post: 1 T_amb: 35.2 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:17,554 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:44:25,848 Id: 00066654B196 index: 402 HR: 86 RR: 22 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:25,951 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:44:28,147 Id: 00066654B196 index: 403 HR: 86 RR: 22 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:28,240 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:44:32,499 Id: 00066654B194 index: 214 HR: 80 RR: 13 act: 2, post: 1 T_amb: 35.2 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:32,597 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:44:34,772 Id: 00066654B194 index: 215 HR: 80 RR: 13 act: 2, post: 1 T_amb: 35.2 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:34,870 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:44:43,196 Id: 00066654B196 index: 404 HR: 77 RR: 22 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:43,283 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:44:49,822 Id: 00066654B194 index: 216 HR: 80 RR: 13 act: 2, post: 1 T_amb: 35.2 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:49,932 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:44:58,246 Id: 00066654B196 index: 405 HR: 81 RR: 22 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:44:58,353 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:45:04,896 Id: 00066654B194 index: 217 HR: 81 RR: 13 act: 1, post: 1 T_amb: 35.2 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:45:04,991 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:45:13,273 Id: 00066654B196 index: 406 HR: 76 RR: 22 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:45:13,380 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:45:19,971 Id: 00066654B194 index: 218 HR: 86 RR: 12 act: 1, post: 1 T_amb: 35.2 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:45:20,069 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:45:28,346 Id: 00066654B196 index: 407 HR: 73 RR: 21 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:45:28,448 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:45:30,640 Id: 00066654B196 index: 408 HR: 73 RR: 21 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:45:30,797 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:45:35,020 Id: 00066654B194 index: 219 HR: 90 RR: 12 act: 1, post: 1 T_amb: 35.2 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:45:35,121 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:45:37,297 Id: 00066654B194 index: 220 HR: 90 RR: 12 act: 1, post: 1 T_amb: 35.4 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:45:37,386 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:45:45,697 Id: 00066654B196 index: 409 HR: 68 RR: 21 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:45:45,808 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:45:52,359 Id: 00066654B194 index: 221 HR: 89 RR: 12 act: 2, post: 1 T_amb: 35.4 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:45:52,517 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:46:00,752 Id: 00066654B196 index: 410 HR: 65 RR: 21 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:00,852 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:46:07,425 Id: 00066654B194 index: 222 HR: 90 RR: 12 act: 1, post: 1 T_amb: 35.4 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:07,545 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:46:15,802 Id: 00066654B196 index: 411 HR: 66 RR: 21 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:15,921 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:46:22,500 Id: 00066654B194 index: 223 HR: 92 RR: 12 act: 1, post: 1 T_amb: 35.4 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:22,601 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:46:30,850 Id: 00066654B196 index: 412 HR: 82 RR: 21 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:30,948 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:46:33,173 Id: 00066654B196 index: 413 HR: 82 RR: 21 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:33,279 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:46:37,548 Id: 00066654B194 index: 224 HR: 92 RR: 12 act: 1, post: 1 T_amb: 35.4 T_corp: 63.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:37,645 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:46:39,800 Id: 00066654B194 index: 225 HR: 92 RR: 12 act: 1, post: 1 T_amb: 35.4 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:39,894 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:46:48,210 Id: 00066654B196 index: 414 HR: 74 RR: 21 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:48,318 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:46:54,874 Id: 00066654B194 index: 226 HR: 92 RR: 12 act: 1, post: 1 T_amb: 35.4 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:46:54,971 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:47:03,274 Id: 00066654B196 index: 415 HR: 81 RR: 20 act: 1, post: 1 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:03,359 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:47:09,949 Id: 00066654B194 index: 227 HR: 93 RR: 12 act: 2, post: 1 T_amb: 35.4 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:10,066 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:47:18,324 Id: 00066654B196 index: 416 HR: 81 RR: 20 act: 1, post: 1 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:18,428 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:47:25,000 Id: 00066654B194 index: 228 HR: 92 RR: 12 act: 1, post: 1 T_amb: 35.4 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:25,102 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:47:33,373 Id: 00066654B196 index: 417 HR: 79 RR: 20 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:33,463 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:47:35,699 Id: 00066654B196 index: 418 HR: 79 RR: 20 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:35,804 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:47:40,071 Id: 00066654B194 index: 229 HR: 92 RR: 12 act: 1, post: 1 T_amb: 35.4 T_corp: 64.0 batt: 68 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:40,177 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:47:42,325 Id: 00066654B194 index: 230 HR: 92 RR: 12 act: 1, post: 1 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:42,426 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:47:50,750 Id: 00066654B196 index: 419 HR: 76 RR: 20 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:50,873 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:47:57,401 Id: 00066654B194 index: 231 HR: 95 RR: 12 act: 1, post: 2 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:47:57,503 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:48:05,801 Id: 00066654B196 index: 420 HR: 78 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:05,909 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:48:12,456 Id: 00066654B194 index: 232 HR: 95 RR: 12 act: 1, post: 1 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:12,572 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:48:20,847 Id: 00066654B196 index: 421 HR: 80 RR: 19 act: 2, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:20,944 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:48:27,522 Id: 00066654B194 index: 233 HR: 96 RR: 12 act: 1, post: 1 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:27,633 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:48:35,898 Id: 00066654B196 index: 422 HR: 74 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 31.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:36,004 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:48:38,198 Id: 00066654B196 index: 423 HR: 74 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 60 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:38,294 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:48:42,582 Id: 00066654B194 index: 234 HR: 96 RR: 12 act: 1, post: 1 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:42,695 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:48:44,826 Id: 00066654B194 index: 235 HR: 96 RR: 12 act: 1, post: 1 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:44,933 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:48:53,272 Id: 00066654B196 index: 424 HR: 84 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 60 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:53,363 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:48:59,898 Id: 00066654B194 index: 236 HR: 96 RR: 12 act: 2, post: 1 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:48:59,994 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:49:08,298 Id: 00066654B196 index: 425 HR: 79 RR: 19 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 60 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:49:08,399 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:49:14,972 Id: 00066654B194 index: 237 HR: 96 RR: 12 act: 1, post: 1 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:49:15,071 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:49:23,348 Id: 00066654B196 index: 426 HR: 79 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 60 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:49:23,476 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:49:30,014 Id: 00066654B194 index: 238 HR: 94 RR: 12 act: 2, post: 1 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:49:30,115 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:49:38,401 Id: 00066654B196 index: 427 HR: 76 RR: 19 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 60 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:49:38,502 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:49:40,724 Id: 00066654B196 index: 428 HR: 76 RR: 19 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:49:40,826 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:49:45,088 Id: 00066654B194 index: 239 HR: 94 RR: 12 act: 1, post: 1 T_amb: 35.6 T_corp: 65.0 batt: 68 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:49:45,191 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:49:47,351 Id: 00066654B194 index: 240 HR: 94 RR: 12 act: 1, post: 1 T_amb: 35.8 T_corp: 64.0 batt: 64 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:49:47,475 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:49:55,774 Id: 00066654B196 index: 429 HR: 76 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:49:55,871 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:50:02,423 Id: 00066654B194 index: 241 HR: 93 RR: 12 act: 2, post: 1 T_amb: 35.8 T_corp: 64.0 batt: 64 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:02,526 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:50:10,823 Id: 00066654B196 index: 430 HR: 70 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:10,949 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:50:17,473 Id: 00066654B194 index: 242 HR: 94 RR: 12 act: 2, post: 1 T_amb: 35.8 T_corp: 64.0 batt: 64 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:17,561 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:50:25,872 Id: 00066654B196 index: 431 HR: 80 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:26,000 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:50:32,548 Id: 00066654B194 index: 243 HR: 96 RR: 12 act: 1, post: 1 T_amb: 35.8 T_corp: 64.0 batt: 64 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:32,650 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:50:40,923 Id: 00066654B196 index: 432 HR: 74 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:41,018 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:50:43,248 Id: 00066654B196 index: 433 HR: 74 RR: 19 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:43,350 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:50:47,604 Id: 00066654B194 index: 244 HR: 96 RR: 12 act: 1, post: 1 T_amb: 35.8 T_corp: 64.0 batt: 64 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:47,716 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:50:49,873 Id: 00066654B194 index: 245 HR: 96 RR: 12 act: 1, post: 1 T_amb: 36.0 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:49,964 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:50:58,298 Id: 00066654B196 index: 434 HR: 75 RR: 19 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:50:58,420 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:51:04,947 Id: 00066654B194 index: 246 HR: 94 RR: 12 act: 1, post: 2 T_amb: 36.0 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:51:05,051 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:51:13,348 Id: 00066654B196 index: 435 HR: 76 RR: 18 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:51:13,455 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:51:20,002 Id: 00066654B194 index: 247 HR: 93 RR: 12 act: 1, post: 1 T_amb: 36.0 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:51:20,120 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:51:28,399 Id: 00066654B196 index: 436 HR: 78 RR: 18 act: 1, post: 1 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:51:28,507 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:51:35,125 Id: 00066654B194 index: 248 HR: 93 RR: 12 act: 2, post: 1 T_amb: 36.0 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:51:35,242 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:51:43,450 Id: 00066654B196 index: 437 HR: 78 RR: 18 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:51:43,550 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:51:45,750 Id: 00066654B196 index: 438 HR: 78 RR: 18 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:51:45,858 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:51:50,175 Id: 00066654B194 index: 249 HR: 93 RR: 12 act: 1, post: 1 T_amb: 36.0 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:51:50,273 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:51:52,398 Id: 00066654B194 index: 250 HR: 93 RR: 12 act: 1, post: 1 T_amb: 36.0 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:51:52,505 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:52:00,791 Id: 00066654B196 index: 439 HR: 76 RR: 18 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:00,910 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:52:07,449 Id: 00066654B194 index: 251 HR: 92 RR: 12 act: 1, post: 2 T_amb: 36.0 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:07,557 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:52:15,845 Id: 00066654B196 index: 440 HR: 74 RR: 18 act: 2, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:15,946 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:52:22,528 Id: 00066654B194 index: 252 HR: 92 RR: 12 act: 1, post: 1 T_amb: 36.0 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:22,643 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:52:30,924 Id: 00066654B196 index: 441 HR: 71 RR: 18 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:31,023 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:52:37,624 Id: 00066654B194 index: 253 HR: 90 RR: 13 act: 1, post: 1 T_amb: 36.0 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:37,745 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:52:45,957 Id: 00066654B196 index: 442 HR: 78 RR: 18 act: 1, post: 2 T_amb: 33.8 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:46,075 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:52:48,262 Id: 00066654B196 index: 443 HR: 78 RR: 18 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:48,357 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:52:52,692 Id: 00066654B194 index: 254 HR: 91 RR: 13 act: 1, post: 2 T_amb: 36.0 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:52,788 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:52:55,075 Id: 00066654B194 index: 255 HR: 91 RR: 13 act: 1, post: 2 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:52:55,171 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:53:03,325 Id: 00066654B196 index: 444 HR: 86 RR: 17 act: 2, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:03,426 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:53:10,127 Id: 00066654B194 index: 256 HR: 89 RR: 12 act: 1, post: 2 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:10,223 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:53:18,376 Id: 00066654B196 index: 445 HR: 77 RR: 17 act: 2, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:18,495 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:53:25,201 Id: 00066654B194 index: 257 HR: 92 RR: 12 act: 2, post: 1 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:25,300 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:53:33,429 Id: 00066654B196 index: 446 HR: 74 RR: 17 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:33,530 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:53:40,302 Id: 00066654B194 index: 258 HR: 91 RR: 13 act: 1, post: 2 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:40,402 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:53:43,687 MW is alive
+2014-01-19 12:53:48,502 Id: 00066654B196 index: 447 HR: 71 RR: 17 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:48,607 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:53:50,802 Id: 00066654B196 index: 448 HR: 71 RR: 17 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:50,897 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:53:55,356 Id: 00066654B194 index: 259 HR: 91 RR: 13 act: 1, post: 2 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:55,462 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:53:57,575 Id: 00066654B194 index: 260 HR: 91 RR: 13 act: 1, post: 2 T_amb: 36.4 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:53:57,678 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:54:05,826 Id: 00066654B196 index: 449 HR: 72 RR: 17 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:54:05,908 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:54:09,101 Id: 0006665129DF index: 354 HR: 103 RR: 20 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 72 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,137 Id: 0006665129DF index: 355 HR: 105 RR: 20 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 72 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,176 Id: 0006665129DF index: 356 HR: 94 RR: 20 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 72 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,217 Id: 0006665129DF index: 357 HR: 106 RR: 21 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 72 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,251 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:09,256 Id: 0006665129DF index: 358 HR: 119 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 72 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,311 Id: 0006665129DF index: 359 HR: 119 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 60 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,352 Id: 0006665129DF index: 360 HR: 120 RR: 25 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 60 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,395 Id: 0006665129DF index: 361 HR: 119 RR: 25 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 60 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,400 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:09,430 Id: 0006665129DF index: 362 HR: 118 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 60 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,473 Id: 0006665129DF index: 363 HR: 107 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 60 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 12:54:09,543 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:09,749 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:09,924 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:10,024 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:10,282 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:10,457 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:10,565 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:10,840 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:12,643 Id: 00066654B194 index: 261 HR: 91 RR: 13 act: 2, post: 1 T_amb: 36.4 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:54:12,731 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:54:20,878 Id: 00066654B196 index: 450 HR: 70 RR: 17 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:54:20,978 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:54:24,402 Id: 0006665129DF index: 365 HR: 98 RR: 5 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 60 rssi: -80 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:54:24,527 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:27,752 Id: 00066654B194 index: 262 HR: 91 RR: 14 act: 3, post: 1 T_amb: 36.4 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:54:27,851 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:54:35,926 Id: 00066654B196 index: 451 HR: 67 RR: 17 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:54:36,022 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:54:39,474 Id: 0006665129DF index: 366 HR: 92 RR: 11 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 60 rssi: -80 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:54:39,553 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:42,824 Id: 00066654B194 index: 263 HR: 92 RR: 14 act: 1, post: 1 T_amb: 36.4 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:54:42,919 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:54:50,976 Id: 00066654B196 index: 452 HR: 64 RR: 17 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:54:51,074 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:54:53,301 Id: 00066654B196 index: 453 HR: 64 RR: 17 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:54:53,415 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:54:54,551 Id: 0006665129DF index: 367 HR: 89 RR: 11 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 60 rssi: -80 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:54:54,631 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:54:57,901 Id: 00066654B194 index: 264 HR: 92 RR: 14 act: 1, post: 1 T_amb: 36.4 T_corp: 64.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:54:57,996 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:55:00,201 Id: 00066654B194 index: 265 HR: 92 RR: 14 act: 1, post: 1 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:00,304 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:55:08,354 Id: 00066654B196 index: 454 HR: 61 RR: 17 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:08,458 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:55:09,626 Id: 0006665129DF index: 368 HR: 90 RR: 11 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 60 rssi: -80 ap: 002722F6F081 pckt_id: 1
+2014-01-19 12:55:09,708 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:55:11,804 Id: 0006665129DF index: 369 HR: 90 RR: 11 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -46 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:11,890 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:55:15,276 Id: 00066654B194 index: 266 HR: 93 RR: 14 act: 1, post: 2 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:15,373 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:55:23,427 Id: 00066654B196 index: 455 HR: 59 RR: 16 act: 2, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:23,527 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:55:26,903 Id: 0006665129DF index: 370 HR: 96 RR: 11 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -46 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:26,992 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:55:30,353 Id: 00066654B194 index: 267 HR: 92 RR: 13 act: 1, post: 1 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:30,458 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:55:38,478 Id: 00066654B196 index: 456 HR: 59 RR: 16 act: 2, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:38,590 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:55:41,978 Id: 0006665129DF index: 371 HR: 99 RR: 12 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -46 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:42,087 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:55:45,428 Id: 00066654B194 index: 268 HR: 93 RR: 13 act: 2, post: 1 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:45,526 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:55:53,538 Id: 00066654B196 index: 457 HR: 68 RR: 16 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:53,648 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:55:55,827 Id: 00066654B196 index: 458 HR: 68 RR: 16 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:55,922 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:55:57,076 Id: 0006665129DF index: 372 HR: 111 RR: 12 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -46 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:55:57,172 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:56:00,502 Id: 00066654B194 index: 269 HR: 93 RR: 14 act: 2, post: 1 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -49 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:00,596 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:56:02,877 Id: 00066654B194 index: 270 HR: 93 RR: 14 act: 2, post: 1 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:02,978 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:56:10,877 Id: 00066654B196 index: 459 HR: 69 RR: 16 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:10,974 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:56:12,252 Id: 0006665129DF index: 373 HR: 113 RR: 13 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -46 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:12,341 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:56:14,479 Id: 0006665129DF index: 374 HR: 113 RR: 13 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -68 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:14,607 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:56:17,927 Id: 00066654B194 index: 271 HR: 86 RR: 13 act: 1, post: 2 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:18,030 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:56:25,931 Id: 00066654B196 index: 460 HR: 74 RR: 16 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:26,035 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:56:29,627 Id: 0006665129DF index: 375 HR: 112 RR: 12 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -68 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:29,709 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:56:33,001 Id: 00066654B194 index: 272 HR: 88 RR: 13 act: 2, post: 1 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:33,099 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:56:40,996 Id: 00066654B196 index: 461 HR: 72 RR: 16 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:41,086 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:56:44,646 Id: 0006665129DF index: 376 HR: 113 RR: 12 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -68 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:44,744 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:56:48,072 Id: 00066654B194 index: 273 HR: 91 RR: 13 act: 1, post: 2 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:48,176 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:56:56,047 Id: 00066654B196 index: 462 HR: 65 RR: 16 act: 2, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -58 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:56,148 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:56:58,364 Id: 00066654B196 index: 463 HR: 65 RR: 16 act: 2, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:58,489 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:56:59,752 Id: 0006665129DF index: 377 HR: 109 RR: 13 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -68 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:56:59,846 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 12:57:03,152 Id: 00066654B194 index: 274 HR: 92 RR: 13 act: 1, post: 2 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:57:03,253 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:57:05,379 Id: 00066654B194 index: 275 HR: 92 RR: 13 act: 1, post: 2 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:57:05,570 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:57:13,380 Id: 00066654B196 index: 464 HR: 62 RR: 16 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:57:13,482 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:57:20,453 Id: 00066654B194 index: 276 HR: 92 RR: 13 act: 1, post: 2 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:57:20,555 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:57:28,452 Id: 00066654B196 index: 465 HR: 61 RR: 16 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:57:28,551 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:57:35,527 Id: 00066654B194 index: 277 HR: 93 RR: 13 act: 1, post: 1 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:57:35,622 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:57:43,479 Id: 00066654B196 index: 466 HR: 62 RR: 16 act: 2, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:57:43,587 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:57:50,602 Id: 00066654B194 index: 278 HR: 93 RR: 13 act: 2, post: 1 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:57:50,700 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:57:58,529 Id: 00066654B196 index: 467 HR: 63 RR: 16 act: 1, post: 2 T_amb: 34.0 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:57:58,638 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:58:00,873 Id: 00066654B196 index: 468 HR: 63 RR: 16 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:58:00,971 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:58:05,677 Id: 00066654B194 index: 279 HR: 92 RR: 13 act: 2, post: 1 T_amb: 36.6 T_corp: 65.0 batt: 64 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:58:05,768 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:58:07,903 Id: 00066654B194 index: 280 HR: 92 RR: 13 act: 2, post: 1 T_amb: 36.8 T_corp: 65.0 batt: 64 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:58:08,001 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:58:15,952 Id: 00066654B196 index: 469 HR: 59 RR: 16 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:58:16,073 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:58:22,977 Id: 00066654B194 index: 281 HR: 91 RR: 13 act: 1, post: 1 T_amb: 36.8 T_corp: 65.0 batt: 64 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:58:23,096 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:58:30,952 Id: 00066654B196 index: 470 HR: 54 RR: 16 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:58:31,058 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:58:38,052 Id: 00066654B194 index: 282 HR: 92 RR: 13 act: 1, post: 1 T_amb: 36.8 T_corp: 65.0 batt: 64 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:58:38,155 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:58:46,007 Id: 00066654B196 index: 471 HR: 50 RR: 16 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:58:46,111 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:58:53,114 Id: 00066654B194 index: 283 HR: 91 RR: 13 act: 1, post: 2 T_amb: 36.8 T_corp: 65.0 batt: 64 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:58:53,216 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:59:01,065 Id: 00066654B196 index: 472 HR: 49 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -52 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:01,179 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:59:03,379 Id: 00066654B196 index: 473 HR: 49 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:03,478 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:59:08,204 Id: 00066654B194 index: 284 HR: 90 RR: 13 act: 1, post: 1 T_amb: 36.8 T_corp: 65.0 batt: 64 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:08,326 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:59:10,428 Id: 00066654B194 index: 285 HR: 90 RR: 13 act: 1, post: 1 T_amb: 36.8 T_corp: 64.0 batt: 64 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:10,525 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:59:18,428 Id: 00066654B196 index: 474 HR: 51 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:18,530 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:59:25,502 Id: 00066654B194 index: 286 HR: 88 RR: 13 act: 2, post: 1 T_amb: 36.8 T_corp: 64.0 batt: 64 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:25,602 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:59:33,478 Id: 00066654B196 index: 475 HR: 74 RR: 15 act: 2, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:33,574 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:59:40,577 Id: 00066654B194 index: 287 HR: 87 RR: 13 act: 1, post: 1 T_amb: 36.8 T_corp: 64.0 batt: 64 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:40,673 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 12:59:48,528 Id: 00066654B196 index: 476 HR: 84 RR: 16 act: 2, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:48,635 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 12:59:55,653 Id: 00066654B194 index: 288 HR: 87 RR: 13 act: 1, post: 1 T_amb: 36.8 T_corp: 64.0 batt: 64 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 12:59:55,748 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:00:03,603 Id: 00066654B196 index: 477 HR: 71 RR: 16 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -55 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:03,719 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:00:05,903 Id: 00066654B196 index: 478 HR: 71 RR: 16 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -47 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:05,994 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:00:10,728 Id: 00066654B194 index: 289 HR: 87 RR: 13 act: 1, post: 2 T_amb: 36.8 T_corp: 64.0 batt: 64 rssi: -61 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:10,825 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:00:12,929 Id: 00066654B194 index: 290 HR: 87 RR: 13 act: 1, post: 2 T_amb: 37.0 T_corp: 64.0 batt: 64 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:13,049 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:00:20,953 Id: 00066654B196 index: 479 HR: 60 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -47 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:21,056 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:00:28,029 Id: 00066654B194 index: 291 HR: 86 RR: 13 act: 2, post: 1 T_amb: 37.0 T_corp: 64.0 batt: 64 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:28,159 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:00:36,005 Id: 00066654B196 index: 480 HR: 59 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -47 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:36,123 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:00:43,105 Id: 00066654B194 index: 292 HR: 85 RR: 13 act: 2, post: 1 T_amb: 37.0 T_corp: 64.0 batt: 64 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:43,203 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:00:51,055 Id: 00066654B196 index: 481 HR: 60 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -47 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:51,167 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:00:58,180 Id: 00066654B194 index: 293 HR: 83 RR: 13 act: 1, post: 1 T_amb: 37.0 T_corp: 64.0 batt: 64 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:00:58,289 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:01:06,102 Id: 00066654B196 index: 482 HR: 57 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -47 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:01:06,202 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:01:08,401 Id: 00066654B196 index: 483 HR: 57 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:01:08,492 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:01:13,251 Id: 00066654B194 index: 294 HR: 83 RR: 13 act: 1, post: 1 T_amb: 37.0 T_corp: 64.0 batt: 64 rssi: -56 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:01:13,349 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:01:15,551 Id: 00066654B194 index: 295 HR: 83 RR: 13 act: 1, post: 1 T_amb: 37.2 T_corp: 64.0 batt: 64 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:01:15,656 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:01:23,453 Id: 00066654B196 index: 484 HR: 52 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:01:23,553 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:01:30,592 Id: 00066654B194 index: 296 HR: 82 RR: 13 act: 1, post: 1 T_amb: 37.2 T_corp: 64.0 batt: 64 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:01:30,700 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:01:38,501 Id: 00066654B196 index: 485 HR: 52 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:01:38,605 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:01:45,675 Id: 00066654B194 index: 297 HR: 87 RR: 13 act: 1, post: 1 T_amb: 37.2 T_corp: 64.0 batt: 64 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:01:45,780 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:01:53,575 Id: 00066654B196 index: 486 HR: 52 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:01:53,675 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:02:00,751 Id: 00066654B194 index: 298 HR: 87 RR: 13 act: 2, post: 1 T_amb: 37.2 T_corp: 64.0 batt: 64 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:00,846 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:02:08,626 Id: 00066654B196 index: 487 HR: 52 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -50 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:08,727 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:02:10,925 Id: 00066654B196 index: 488 HR: 52 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:11,050 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:02:15,821 Id: 00066654B194 index: 299 HR: 86 RR: 13 act: 1, post: 1 T_amb: 37.2 T_corp: 64.0 batt: 64 rssi: -57 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:15,923 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:02:18,052 Id: 00066654B194 index: 300 HR: 86 RR: 13 act: 1, post: 1 T_amb: 37.2 T_corp: 65.0 batt: 64 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:18,172 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:02:25,978 Id: 00066654B196 index: 489 HR: 53 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:26,078 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:02:33,153 Id: 00066654B194 index: 301 HR: 86 RR: 13 act: 1, post: 2 T_amb: 37.2 T_corp: 65.0 batt: 64 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:33,250 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:02:41,033 Id: 00066654B196 index: 490 HR: 51 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:41,129 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:02:48,209 Id: 00066654B194 index: 302 HR: 89 RR: 13 act: 2, post: 1 T_amb: 37.2 T_corp: 65.0 batt: 64 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:48,310 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:02:56,094 Id: 00066654B196 index: 491 HR: 51 RR: 15 act: 1, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:02:56,198 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:03:03,304 Id: 00066654B194 index: 303 HR: 92 RR: 13 act: 2, post: 1 T_amb: 37.2 T_corp: 65.0 batt: 64 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:03:03,404 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:03:11,149 Id: 00066654B196 index: 492 HR: 55 RR: 15 act: 2, post: 2 T_amb: 34.2 T_corp: 33.0 batt: 57 rssi: -51 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:03:11,250 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:03:13,449 Id: 00066654B196 index: 493 HR: 55 RR: 15 act: 2, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:03:13,569 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:03:20,724 Id: 00066654B194 index: 305 HR: 92 RR: 13 act: 2, post: 1 T_amb: 37.4 T_corp: 65.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:03:20,888 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:03:28,504 Id: 00066654B196 index: 494 HR: 56 RR: 14 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:03:28,610 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:03:35,803 Id: 00066654B194 index: 306 HR: 85 RR: 14 act: 1, post: 1 T_amb: 37.4 T_corp: 65.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:03:35,898 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:03:43,551 Id: 00066654B196 index: 495 HR: 78 RR: 14 act: 3, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:03:43,653 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:03:50,876 Id: 00066654B194 index: 307 HR: 88 RR: 14 act: 3, post: 1 T_amb: 37.4 T_corp: 65.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:03:50,967 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:03:58,630 Id: 00066654B196 index: 496 HR: 104 RR: 14 act: 3, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:03:58,730 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:04:05,979 Id: 00066654B194 index: 308 HR: 92 RR: 13 act: 1, post: 2 T_amb: 37.4 T_corp: 65.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:04:06,102 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:04:13,704 Id: 00066654B196 index: 497 HR: 115 RR: 15 act: 3, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -54 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:04:13,799 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:04:15,956 Id: 00066654B196 index: 498 HR: 115 RR: 15 act: 3, post: 1 T_amb: 34.4 T_corp: 32.0 batt: 57 rssi: -66 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:04:16,056 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:04:21,052 Id: 00066654B194 index: 309 HR: 94 RR: 13 act: 1, post: 2 T_amb: 37.4 T_corp: 65.0 batt: 64 rssi: -53 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:04:21,155 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:04:23,352 Id: 00066654B194 index: 310 HR: 94 RR: 13 act: 1, post: 2 T_amb: 37.4 T_corp: 64.0 batt: 64 rssi: -45 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:04:23,454 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:04:31,005 Id: 00066654B196 index: 499 HR: 101 RR: 15 act: 2, post: 1 T_amb: 34.4 T_corp: 32.0 batt: 57 rssi: -66 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:04:31,101 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:04:38,403 Id: 00066654B194 index: 311 HR: 92 RR: 13 act: 1, post: 2 T_amb: 37.4 T_corp: 64.0 batt: 64 rssi: -45 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:04:38,497 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:04:46,085 Id: 00066654B196 index: 500 HR: 102 RR: 15 act: 2, post: 1 T_amb: 34.4 T_corp: 32.0 batt: 57 rssi: -66 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:04:46,194 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:04:53,504 Id: 00066654B194 index: 312 HR: 90 RR: 13 act: 2, post: 1 T_amb: 37.4 T_corp: 64.0 batt: 64 rssi: -45 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:04:53,607 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:05:08,560 Id: 00066654B194 index: 313 HR: 91 RR: 13 act: 1, post: 2 T_amb: 37.4 T_corp: 64.0 batt: 64 rssi: -45 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:05:08,659 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:05:18,479 Id: 00066654B196 index: 503 HR: 102 RR: 15 act: 2, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -71 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:05:18,639 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:05:23,654 Id: 00066654B194 index: 314 HR: 91 RR: 14 act: 1, post: 2 T_amb: 37.4 T_corp: 64.0 batt: 64 rssi: -45 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:05:23,778 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:05:25,856 Id: 00066654B194 index: 315 HR: 91 RR: 14 act: 1, post: 2 T_amb: 37.6 T_corp: 64.0 batt: 64 rssi: -42 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:05:25,944 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:05:33,532 Id: 00066654B196 index: 504 HR: 110 RR: 15 act: 3, post: 3 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -71 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:05:33,649 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:05:40,931 Id: 00066654B194 index: 316 HR: 91 RR: 13 act: 1, post: 1 T_amb: 37.6 T_corp: 64.0 batt: 64 rssi: -42 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:05:41,038 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:05:56,029 Id: 00066654B194 index: 317 HR: 96 RR: 13 act: 3, post: 1 T_amb: 37.6 T_corp: 64.0 batt: 64 rssi: -42 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:05:56,123 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:06:03,706 Id: 00066654B196 index: 506 HR: 113 RR: 15 act: 1, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -71 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:06:03,853 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:06:26,213 Id: 00066654B194 index: 319 HR: 105 RR: 16 act: 3, post: 1 T_amb: 37.6 T_corp: 64.0 batt: 64 rssi: -42 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:06:26,368 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:06:28,531 Id: 00066654B194 index: 320 HR: 105 RR: 16 act: 3, post: 1 T_amb: 37.6 T_corp: 65.0 batt: 64 rssi: -71 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:06:28,634 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:09:45,558 Id: 0006665129DF index: 390 HR: 109 RR: 13 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -78 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:09:45,587 Id: 0006665129DF index: 391 HR: 126 RR: 15 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -78 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:09:45,683 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:09:46,175 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:11:23,533 Id: 0006665129DF index: 399 HR: 134 RR: 19 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -78 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:11:23,565 Id: 0006665129DF index: 400 HR: 142 RR: 19 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -78 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:11:23,667 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:11:24,141 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:11:40,980 Id: 0006665129DF index: 402 HR: 142 RR: 19 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:11:41,117 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:11:49,205 Id: 00066654B196 index: 526 HR: 105 RR: 15 act: 3, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -71 ap: 002722F6EFB5 pckt_id: 2
+2014-01-19 13:11:49,341 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:11:57,632 Id: 00066654B194 index: 330 HR: 139 RR: 22 act: 3, post: 1 T_amb: 37.6 T_corp: 65.0 batt: 64 rssi: -71 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:11:57,760 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:11:59,881 Id: 00066654B194 index: 331 HR: 139 RR: 22 act: 3, post: 1 T_amb: 36.6 T_corp: 66.0 batt: 64 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:11:59,968 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:12:04,182 Id: 00066654B196 index: 528 HR: 108 RR: 15 act: 3, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -71 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:12:04,316 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:12:11,207 Id: 0006665129DF index: 404 HR: 140 RR: 20 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:11,331 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:12:14,954 Id: 00066654B194 index: 332 HR: 126 RR: 22 act: 3, post: 1 T_amb: 36.6 T_corp: 66.0 batt: 64 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:15,045 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:12:19,229 Id: 00066654B196 index: 529 HR: 109 RR: 15 act: 3, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -71 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:12:19,255 Id: 00066654B196 index: 530 HR: 113 RR: 15 act: 3, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 57 rssi: -71 ap: 002722F6EFB5 pckt_id: 1
+2014-01-19 13:12:19,327 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:12:19,868 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:12:21,431 Id: 00066654B196 index: 531 HR: 113 RR: 15 act: 3, post: 1 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:21,517 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:12:26,231 Id: 0006665129DF index: 405 HR: 136 RR: 22 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:26,315 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:12:30,057 Id: 00066654B194 index: 333 HR: 125 RR: 22 act: 3, post: 1 T_amb: 36.6 T_corp: 66.0 batt: 64 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:30,164 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:12:41,332 Id: 0006665129DF index: 406 HR: 132 RR: 22 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:41,417 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:12:43,582 Id: 0006665129DF index: 407 HR: 132 RR: 22 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:43,684 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:12:45,158 Id: 00066654B194 index: 334 HR: 117 RR: 22 act: 3, post: 1 T_amb: 36.6 T_corp: 66.0 batt: 64 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:45,249 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:12:51,559 Id: 00066654B196 index: 533 HR: 111 RR: 15 act: 3, post: 1 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:51,690 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:12:58,659 Id: 0006665129DF index: 408 HR: 133 RR: 22 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:12:58,735 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:13:00,258 Id: 00066654B194 index: 335 HR: 111 RR: 22 act: 3, post: 1 T_amb: 36.6 T_corp: 66.0 batt: 64 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:00,343 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:13:02,474 Id: 00066654B194 index: 336 HR: 111 RR: 22 act: 3, post: 1 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -63 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:02,585 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:13:06,607 Id: 00066654B196 index: 534 HR: 110 RR: 15 act: 3, post: 1 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:06,699 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:13:13,735 Id: 0006665129DF index: 409 HR: 137 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:13,830 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:13:17,582 Id: 00066654B194 index: 337 HR: 103 RR: 22 act: 3, post: 1 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -63 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:17,669 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:13:21,682 Id: 00066654B196 index: 535 HR: 118 RR: 15 act: 3, post: 1 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:21,776 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:13:23,857 Id: 00066654B196 index: 536 HR: 118 RR: 15 act: 3, post: 1 T_amb: 33.0 T_corp: 32.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:23,959 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:13:28,831 Id: 0006665129DF index: 410 HR: 129 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:28,915 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:13:32,682 Id: 00066654B194 index: 338 HR: 101 RR: 22 act: 3, post: 1 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -63 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:32,772 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:13:38,905 Id: 00066654B196 index: 537 HR: 114 RR: 15 act: 3, post: 1 T_amb: 33.0 T_corp: 32.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:39,028 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:13:43,929 Id: 0006665129DF index: 411 HR: 118 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:44,017 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:13:46,094 Id: 0006665129DF index: 412 HR: 118 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -64 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:46,217 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:13:47,782 Id: 00066654B194 index: 339 HR: 107 RR: 22 act: 3, post: 1 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -63 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:47,873 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:13:53,982 Id: 00066654B196 index: 538 HR: 124 RR: 15 act: 3, post: 1 T_amb: 33.0 T_corp: 32.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:13:54,080 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:14:01,184 Id: 0006665129DF index: 413 HR: 115 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -64 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:01,268 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:14:02,880 Id: 00066654B194 index: 340 HR: 108 RR: 22 act: 3, post: 1 T_amb: 36.4 T_corp: 65.0 batt: 64 rssi: -63 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:02,967 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:14:05,159 Id: 00066654B194 index: 341 HR: 108 RR: 22 act: 3, post: 1 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:05,258 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:14:09,034 Id: 00066654B196 index: 539 HR: 112 RR: 14 act: 3, post: 1 T_amb: 33.0 T_corp: 32.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:09,123 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:14:16,311 Id: 0006665129DF index: 414 HR: 109 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -64 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:16,413 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:14:20,259 Id: 00066654B194 index: 342 HR: 109 RR: 22 act: 3, post: 1 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:20,361 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:14:24,083 Id: 00066654B196 index: 540 HR: 111 RR: 14 act: 3, post: 1 T_amb: 33.0 T_corp: 32.0 batt: 57 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:24,183 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:14:26,383 Id: 00066654B196 index: 541 HR: 111 RR: 14 act: 3, post: 1 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -61 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:26,483 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:14:31,383 Id: 0006665129DF index: 415 HR: 114 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -64 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:31,481 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:14:35,335 Id: 00066654B194 index: 343 HR: 112 RR: 22 act: 3, post: 1 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:35,429 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:14:41,434 Id: 00066654B196 index: 542 HR: 136 RR: 14 act: 3, post: 1 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -61 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:41,535 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:14:46,482 Id: 0006665129DF index: 416 HR: 116 RR: 24 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -64 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:46,583 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:14:48,783 Id: 0006665129DF index: 417 HR: 116 RR: 24 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -48 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:48,874 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:14:50,434 Id: 00066654B194 index: 344 HR: 103 RR: 23 act: 3, post: 1 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:50,523 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:14:56,507 Id: 00066654B196 index: 543 HR: 145 RR: 14 act: 3, post: 1 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -61 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:14:56,596 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:15:03,894 Id: 0006665129DF index: 418 HR: 118 RR: 24 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -48 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:15:03,994 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:15:05,533 Id: 00066654B194 index: 345 HR: 102 RR: 25 act: 3, post: 1 T_amb: 36.2 T_corp: 65.0 batt: 64 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:15:05,634 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:15:07,760 Id: 00066654B194 index: 346 HR: 102 RR: 25 act: 3, post: 1 T_amb: 36.0 T_corp: 65.0 batt: 64 rssi: -66 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:15:07,883 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:15:11,584 Id: 00066654B196 index: 544 HR: 149 RR: 14 act: 3, post: 1 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -61 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:15:11,682 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:15:18,985 Id: 0006665129DF index: 419 HR: 122 RR: 24 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -48 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:15:19,069 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:15:26,659 Id: 00066654B196 index: 545 HR: 149 RR: 14 act: 3, post: 1 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -61 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:15:26,750 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:15:34,108 Id: 0006665129DF index: 420 HR: 134 RR: 25 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -48 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:15:34,214 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:15:49,232 Id: 0006665129DF index: 421 HR: 136 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -48 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:15:49,316 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:15:51,381 Id: 0006665129DF index: 422 HR: 136 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:15:51,474 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:17:37,308 Id: 0006665129DF index: 427 HR: 136 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:17:37,345 Id: 0006665129DF index: 428 HR: 128 RR: 27 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:17:37,428 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:17:38,011 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:17:52,334 Id: 0006665129DF index: 430 HR: 125 RR: 26 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:17:52,455 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:18:07,410 Id: 0006665129DF index: 431 HR: 120 RR: 26 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:18:07,523 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:18:22,508 Id: 0006665129DF index: 432 HR: 117 RR: 26 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: 0 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:18:22,592 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:18:24,709 Id: 0006665129DF index: 433 HR: 117 RR: 26 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:18:24,791 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:18:39,785 Id: 0006665129DF index: 434 HR: 116 RR: 26 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:18:39,876 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:18:54,860 Id: 0006665129DF index: 435 HR: 118 RR: 25 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:18:54,945 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:19:10,013 Id: 0006665129DF index: 436 HR: 116 RR: 25 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:19:10,128 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:19:25,012 Id: 0006665129DF index: 437 HR: 121 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -70 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:19:25,099 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:19:27,234 Id: 0006665129DF index: 438 HR: 121 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:19:27,315 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:19:42,289 Id: 0006665129DF index: 439 HR: 113 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:19:42,383 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:19:57,363 Id: 0006665129DF index: 440 HR: 110 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:19:57,452 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:20:12,457 Id: 0006665129DF index: 441 HR: 105 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:20:12,562 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:20:27,537 Id: 0006665129DF index: 442 HR: 106 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:20:27,631 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:20:29,761 Id: 0006665129DF index: 443 HR: 106 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:20:29,856 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:20:44,806 Id: 0006665129DF index: 444 HR: 103 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:20:44,915 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:20:59,881 Id: 0006665129DF index: 445 HR: 101 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:20:59,968 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:21:50,432 Id: 0006665129DF index: 449 HR: 101 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:21:50,563 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:22:05,511 Id: 0006665129DF index: 450 HR: 106 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:22:05,590 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:22:20,588 Id: 0006665129DF index: 451 HR: 108 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:22:20,675 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:22:35,685 Id: 0006665129DF index: 452 HR: 108 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:22:35,777 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:22:37,935 Id: 0006665129DF index: 453 HR: 108 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:22:38,034 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:22:53,035 Id: 0006665129DF index: 454 HR: 102 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:22:53,128 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:23:08,210 Id: 0006665129DF index: 455 HR: 111 RR: 23 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:23:08,296 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:23:42,460 Id: 0006665129DF index: 458 HR: 111 RR: 23 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:23:42,582 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:23:43,788 MW is alive
+2014-01-19 13:23:57,513 Id: 0006665129DF index: 459 HR: 92 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:23:57,600 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:24:12,586 Id: 0006665129DF index: 460 HR: 92 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:24:12,677 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:25:01,012 Id: 0006665129DF index: 463 HR: 92 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:25:01,045 Id: 0006665129DF index: 464 HR: 93 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:25:01,132 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:25:01,698 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:25:16,184 Id: 0006665129DF index: 466 HR: 101 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:25:16,385 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:25:31,260 Id: 0006665129DF index: 467 HR: 102 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:25:31,346 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:25:46,362 Id: 0006665129DF index: 468 HR: 98 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:25:46,447 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:25:48,588 Id: 0006665129DF index: 469 HR: 98 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:25:48,705 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:26:03,660 Id: 0006665129DF index: 470 HR: 96 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:26:03,756 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:26:18,737 Id: 0006665129DF index: 471 HR: 97 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:26:18,824 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:26:33,836 Id: 0006665129DF index: 472 HR: 99 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:26:33,960 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:26:51,136 Id: 0006665129DF index: 474 HR: 99 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:26:51,269 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:27:21,312 Id: 0006665129DF index: 476 HR: 108 RR: 21 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:27:21,440 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:27:36,386 Id: 0006665129DF index: 477 HR: 109 RR: 21 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:27:36,475 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:27:51,513 Id: 0006665129DF index: 478 HR: 101 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:27:51,627 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:27:53,786 Id: 0006665129DF index: 479 HR: 101 RR: 21 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:27:53,910 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:28:08,942 Id: 0006665129DF index: 480 HR: 102 RR: 20 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:28:09,027 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:28:24,003 Id: 0006665129DF index: 481 HR: 99 RR: 21 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:28:24,114 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:28:39,086 Id: 0006665129DF index: 482 HR: 105 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:28:39,173 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:28:54,137 Id: 0006665129DF index: 483 HR: 109 RR: 22 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:28:54,234 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:28:56,389 Id: 0006665129DF index: 484 HR: 109 RR: 22 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -65 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:28:56,552 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:29:11,488 Id: 0006665129DF index: 485 HR: 95 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -65 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:29:11,576 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:29:26,567 Id: 0006665129DF index: 486 HR: 90 RR: 22 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -65 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:29:26,654 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:29:41,660 Id: 0006665129DF index: 487 HR: 87 RR: 23 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -65 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:29:41,747 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:29:59,056 Id: 0006665129DF index: 489 HR: 87 RR: 23 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:29:59,182 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:30:14,162 Id: 0006665129DF index: 490 HR: 90 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:30:14,258 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:30:29,211 Id: 0006665129DF index: 491 HR: 94 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:30:29,294 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:30:44,287 Id: 0006665129DF index: 492 HR: 96 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:30:44,378 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:30:59,371 Id: 0006665129DF index: 493 HR: 100 RR: 23 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:30:59,481 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:31:01,585 Id: 0006665129DF index: 494 HR: 100 RR: 23 act: 2, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:31:01,671 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:31:20,310 Id: 00066654B196 index: 573 HR: 78 RR: 14 act: 1, post: 2 T_amb: 33.0 T_corp: 31.0 batt: 57 rssi: -61 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:31:20,455 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:31:31,760 Id: 0006665129DF index: 496 HR: 103 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:31:31,910 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:31:46,865 Id: 0006665129DF index: 497 HR: 97 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:31:46,953 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:32:01,988 Id: 0006665129DF index: 498 HR: 93 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -69 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:32:02,105 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:32:04,188 Id: 0006665129DF index: 499 HR: 93 RR: 23 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:32:04,298 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:32:19,288 Id: 0006665129DF index: 500 HR: 93 RR: 23 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:32:19,381 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:32:34,388 Id: 0006665129DF index: 501 HR: 101 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:32:34,483 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:32:49,491 Id: 0006665129DF index: 502 HR: 101 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:32:49,576 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:33:04,593 Id: 0006665129DF index: 503 HR: 105 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -74 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:33:04,686 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:33:06,858 Id: 0006665129DF index: 504 HR: 105 RR: 24 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:33:07,010 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:33:21,992 Id: 0006665129DF index: 505 HR: 104 RR: 25 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:33:22,104 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:33:26,792 Id: 00066654B196 index: 581 HR: 78 RR: 14 act: 1, post: 2 T_amb: 34.2 T_corp: 32.0 batt: 53 rssi: -78 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:33:26,825 Id: 00066654B196 index: 582 HR: 130 RR: 17 act: 3, post: 1 T_amb: 34.2 T_corp: 32.0 batt: 53 rssi: -78 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:33:26,978 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:33:27,461 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:33:37,091 Id: 0006665129DF index: 506 HR: 100 RR: 26 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:33:37,182 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:33:52,238 Id: 0006665129DF index: 507 HR: 102 RR: 26 act: 3, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:33:52,334 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:34:07,338 Id: 0006665129DF index: 508 HR: 101 RR: 26 act: 1, post: 1 T_amb: 5.0 T_corp: 36.0 batt: 57 rssi: -72 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:34:07,494 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:34:09,638 Id: 0006665129DF index: 509 HR: 101 RR: 26 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -67 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:34:09,726 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:34:39,788 Id: 0006665129DF index: 511 HR: 103 RR: 27 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -67 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:34:39,922 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:34:52,141 Id: 00066654B196 index: 587 HR: 130 RR: 17 act: 3, post: 1 T_amb: 34.4 T_corp: 30.0 batt: 57 rssi: -79 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:34:52,283 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:34:54,889 Id: 0006665129DF index: 512 HR: 96 RR: 27 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -67 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:34:54,982 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:35:07,213 Id: 00066654B196 index: 588 HR: 147 RR: 17 act: 3, post: 1 T_amb: 34.4 T_corp: 30.0 batt: 57 rssi: -79 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:35:07,238 Id: 00066654B196 index: 590 HR: 149 RR: 17 act: 3, post: 1 T_amb: 34.4 T_corp: 30.0 batt: 57 rssi: -79 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:35:07,344 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:35:07,894 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:35:09,989 Id: 0006665129DF index: 513 HR: 101 RR: 27 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -67 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:35:10,076 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:35:12,239 Id: 0006665129DF index: 514 HR: 101 RR: 27 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:35:12,377 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:35:22,283 Id: 00066654B196 index: 591 HR: 148 RR: 16 act: 3, post: 1 T_amb: 34.4 T_corp: 30.0 batt: 57 rssi: -79 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:35:22,396 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:35:27,340 Id: 0006665129DF index: 515 HR: 103 RR: 27 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:35:27,444 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:35:42,433 Id: 0006665129DF index: 516 HR: 99 RR: 27 act: 3, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:35:42,521 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:36:22,114 Id: 00066654B196 index: 596 HR: 141 RR: 17 act: 3, post: 1 T_amb: 34.4 T_corp: 30.0 batt: 57 rssi: -79 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:36:22,248 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:36:34,141 Id: 0006665129DF index: 520 HR: 92 RR: 26 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:36:34,282 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:36:37,169 Id: 00066654B196 index: 597 HR: 138 RR: 17 act: 2, post: 1 T_amb: 34.4 T_corp: 30.0 batt: 57 rssi: -79 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:36:37,274 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:36:49,118 Id: 0006665129DF index: 521 HR: 94 RR: 26 act: 1, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:36:49,210 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:37:04,193 Id: 0006665129DF index: 522 HR: 91 RR: 26 act: 2, post: 1 T_amb: 5.0 T_corp: 35.0 batt: 57 rssi: -71 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:37:04,287 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 13:47:10,318 Id: 00066654B196 index: 616 HR: 138 RR: 17 act: 2, post: 1 T_amb: 34.2 T_corp: 31.0 batt: 57 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:47:10,484 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:47:15,493 Id: 00066654B194 index: 381 HR: 102 RR: 25 act: 3, post: 1 T_amb: 35.2 T_corp: 63.0 batt: 60 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:47:15,521 Id: 00066654B194 index: 382 HR: 134 RR: 22 act: 1, post: 1 T_amb: 35.2 T_corp: 63.0 batt: 60 rssi: 0 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:47:15,691 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:47:16,132 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-19 13:53:02,645 Id: 00066654B196 index: 635 HR: 149 RR: 18 act: 3, post: 2 T_amb: 34.2 T_corp: 31.0 batt: 57 rssi: -80 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:53:02,834 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:53:43,884 MW is alive
+2014-01-19 13:59:15,297 Id: 00066654B196 index: 640 HR: 149 RR: 18 act: 3, post: 2 T_amb: 34.8 T_corp: 32.0 batt: 53 rssi: -81 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:59:15,331 Id: 00066654B196 index: 641 HR: 147 RR: 18 act: 2, post: 1 T_amb: 34.8 T_corp: 32.0 batt: 53 rssi: -81 ap: 002722F6F081 pckt_id: 2
+2014-01-19 13:59:15,433 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:59:15,941 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 13:59:43,447 Id: 00066654B196 index: 644 HR: 143 RR: 18 act: 3, post: 1 T_amb: 34.8 T_corp: 32.0 batt: 53 rssi: -81 ap: 002722F6F081 pckt_id: 1
+2014-01-19 13:59:43,579 RMS responded "OK" to send_data from SS 00066654B196
+2014-01-19 14:00:42,250 Id: 0006665129DF index: 554 HR: 91 RR: 26 act: 2, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 57 rssi: -12 ap: 002722F6F081 pckt_id: 2
+2014-01-19 14:00:42,291 Id: 0006665129DF index: 555 HR: 98 RR: 27 act: 1, post: 1 T_amb: 5.0 T_corp: 34.0 batt: 57 rssi: -12 ap: 002722F6F081 pckt_id: 2
+2014-01-19 14:00:42,371 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 14:00:42,929 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 14:23:43,984 MW is alive

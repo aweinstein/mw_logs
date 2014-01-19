@@ -1,0 +1,14 @@
+2013-12-30 07:27:35,802 RMS Soap Cliente created using http://10.69.208.124/Services/Server.svc?wsdl
+2013-12-30 07:27:35,804 Starting middleware, listening to 10.69.208.206:50000
+2013-12-30 07:27:35,805 MW is alive
+2013-12-30 07:28:12,532 Id: 0021CCD46B6B index: 64605 HR: 63 RR: 18 act: 1, post: 1 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:28:12,569 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:28:27,531 Id: 0021CCD46B6B index: 64606 HR: 53 RR: 12 act: 3, post: 2 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:28:27,562 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:28:42,533 Id: 0021CCD46B6B index: 64607 HR: 61 RR: 15 act: 2, post: 2 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:28:42,555 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:32:10,628 Id: 0021CCD46B6B index: 64605 HR: 62 RR: 13 act: 1, post: 1 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:32:10,657 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:32:25,628 Id: 0021CCD46B6B index: 64606 HR: 66 RR: 18 act: 2, post: 3 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:32:25,659 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:33:34,233 Shutting down

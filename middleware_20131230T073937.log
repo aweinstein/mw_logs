@@ -1,0 +1,234 @@
+2013-12-30 07:39:37,496 RMS Soap Cliente created using http://10.69.208.124/Services/Server.svc?wsdl
+2013-12-30 07:39:37,498 Starting middleware, listening to 10.69.208.28:50000
+2013-12-30 07:39:37,498 MW is alive
+2013-12-30 07:45:44,668 Id: 0021CCD46B6B index: 64605 HR: 59 RR: 14 act: 2, post: 2 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:45:44,692 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:45:59,667 Id: 0021CCD46B6B index: 64606 HR: 48 RR: 22 act: 3, post: 3 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:45:59,701 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:46:51,134 Id: 0021CCD46B6B index: 64605 HR: 68 RR: 14 act: 2, post: 2 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:46:51,163 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:47:06,132 Id: 0021CCD46B6B index: 64606 HR: 57 RR: 22 act: 2, post: 2 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:47:06,165 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:47:29,902 Id: 0021CCD46B6B index: 64605 HR: 63 RR: 20 act: 3, post: 2 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:47:29,929 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:47:44,902 Id: 0021CCD46B6B index: 64606 HR: 58 RR: 21 act: 3, post: 3 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:47:44,931 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:47:59,903 Id: 0021CCD46B6B index: 64607 HR: 69 RR: 15 act: 2, post: 2 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:47:59,933 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:48:14,903 Id: 0021CCD46B6B index: 64608 HR: 60 RR: 16 act: 3, post: 2 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:48:14,935 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:48:29,904 Id: 0021CCD46B6B index: 64609 HR: 67 RR: 15 act: 3, post: 1 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-30 07:48:29,913 Id: 0021CCD46B6B index: 64610 HR: 67 RR: 15 act: 3, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE0000EA98 pckt_id: 1
+2013-12-30 07:48:29,946 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:48:30,437 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:48:44,905 Id: 0021CCD46B6B index: 64611 HR: 67 RR: 15 act: 2, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE0000EA98 pckt_id: 1
+2013-12-30 07:48:44,944 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:48:59,905 Id: 0021CCD46B6B index: 64612 HR: 64 RR: 23 act: 3, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE0000EA98 pckt_id: 1
+2013-12-30 07:48:59,932 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:49:14,905 Id: 0021CCD46B6B index: 64613 HR: 72 RR: 24 act: 2, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE0000EA98 pckt_id: 1
+2013-12-30 07:49:14,943 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:49:29,905 Id: 0021CCD46B6B index: 64614 HR: 69 RR: 19 act: 2, post: 2 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE0000EA98 pckt_id: 1
+2013-12-30 07:49:29,913 Id: 0021CCD46B6B index: 64615 HR: 69 RR: 19 act: 2, post: 2 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE00008DA6 pckt_id: 1
+2013-12-30 07:49:29,953 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:49:30,469 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:49:44,905 Id: 0021CCD46B6B index: 64616 HR: 65 RR: 16 act: 2, post: 3 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE00008DA6 pckt_id: 1
+2013-12-30 07:49:44,938 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:49:59,905 Id: 0021CCD46B6B index: 64617 HR: 65 RR: 21 act: 2, post: 2 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE00008DA6 pckt_id: 1
+2013-12-30 07:49:59,940 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:50:14,906 Id: 0021CCD46B6B index: 64618 HR: 63 RR: 19 act: 2, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE00008DA6 pckt_id: 1
+2013-12-30 07:50:14,943 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:50:29,907 Id: 0021CCD46B6B index: 64619 HR: 71 RR: 21 act: 3, post: 3 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -37 ap: FFEE00008DA6 pckt_id: 1
+2013-12-30 07:50:29,915 Id: 0021CCD46B6B index: 64620 HR: 71 RR: 21 act: 3, post: 3 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -35 ap: FFEE0000D7F7 pckt_id: 1
+2013-12-30 07:50:29,944 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:50:30,435 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:50:44,907 Id: 0021CCD46B6B index: 64621 HR: 62 RR: 12 act: 3, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -35 ap: FFEE0000D7F7 pckt_id: 1
+2013-12-30 07:50:44,938 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:50:59,908 Id: 0021CCD46B6B index: 64622 HR: 67 RR: 13 act: 1, post: 2 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -35 ap: FFEE0000D7F7 pckt_id: 1
+2013-12-30 07:50:59,940 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:51:14,907 Id: 0021CCD46B6B index: 64623 HR: 73 RR: 23 act: 1, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -35 ap: FFEE0000D7F7 pckt_id: 1
+2013-12-30 07:51:14,941 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:51:29,906 Id: 0021CCD46B6B index: 64624 HR: 67 RR: 11 act: 2, post: 2 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -35 ap: FFEE0000D7F7 pckt_id: 1
+2013-12-30 07:51:29,914 Id: 0021CCD46B6B index: 64625 HR: 67 RR: 11 act: 2, post: 2 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -34 ap: FFEE0000687A pckt_id: 1
+2013-12-30 07:51:29,943 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:51:30,443 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:51:44,905 Id: 0021CCD46B6B index: 64626 HR: 71 RR: 15 act: 3, post: 2 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -34 ap: FFEE0000687A pckt_id: 1
+2013-12-30 07:51:44,945 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:51:59,905 Id: 0021CCD46B6B index: 64627 HR: 67 RR: 14 act: 3, post: 2 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -34 ap: FFEE0000687A pckt_id: 1
+2013-12-30 07:51:59,939 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:52:14,906 Id: 0021CCD46B6B index: 64628 HR: 68 RR: 13 act: 2, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -34 ap: FFEE0000687A pckt_id: 1
+2013-12-30 07:52:14,932 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:52:29,905 Id: 0021CCD46B6B index: 64629 HR: 65 RR: 28 act: 3, post: 3 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -34 ap: FFEE0000687A pckt_id: 1
+2013-12-30 07:52:29,912 Id: 0021CCD46B6B index: 64630 HR: 65 RR: 28 act: 3, post: 3 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE00000D7A pckt_id: 1
+2013-12-30 07:52:29,944 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:52:30,442 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:57:19,292 Id: 0021CCD46B6B index: 64605 HR: 66 RR: 8 act: 3, post: 2 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE00000D7A pckt_id: 1
+2013-12-30 07:57:19,326 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:57:34,298 Id: 0021CCD46B6B index: 64606 HR: 65 RR: 16 act: 1, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE00000D7A pckt_id: 1
+2013-12-30 07:57:34,327 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:57:49,297 Id: 0021CCD46B6B index: 64607 HR: 66 RR: 23 act: 1, post: 3 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE00000D7A pckt_id: 1
+2013-12-30 07:57:49,329 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:58:21,641 Id: 0021CCD46B6B index: 64605 HR: 71 RR: 12 act: 2, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE00000D7A pckt_id: 1
+2013-12-30 07:58:21,674 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:58:36,640 Id: 0021CCD46B6B index: 64606 HR: 73 RR: 21 act: 1, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE00000D7A pckt_id: 1
+2013-12-30 07:58:36,668 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:58:51,640 Id: 0021CCD46B6B index: 64607 HR: 59 RR: 18 act: 2, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE00000D7A pckt_id: 1
+2013-12-30 07:58:51,669 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:59:06,645 Id: 0021CCD46B6B index: 64608 HR: 58 RR: 19 act: 1, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE00000D7A pckt_id: 1
+2013-12-30 07:59:06,679 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:59:21,645 Id: 0021CCD46B6B index: 64609 HR: 56 RR: 17 act: 3, post: 1 T_amb: 24.2 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE00000D7A pckt_id: 1
+2013-12-30 07:59:21,659 Id: 0021CCD46B6B index: 64610 HR: 56 RR: 17 act: 3, post: 1 T_amb: 24.4 T_corp: 37.0 batt: 2 rssi: -43 ap: FFEE0000F171 pckt_id: 1
+2013-12-30 07:59:21,681 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 07:59:22,181 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 08:00:21,675 Id: 0021CCD46B6B index: 64614 HR: 61 RR: 15 act: 3, post: 2 T_amb: 24.4 T_corp: 37.0 batt: 2 rssi: -43 ap: FFEE0000F171 pckt_id: 1
+2013-12-30 08:00:21,699 Id: 0021CCD46B6B index: 64615 HR: 61 RR: 15 act: 3, post: 2 T_amb: 24.0 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE000054F1 pckt_id: 1
+2013-12-30 08:00:21,707 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 08:00:21,713 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 08:09:37,598 MW is alive
+2013-12-30 08:39:37,699 MW is alive
+2013-12-30 09:08:03,745 Id: 0021CCD46B6B index: 64605 HR: 61 RR: 18 act: 2, post: 2 T_amb: 24.0 T_corp: 37.0 batt: 2 rssi: -49 ap: FFEE000054F1 pckt_id: 1
+2013-12-30 09:08:03,772 RMS responded "NOK: Device not in use" to send_data from SS 0021CCD46B6B
+2013-12-30 09:09:37,800 MW is alive
+2013-12-30 09:39:37,837 MW is alive
+2013-12-30 10:09:37,938 MW is alive
+2013-12-30 10:39:38,004 MW is alive
+2013-12-30 11:09:38,104 MW is alive
+2013-12-30 11:39:38,204 MW is alive
+2013-12-30 12:09:38,304 MW is alive
+2013-12-30 12:39:38,404 MW is alive
+2013-12-30 13:09:38,505 MW is alive
+2013-12-30 13:39:38,605 MW is alive
+2013-12-30 14:09:38,705 MW is alive
+2013-12-30 14:39:38,806 MW is alive
+2013-12-30 15:09:38,906 MW is alive
+2013-12-30 15:39:39,006 MW is alive
+2013-12-30 16:09:39,106 MW is alive
+2013-12-30 16:39:39,206 MW is alive
+2013-12-30 17:09:39,307 MW is alive
+2013-12-30 17:39:39,407 MW is alive
+2013-12-30 18:09:39,507 MW is alive
+2013-12-30 18:39:39,607 MW is alive
+2013-12-30 19:09:39,643 MW is alive
+2013-12-30 19:39:39,739 MW is alive
+2013-12-30 20:09:39,840 MW is alive
+2013-12-30 20:39:39,941 MW is alive
+2013-12-30 21:09:39,971 MW is alive
+2013-12-30 21:39:40,071 MW is alive
+2013-12-30 22:09:40,171 MW is alive
+2013-12-30 22:39:40,271 MW is alive
+2013-12-30 23:09:40,371 MW is alive
+2013-12-30 23:39:40,425 MW is alive
+2013-12-31 00:09:40,525 MW is alive
+2013-12-31 00:39:40,625 MW is alive
+2013-12-31 01:09:40,725 MW is alive
+2013-12-31 01:39:40,825 MW is alive
+2013-12-31 02:09:40,926 MW is alive
+2013-12-31 02:39:41,026 MW is alive
+2013-12-31 03:09:41,126 MW is alive
+2013-12-31 03:39:41,202 MW is alive
+2013-12-31 04:09:41,302 MW is alive
+2013-12-31 04:39:41,403 MW is alive
+2013-12-31 05:09:41,503 MW is alive
+2013-12-31 05:39:41,603 MW is alive
+2013-12-31 06:09:41,703 MW is alive
+2013-12-31 06:39:41,764 MW is alive
+2013-12-31 07:09:41,864 MW is alive
+2013-12-31 07:39:41,965 MW is alive
+2013-12-31 08:09:42,065 MW is alive
+2013-12-31 08:39:42,163 MW is alive
+2013-12-31 09:09:42,263 MW is alive
+2013-12-31 09:17:57,040 Id: 00066654B196 index: 19 HR: 149 RR: 47 act: 3, post: 3 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 2
+2013-12-31 09:17:57,047 Id: 00066654B196 index: 21 HR: 148 RR: 47 act: 1, post: 3 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-31 09:17:58,995 RMS responded "OK" to send_data from SS 00066654B196
+2013-12-31 09:17:59,339 RMS responded "OK" to send_data from SS 00066654B196
+2013-12-31 09:18:01,365 Id: 00066654B194 index: 5 HR: 94 RR: 17 act: 3, post: 1 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-31 09:18:01,552 RMS responded "OK" to send_data from SS 00066654B194
+2013-12-31 09:18:03,641 Id: 00066654B194 index: 6 HR: 94 RR: 17 act: 3, post: 1 T_amb: 29.0 T_corp: 59.0 batt: 57 rssi: -68 ap: 003A99C2E130 pckt_id: 1
+2013-12-31 09:18:03,766 RMS responded "OK" to send_data from SS 00066654B194
+2013-12-31 09:18:12,341 Id: 00066654B196 index: 22 HR: 148 RR: 47 act: 1, post: 3 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-31 09:18:12,469 RMS responded "OK" to send_data from SS 00066654B196
+2013-12-31 09:18:18,690 Id: 00066654B194 index: 7 HR: 93 RR: 17 act: 2, post: 3 T_amb: 29.0 T_corp: 59.0 batt: 57 rssi: -68 ap: 003A99C2E130 pckt_id: 1
+2013-12-31 09:18:18,825 RMS responded "OK" to send_data from SS 00066654B194
+2013-12-31 09:18:27,690 Id: 00066654B196 index: 23 HR: 148 RR: 47 act: 1, post: 3 T_amb: 0.0 T_corp: 0.0 batt: 0 rssi: 0 ap: 0 pckt_id: 1
+2013-12-31 09:18:27,820 RMS responded "OK" to send_data from SS 00066654B196
+2013-12-31 09:18:29,915 Id: 00066654B196 index: 24 HR: 148 RR: 47 act: 1, post: 3 T_amb: 27.6 T_corp: 23.0 batt: 76 rssi: -67 ap: 003A99C2E130 pckt_id: 1
+2013-12-31 09:18:30,037 RMS responded "OK" to send_data from SS 00066654B196
+2013-12-31 09:18:45,065 Id: 00066654B196 index: 25 HR: 147 RR: 46 act: 1, post: 3 T_amb: 27.6 T_corp: 23.0 batt: 76 rssi: -67 ap: 003A99C2E130 pckt_id: 1
+2013-12-31 09:18:45,198 RMS responded "OK" to send_data from SS 00066654B196
+2013-12-31 09:19:00,265 Id: 00066654B196 index: 26 HR: 147 RR: 47 act: 3, post: 3 T_amb: 27.6 T_corp: 23.0 batt: 76 rssi: -67 ap: 003A99C2E130 pckt_id: 1
+2013-12-31 09:19:00,390 RMS responded "OK" to send_data from SS 00066654B196
+2013-12-31 09:39:42,271 MW is alive
+2013-12-31 10:09:42,371 MW is alive
+2013-12-31 10:39:42,471 MW is alive
+2013-12-31 11:09:42,473 MW is alive
+2013-12-31 11:39:42,574 MW is alive
+2013-12-31 12:09:42,611 MW is alive
+2013-12-31 12:39:42,646 MW is alive
+2013-12-31 13:09:42,746 MW is alive
+2013-12-31 13:39:42,846 MW is alive
+2013-12-31 14:09:42,947 MW is alive
+2013-12-31 14:39:43,047 MW is alive
+2013-12-31 15:09:43,147 MW is alive
+2013-12-31 15:39:43,248 MW is alive
+2013-12-31 16:09:43,348 MW is alive
+2013-12-31 16:39:43,448 MW is alive
+2013-12-31 17:09:43,549 MW is alive
+2013-12-31 17:39:43,649 MW is alive
+2013-12-31 18:09:43,750 MW is alive
+2013-12-31 18:39:43,851 MW is alive
+2013-12-31 19:09:43,952 MW is alive
+2013-12-31 19:39:43,971 MW is alive
+2013-12-31 20:09:44,071 MW is alive
+2013-12-31 20:39:44,171 MW is alive
+2013-12-31 21:09:44,272 MW is alive
+2013-12-31 21:39:44,373 MW is alive
+2013-12-31 22:09:44,474 MW is alive
+2013-12-31 22:39:44,574 MW is alive
+2013-12-31 23:09:44,674 MW is alive
+2013-12-31 23:39:44,775 MW is alive
+2014-01-01 00:09:44,875 MW is alive
+2014-01-01 00:39:44,970 MW is alive
+2014-01-01 01:09:45,070 MW is alive
+2014-01-01 01:39:45,170 MW is alive
+2014-01-01 02:09:45,270 MW is alive
+2014-01-01 02:39:45,370 MW is alive
+2014-01-01 03:09:45,467 MW is alive
+2014-01-01 03:39:45,568 MW is alive
+2014-01-01 04:09:45,667 MW is alive
+2014-01-01 04:39:45,767 MW is alive
+2014-01-01 05:09:45,868 MW is alive
+2014-01-01 05:39:45,968 MW is alive
+2014-01-01 06:09:46,068 MW is alive
+2014-01-01 06:39:46,168 MW is alive
+2014-01-01 07:09:46,269 MW is alive
+2014-01-01 07:39:46,370 MW is alive
+2014-01-01 08:09:46,471 MW is alive
+2014-01-01 08:39:46,571 MW is alive
+2014-01-01 09:09:46,671 MW is alive
+2014-01-01 09:39:46,771 MW is alive
+2014-01-01 10:09:46,873 MW is alive
+2014-01-01 10:39:46,973 MW is alive
+2014-01-01 11:09:47,073 MW is alive
+2014-01-01 11:39:47,171 MW is alive
+2014-01-01 12:09:47,271 MW is alive
+2014-01-01 12:39:47,280 MW is alive
+2014-01-01 13:09:47,381 MW is alive
+2014-01-01 13:39:47,481 MW is alive
+2014-01-01 14:09:47,581 MW is alive
+2014-01-01 14:39:47,682 MW is alive
+2014-01-01 15:09:47,783 MW is alive
+2014-01-01 15:39:47,884 MW is alive
+2014-01-01 16:09:47,972 MW is alive
+2014-01-01 16:39:48,072 MW is alive
+2014-01-01 17:09:48,172 MW is alive
+2014-01-01 17:39:48,272 MW is alive
+2014-01-01 18:09:48,360 MW is alive
+2014-01-01 18:39:48,460 MW is alive
+2014-01-01 19:09:48,560 MW is alive
+2014-01-01 19:39:48,660 MW is alive
+2014-01-01 20:09:48,761 MW is alive
+2014-01-01 20:39:48,861 MW is alive
+2014-01-01 21:09:48,939 MW is alive
+2014-01-01 21:39:49,039 MW is alive
+2014-01-01 22:09:49,139 MW is alive
+2014-01-01 22:39:49,239 MW is alive
+2014-01-01 22:58:43,516 Shutting down
