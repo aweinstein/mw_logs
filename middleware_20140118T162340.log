@@ -1391,3 +1391,242 @@
 2014-01-19 14:00:42,371 RMS responded "OK" to send_data from SS 0006665129DF
 2014-01-19 14:00:42,929 RMS responded "OK" to send_data from SS 0006665129DF
 2014-01-19 14:23:43,984 MW is alive
+2014-01-19 14:53:44,084 MW is alive
+2014-01-19 15:23:44,184 MW is alive
+2014-01-19 15:53:44,281 MW is alive
+2014-01-19 16:07:34,133 Id: 0006665129DF index: 4 HR: 84 RR: 12 act: 3, post: 3 T_amb: 5.0 T_corp: 34.0 batt: 57 rssi: -12 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:07:34,310 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:07:49,208 Id: 0006665129DF index: 5 HR: 106 RR: 14 act: 2, post: 3 T_amb: 5.0 T_corp: 34.0 batt: 57 rssi: -12 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:07:49,338 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:11:01,935 Id: 0006665129DF index: 13 HR: 115 RR: 18 act: 2, post: 3 T_amb: 5.0 T_corp: 34.0 batt: 57 rssi: -12 ap: 002722F6F081 pckt_id: 2
+2014-01-19 16:11:01,947 Id: 0006665129DF index: 15 HR: 110 RR: 18 act: 3, post: 3 T_amb: 5.0 T_corp: 34.0 batt: 57 rssi: -12 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:11:02,088 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:11:02,579 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:11:16,985 Id: 0006665129DF index: 16 HR: 119 RR: 18 act: 3, post: 3 T_amb: 5.0 T_corp: 34.0 batt: 57 rssi: -12 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:11:17,073 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:11:32,060 Id: 0006665129DF index: 17 HR: 121 RR: 19 act: 1, post: 3 T_amb: 5.0 T_corp: 34.0 batt: 57 rssi: -12 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:11:32,185 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:11:34,234 Id: 0006665129DF index: 18 HR: 121 RR: 19 act: 1, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:11:34,366 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:11:49,285 Id: 0006665129DF index: 19 HR: 123 RR: 19 act: 1, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:11:49,385 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:12:04,335 Id: 0006665129DF index: 20 HR: 116 RR: 19 act: 1, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:12:04,453 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:12:19,409 Id: 0006665129DF index: 21 HR: 116 RR: 18 act: 2, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:12:19,538 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:12:34,460 Id: 0006665129DF index: 22 HR: 113 RR: 18 act: 2, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -59 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:12:34,573 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:12:36,760 Id: 0006665129DF index: 23 HR: 113 RR: 18 act: 2, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -68 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:12:36,856 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:12:51,785 Id: 0006665129DF index: 24 HR: 104 RR: 18 act: 1, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -68 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:12:51,882 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:13:06,860 Id: 0006665129DF index: 25 HR: 98 RR: 18 act: 1, post: 2 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -68 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:13:06,987 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:13:21,960 Id: 0006665129DF index: 26 HR: 119 RR: 19 act: 3, post: 2 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -68 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:13:22,137 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:23:44,344 MW is alive
+2014-01-19 16:25:40,273 Id: 0006665505BC index: 2 HR: 0 RR: 0 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 16:25:40,454 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:25:42,346 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:25:58,857 Id: 0006665505BC index: 3 HR: 0 RR: 0 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 16:25:58,945 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:26:15,472 Id: 0006665505BC index: 4 HR: 0 RR: 0 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 16:26:15,572 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:26:32,117 Id: 0006665505BC index: 5 HR: 0 RR: 0 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-19 16:26:32,215 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:26:34,271 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:26:37,377 Id: 0006665505BC index: 6 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.6 T_corp: 24.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:26:37,495 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:26:54,058 Id: 0006665505BC index: 7 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.6 T_corp: 24.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:26:54,164 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:27:10,732 Id: 0006665505BC index: 8 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.6 T_corp: 24.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:27:10,840 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:27:27,477 Id: 0006665505BC index: 9 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.6 T_corp: 24.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:27:27,642 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:27:44,042 Id: 0006665505BC index: 10 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.6 T_corp: 24.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:27:44,151 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:27:46,218 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:27:49,365 Id: 0006665505BC index: 11 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.4 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:27:49,473 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:28:06,045 Id: 0006665505BC index: 12 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.4 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:28:06,158 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:28:22,725 Id: 0006665505BC index: 13 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.4 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:28:22,834 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:28:39,398 Id: 0006665505BC index: 14 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.4 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:28:39,502 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:28:56,025 Id: 0006665505BC index: 15 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.4 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:28:56,129 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:28:58,189 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:29:01,267 Id: 0006665505BC index: 16 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.2 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:29:01,376 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:29:17,911 Id: 0006665505BC index: 17 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.2 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:29:18,020 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:29:34,544 Id: 0006665505BC index: 18 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.2 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:29:34,654 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:29:51,200 Id: 0006665505BC index: 19 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.2 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:29:51,305 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:30:07,850 Id: 0006665505BC index: 20 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.2 T_corp: 25.0 batt: 68 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:30:07,957 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:30:10,020 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:30:13,345 Id: 0006665505BC index: 21 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.0 T_corp: 25.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:30:13,454 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:30:29,997 Id: 0006665505BC index: 22 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.0 T_corp: 25.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:30:30,105 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:30:46,674 Id: 0006665505BC index: 23 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.0 T_corp: 25.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:30:46,807 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:31:03,172 Id: 0006665505BC index: 24 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.0 T_corp: 25.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:31:03,282 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:31:19,799 Id: 0006665505BC index: 25 HR: 0 RR: 0 act: 1, post: 3 T_amb: 31.0 T_corp: 25.0 batt: 68 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:31:19,909 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:31:21,976 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:31:25,053 Id: 0006665505BC index: 26 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 25.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:31:25,157 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:31:41,758 Id: 0006665505BC index: 27 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 25.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:31:41,883 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:31:58,437 Id: 0006665505BC index: 28 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 25.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:31:58,543 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:32:15,096 Id: 0006665505BC index: 29 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 25.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:32:15,202 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:32:31,738 Id: 0006665505BC index: 30 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 25.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:32:31,846 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:32:33,917 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:32:37,115 Id: 0006665505BC index: 31 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 26.0 batt: 68 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:32:37,219 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:32:53,744 Id: 0006665505BC index: 32 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 26.0 batt: 68 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:32:53,856 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:33:10,499 Id: 0006665505BC index: 33 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 26.0 batt: 68 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:33:10,604 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:33:27,146 Id: 0006665505BC index: 34 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 26.0 batt: 68 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:33:27,255 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:33:43,815 Id: 0006665505BC index: 35 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.8 T_corp: 26.0 batt: 68 rssi: -56 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:33:43,931 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:33:45,996 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:33:49,177 Id: 0006665505BC index: 36 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 68 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:33:49,280 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:34:05,837 Id: 0006665505BC index: 37 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 68 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:34:05,948 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:34:22,509 Id: 0006665505BC index: 38 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 68 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:34:22,615 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:34:39,166 Id: 0006665505BC index: 39 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 68 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:34:39,275 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:34:55,798 Id: 0006665505BC index: 40 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 68 rssi: -58 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:34:55,901 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:34:57,999 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:35:01,093 Id: 0006665505BC index: 41 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:35:01,216 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:35:17,593 Id: 0006665505BC index: 42 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:35:17,709 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:35:34,246 Id: 0006665505BC index: 43 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:35:34,352 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:35:50,911 Id: 0006665505BC index: 44 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:35:51,020 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:36:07,673 Id: 0006665505BC index: 45 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:36:07,787 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:36:09,946 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 16:36:13,089 Id: 0006665505BC index: 46 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:36:13,194 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:36:15,975 Id: 0006665129DF index: 28 HR: 119 RR: 19 act: 3, post: 2 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 16:36:16,011 Id: 0006665129DF index: 29 HR: 125 RR: 19 act: 3, post: 2 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-19 16:36:16,159 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:36:16,667 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:36:22,148 Id: 0006665129DF index: 31 HR: 129 RR: 19 act: 3, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:36:22,265 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:36:29,568 Id: 0006665505BC index: 47 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:36:29,687 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:36:37,253 Id: 0006665129DF index: 32 HR: 123 RR: 21 act: 2, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:36:37,350 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:36:46,271 Id: 0006665505BC index: 48 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 16:36:46,381 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 16:36:52,324 Id: 0006665129DF index: 33 HR: 126 RR: 20 act: 1, post: 3 T_amb: 5.0 T_corp: 32.0 batt: 53 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-19 16:36:52,461 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:36:54,625 Id: 0006665129DF index: 34 HR: 126 RR: 20 act: 1, post: 3 T_amb: 5.0 T_corp: 30.0 batt: 53 rssi: -74 ap: 003A9AE2C5A0 pckt_id: 1
+2014-01-19 16:36:54,794 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:37:09,698 Id: 0006665129DF index: 35 HR: 119 RR: 20 act: 3, post: 3 T_amb: 5.0 T_corp: 30.0 batt: 53 rssi: -74 ap: 003A9AE2C5A0 pckt_id: 1
+2014-01-19 16:37:09,837 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:37:24,753 Id: 0006665129DF index: 36 HR: 118 RR: 21 act: 3, post: 3 T_amb: 5.0 T_corp: 30.0 batt: 53 rssi: -74 ap: 003A9AE2C5A0 pckt_id: 1
+2014-01-19 16:37:24,914 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:37:39,823 Id: 0006665129DF index: 37 HR: 125 RR: 20 act: 3, post: 3 T_amb: 5.0 T_corp: 30.0 batt: 53 rssi: -74 ap: 003A9AE2C5A0 pckt_id: 1
+2014-01-19 16:37:39,932 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:37:54,900 Id: 0006665129DF index: 38 HR: 121 RR: 20 act: 3, post: 3 T_amb: 5.0 T_corp: 30.0 batt: 53 rssi: -74 ap: 003A9AE2C5A0 pckt_id: 1
+2014-01-19 16:37:55,010 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:37:57,149 Id: 0006665129DF index: 39 HR: 121 RR: 20 act: 3, post: 3 T_amb: 5.0 T_corp: 30.0 batt: 53 rssi: -63 ap: 003A99C2E130 pckt_id: 1
+2014-01-19 16:37:57,275 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:38:12,274 Id: 0006665129DF index: 40 HR: 125 RR: 20 act: 2, post: 3 T_amb: 5.0 T_corp: 30.0 batt: 53 rssi: -63 ap: 003A99C2E130 pckt_id: 1
+2014-01-19 16:38:12,377 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:38:30,274 Id: 0006665129DF index: 41 HR: 129 RR: 20 act: 1, post: 3 T_amb: 5.0 T_corp: 30.0 batt: 53 rssi: -63 ap: 003A99C2E130 pckt_id: 1
+2014-01-19 16:38:30,369 RMS responded "OK" to send_data from SS 0006665129DF
+2014-01-19 16:53:44,444 MW is alive
+2014-01-19 17:14:51,091 Id: 0006665505BC index: 2 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:14:51,275 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 17:14:53,183 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 17:15:09,715 Id: 0006665505BC index: 3 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:15:09,867 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 17:15:26,301 Id: 0006665505BC index: 4 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:15:26,510 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 17:15:42,897 Id: 0006665505BC index: 5 HR: 0 RR: 0 act: 1, post: 3 T_amb: 30.6 T_corp: 26.0 batt: 64 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:15:43,045 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 17:15:44,999 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 17:15:48,187 Id: 0006665505BC index: 6 HR: 0 RR: 0 act: 1, post: 3 T_amb: 28.4 T_corp: 24.0 batt: 64 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:15:48,336 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 17:16:04,709 Id: 0006665505BC index: 7 HR: 0 RR: 0 act: 1, post: 3 T_amb: 28.4 T_corp: 24.0 batt: 64 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:16:04,885 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 17:16:21,272 Id: 0006665505BC index: 8 HR: 0 RR: 0 act: 1, post: 3 T_amb: 28.4 T_corp: 24.0 batt: 64 rssi: -63 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:16:21,433 RMS responded "OK" to send_data from SS 0006665505BC
+2014-01-19 17:18:33,641 Id: 0006665505C5 index: 2 HR: 0 RR: 0 act: 1, post: 3 T_amb: 28.0 T_corp: 26.0 batt: 84 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:18:33,831 RMS responded "OK" to send_data from SS 0006665505C5
+2014-01-19 17:18:35,736 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-19 17:18:52,236 Id: 0006665505C5 index: 3 HR: 0 RR: 0 act: 3, post: 3 T_amb: 28.0 T_corp: 26.0 batt: 84 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:18:52,339 RMS responded "OK" to send_data from SS 0006665505C5
+2014-01-19 17:19:08,868 Id: 0006665505C5 index: 4 HR: 0 RR: 0 act: 1, post: 1 T_amb: 28.0 T_corp: 26.0 batt: 84 rssi: -57 ap: 003A99C80F10 pckt_id: 1
+2014-01-19 17:19:08,991 RMS responded "OK" to send_data from SS 0006665505C5
+2014-01-19 17:23:44,544 MW is alive
+2014-01-19 17:53:44,560 MW is alive
+2014-01-19 18:23:44,619 MW is alive
+2014-01-19 18:53:44,719 MW is alive
+2014-01-19 19:23:44,819 MW is alive
+2014-01-19 19:53:44,919 MW is alive
+2014-01-19 20:23:45,002 MW is alive
+2014-01-19 20:53:45,057 MW is alive
+2014-01-19 21:23:45,080 MW is alive
+2014-01-19 21:53:45,180 MW is alive
+2014-01-19 22:23:45,251 MW is alive
+2014-01-19 22:53:45,349 MW is alive
+2014-01-19 23:23:45,449 MW is alive
+2014-01-19 23:53:45,501 MW is alive
+2014-01-20 00:23:45,602 MW is alive
+2014-01-20 00:53:45,702 MW is alive
+2014-01-20 01:23:45,802 MW is alive
+2014-01-20 01:53:45,827 MW is alive
+2014-01-20 02:23:45,860 MW is alive
+2014-01-20 02:53:45,957 MW is alive
+2014-01-20 03:23:46,019 MW is alive
+2014-01-20 03:53:46,118 MW is alive
+2014-01-20 04:23:46,219 MW is alive
+2014-01-20 04:53:46,291 MW is alive
+2014-01-20 05:23:46,297 MW is alive
+2014-01-20 05:53:46,298 MW is alive
+2014-01-20 06:23:46,398 MW is alive
+2014-01-20 06:53:46,498 MW is alive
+2014-01-20 07:23:46,599 MW is alive
+2014-01-20 07:53:46,700 MW is alive
+2014-01-20 07:58:04,024 Id: 0006665505BF index: 2 HR: 20 RR: 8 act: 3, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-20 07:58:04,054 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BF
+2014-01-20 07:58:06,120 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-20 07:58:22,627 Id: 0006665505BF index: 3 HR: 20 RR: 8 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-20 07:58:22,646 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BF
+2014-01-20 07:58:41,698 Id: 0006665505BF index: 4 HR: 20 RR: 11 act: 1, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-20 07:58:41,722 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BF
+2014-01-20 07:58:58,263 Id: 0006665505BF index: 5 HR: 22 RR: 12 act: 2, post: 3 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-20 07:58:58,289 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BF
+2014-01-20 07:59:00,432 SOF or EOF of package does not match. Pckt=5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a:5a
+2014-01-20 07:59:03,588 Id: 0006665505BF index: 6 HR: 22 RR: 12 act: 2, post: 3 T_amb: 28.0 T_corp: 27.0 batt: 76 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-20 07:59:03,620 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BF
+2014-01-20 07:59:20,151 Id: 0006665505BF index: 7 HR: 22 RR: 15 act: 3, post: 3 T_amb: 28.0 T_corp: 27.0 batt: 76 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-20 07:59:20,172 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BF
+2014-01-20 07:59:37,474 Id: 0006665505BF index: 8 HR: 22 RR: 15 act: 2, post: 2 T_amb: 28.0 T_corp: 27.0 batt: 76 rssi: -61 ap: 003A99C80F10 pckt_id: 1
+2014-01-20 07:59:37,497 RMS responded "NOK: Device not in use" to send_data from SS 0006665505BF
+2014-01-20 08:23:46,800 MW is alive
+2014-01-20 08:53:46,829 MW is alive
+2014-01-20 09:23:46,851 MW is alive
+2014-01-20 09:53:46,951 MW is alive
+2014-01-20 10:23:46,973 MW is alive

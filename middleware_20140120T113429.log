@@ -1,0 +1,6 @@
+2014-01-20 11:34:30,025 RMS Soap Cliente created using http://10.69.208.124/Services/Server.svc?wsdl
+2014-01-20 11:34:30,026 Starting middleware
+2014-01-20 11:34:30,027 Listening to ip: 10.69.208.56, port: 50000, protocol: TCP
+2014-01-20 11:34:30,028 Listening to ip: 10.69.208.56, port: 50000, protocol: UDP
+2014-01-20 11:34:30,029 MW is alive
+2014-01-20 11:37:08,240 Shutting down

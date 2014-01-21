@@ -1,0 +1,57 @@
+2014-01-20 16:05:10,101 RMS Soap Cliente created using http://10.69.208.124/Services/Server.svc?wsdl
+2014-01-20 16:05:10,103 Starting middleware
+2014-01-20 16:05:10,103 Listening to ip: 10.69.208.56, port: 50000, protocol: TCP
+2014-01-20 16:05:10,104 Listening to ip: 10.69.208.56, port: 50000, protocol: UDP
+2014-01-20 16:05:10,105 MW is alive
+2014-01-20 16:08:50,423 Id: 0021CCD46B6B index: 64605 HR: 68 RR: 28 act: 3, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-20 16:08:50,669 RMS responded "NOK: No device with this ID" to send_data from SS 0021CCD46B6B
+2014-01-20 16:09:06,022 Id: 0021CCD46B6B index: 64605 HR: 74 RR: 18 act: 3, post: 2 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-20 16:09:06,040 RMS responded "NOK: No device with this ID" to send_data from SS 0021CCD46B6B
+2014-01-20 16:35:10,205 MW is alive
+2014-01-20 16:36:35,702 Id: 00066654B194 index: 15 HR: 84 RR: 15 act: 2, post: 1 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-20 16:36:36,970 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-20 16:44:13,934 Id: 00066654B194 index: 29 HR: 87 RR: 15 act: 1, post: 1 T_amb: 35.0 T_corp: 35.0 batt: 100 rssi: -50 ap: 40553994A9F4 pckt_id: 1
+2014-01-20 16:44:14,242 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-20 16:53:05,706 Id: 00066654B194 index: 59 HR: 87 RR: 15 act: 1, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-20 16:53:05,742 Id: 00066654B194 index: 60 HR: 91 RR: 14 act: 3, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 2
+2014-01-20 16:53:06,130 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-20 16:53:06,355 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-20 16:53:50,632 Id: 00066654B194 index: 64 HR: 87 RR: 15 act: 3, post: 1 T_amb: 35.0 T_corp: 64.0 batt: 57 rssi: -73 ap: 002722F6F081 pckt_id: 1
+2014-01-20 16:53:50,804 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-20 16:53:52,907 Id: 00066654B194 index: 65 HR: 87 RR: 15 act: 3, post: 1 T_amb: 35.0 T_corp: 65.0 batt: 57 rssi: -64 ap: 002722F6F081 pckt_id: 1
+2014-01-20 16:53:53,044 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-20 17:05:10,293 MW is alive
+2014-01-20 17:10:10,909 Id: 00066654B194 index: 70 HR: 87 RR: 15 act: 3, post: 1 T_amb: 35.0 T_corp: 63.0 batt: 57 rssi: -67 ap: 002722F6F081 pckt_id: 2
+2014-01-20 17:10:10,934 Id: 00066654B194 index: 71 HR: 105 RR: 14 act: 3, post: 1 T_amb: 35.0 T_corp: 63.0 batt: 57 rssi: -67 ap: 002722F6F081 pckt_id: 2
+2014-01-20 17:10:11,131 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-20 17:10:11,539 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-20 17:10:20,160 Id: 00066654B194 index: 73 HR: 102 RR: 14 act: 3, post: 1 T_amb: 35.0 T_corp: 63.0 batt: 57 rssi: -67 ap: 002722F6F081 pckt_id: 1
+2014-01-20 17:10:20,335 RMS responded "OK" to send_data from SS 00066654B194
+2014-01-20 17:35:10,394 MW is alive
+2014-01-20 18:05:10,467 MW is alive
+2014-01-20 18:35:10,568 MW is alive
+2014-01-20 19:05:10,669 MW is alive
+2014-01-20 19:35:10,677 MW is alive
+2014-01-20 20:05:10,777 MW is alive
+2014-01-20 20:35:10,878 MW is alive
+2014-01-20 21:05:10,923 MW is alive
+2014-01-20 21:35:11,024 MW is alive
+2014-01-20 22:05:11,124 MW is alive
+2014-01-20 22:35:11,145 MW is alive
+2014-01-20 23:05:11,245 MW is alive
+2014-01-20 23:35:11,346 MW is alive
+2014-01-21 00:05:11,346 MW is alive
+2014-01-21 00:35:11,447 MW is alive
+2014-01-21 01:05:11,547 MW is alive
+2014-01-21 01:35:11,647 MW is alive
+2014-01-21 02:05:11,747 MW is alive
+2014-01-21 02:35:11,847 MW is alive
+2014-01-21 03:05:11,947 MW is alive
+2014-01-21 03:35:12,016 MW is alive
+2014-01-21 04:05:12,116 MW is alive
+2014-01-21 04:35:12,216 MW is alive
+2014-01-21 05:05:12,316 MW is alive
+2014-01-21 05:35:12,416 MW is alive
+2014-01-21 06:05:12,474 MW is alive
+2014-01-21 06:35:12,574 MW is alive
+2014-01-21 07:05:12,674 MW is alive
